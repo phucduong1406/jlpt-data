@@ -1,0 +1,579 @@
+{
+  "level": "N1",
+  "exam_id": "N1-2025-12",
+  "sections": [
+    {
+      "sec": "問題1　___の言葉の読み方として最もよいものを、1・2・3・4 から一つ選びなさい｡",
+      "questions": [
+        {
+          "qid": 1,
+          "ques": "1．この棚は<u>頑丈</u>に作られている｡",
+          "options": {
+            "1": "1　がんじょう",
+            "2": "2　かんじょう",
+            "3": "3　がんじょ",
+            "4": "4　かんじょ"
+          },
+          "answer": "1",
+          "uexpl": "Cái kệ này được làm (chế tạo) rất chắc chắn.<br/>頑丈 chắc chắn, cứng cáp, khỏe mạnh"
+        },
+        {
+          "qid": 2,
+          "ques": "2．思わぬところに深刻な問題が<u>潜んで</u>いた｡",
+          "options": {
+            "1": "1　およんで",
+            "2": "2　からんで",
+            "3": "3　しずんで",
+            "4": "4　ひそんで"
+          },
+          "answer": "4",
+          "expl": "Vấn đề nghiêm trọng đã ẩn giấu, tiềm tàng ở một nơi không ngờ tới.<br/>潜む ẩn giấu, tiềm tàng, lẩn khuất (nguy cơ, vấn đề, ý đồ xấu…)"
+        },
+        {
+          "qid": 3,
+          "ques": "3．私は<u>行政</u>の仕事に携わっている｡",
+          "options": {
+            "1": "1　こうぜい",
+            "2": "2　こうせい",
+            "3": "3　ぎょうぜい",
+            "4": "4　ぎょうせい"
+          },
+          "answer": "4",
+          "expl": "Tôi đang tham gia vào các công việc liên quan đến hành chính.<br/>行政 hành chính, công vụ"
+        },
+        {
+          "qid": 4,
+          "ques": "4．中村氏は大学時代にその<u>卓越</u>した才能を開花させた｡",
+          "options": {
+            "1": "1　ちょうえつ",
+            "2": "2　たくえつ",
+            "3": "3　たくいつ",
+            "4": "4　ちょういつ"
+          },
+          "answer": "2",
+          "expl": "Ông Nakamura đã làm nở rộ (phát huy) tài năng xuất chúng của mình ngay từ thời còn học đại học.<br/>卓越 xuất sắc, xuất chúng, vượt trội"
+        },
+        {
+          "qid": 5,
+          "ques": "5．最近は会社の営業成績が<u>芳しくない</u>｡",
+          "options": {
+            "1": "1　ふさわしくない",
+            "2": "2　よろしくない",
+            "3": "3　かんばしくない",
+            "4": "4　いちじるしくない"
+          },
+          "answer": "3",
+          "expl": "Gần đây thành tích kinh doanh của công ty không được tốt.<br/>芳しい tốt, thuận lợi, khả quan"
+        },
+        {
+          "qid": 6,
+          "ques": "6．その件は市民生活課の<u>管轄</u>です｡",
+          "options": {
+            "1": "1　かんがつ",
+            "2": "2　かんかつ",
+            "3": "3　かんかい",
+            "4": "4　かんがい"
+          },
+          "answer": "2",
+          "expl": "Vấn đề đó thuộc phạm vi phụ trách / thẩm quyền của Phòng Đời sống Dân sinh.<br/>管轄 phạm vi quản lý, thẩm quyền phụ trách"
+        }
+      ]
+    },
+    {
+      "sec": "問題2　（　）に入れるのに最もよいものを、1・2・3・4 から一つ選びなさい｡",
+      "questions": [
+        {
+          "qid": 7,
+          "ques": "7．この学校では教育活動の（　）として、生徒に学校周辺のゴミ拾いをさせている｡",
+          "options": {
+            "1": "1　一因",
+            "2": "2　一環",
+            "3": "3　部門",
+            "4": "4　部下"
+          },
+          "answer": "2",
+          "expl": "Tại trường học này, việc làm sạch rác xung quanh trường là một phần của hoạt động giáo dục.<br/>一環(いかん) một phần, một bộ phận"
+        },
+        {
+          "qid": 8,
+          "ques": "8．試合の前半はAチームは1点（　）していたが、後半2点取られて逆転された｡",
+          "options": {
+            "1": "1　プラス",
+            "2": "2　アップ",
+            "3": "3　リード",
+            "4": "4　キャッチ"
+          },
+          "answer": "3",
+          "expl": "Trong hiệp một của trận đấu, đội A đã dẫn trước 1 điểm, nhưng trong hiệp hai họ đã để thua ngược khi bị ghi 2 điểm.<br/>リード dẫn trước (trong thể thao)"
+        },
+        {
+          "qid": 9,
+          "ques": "9．二人の若手ピアニストの実力は（　）でコンクールでとちらが優勝するか予想がつかない｡",
+          "options": {
+            "1": "1　均一",
+            "2": "2　互角",
+            "3": "3　間近",
+            "4": "4　並列"
+          },
+          "answer": "2",
+          "expl": "Hai nghệ sĩ pianist trẻ tuổi có thực lực ngang nhau, nên không thể đoán trước ai sẽ thắng trong cuộc thi.<br/>互角(ごかく) ngang nhau; 均一(きんいつ) đồng nhất, giống nhau; 間近(まぢか) gần kề; 並列(へいれつ) song song, ngang hàng"
+        },
+        {
+          "qid": 10,
+          "ques": "10．毎朝店長がアルバイトの店員にその日の仕事を（　）｡",
+          "options": {
+            "1": "1　差し出す",
+            "2": "2　振りまく",
+            "3": "3　割り当てる",
+            "4": "4　引き渡す"
+          },
+          "answer": "3",
+          "expl": "Mỗi sáng, quản lý cửa hàng giao việc cho nhân viên bán thời gian.<br/>割り当てる phân công; 差し出す đưa ra; 振りまく rải, rắc; 引き渡す giao (hàng hóa, con tin...)"
+        },
+        {
+          "qid": 11,
+          "ques": "11．（　）準備して大会本番に臨んだ｡",
+          "options": {
+            "1": "1　周到な",
+            "2": "2　強固な",
+            "3": "3　濃厚な",
+            "4": "4　果敵な"
+          },
+          "answer": "1",
+          "expl": "Chuẩn bị kỹ lưỡng trước khi bước vào buổi thi chính thức.<br/>周到な chuẩn bị kỹ lưỡng; 強固な vững chắc; 濃厚な đậm đặc; 果敵な quyết liệt, dữ dội"
+        },
+        {
+          "qid": 12,
+          "ques": "12．登山の途中で雨が降ってきたので、（　）近くの山小屋で休憩し、雨が止むのを待つことにした｡",
+          "options": {
+            "1": "1　さきごろ",
+            "2": "2　いつしか",
+            "3": "3　いまに",
+            "4": "4　ひとまず"
+          },
+          "answer": "4",
+          "expl": "Trên đường leo núi thì trời bắt đầu mưa, nên tôi quyết định tạm thời nghỉ ngơi ở nhà nghỉ núi gần đó và chờ mưa tạnh.<br/>ひとまず tạm thời; さきごろ gần đây; いつしか không biết từ lúc nào; いまに chẳng mấy chốc"
+        },
+        {
+          "qid": 13,
+          "ques": "13．嫌なことがあって、気分が（　）していたたが、カラオケで大声で歌ったらすっきりした｡",
+          "options": {
+            "1": "1　はらはら",
+            "2": "2　ひやひや",
+            "3": "3　おどおど",
+            "4": "4　むしゃくしゃ"
+          },
+          "answer": "4",
+          "expl": "Có việc gì đó khiến tôi cảm thấy bực bội, nhưng khi hát lớn trong phòng karaoke thì cảm giác đã nhẹ nhàng hơn.<br/>むしゃくしゃ bực bội, khó chịu; はらはら lo lắng; ひやひや sợ hãi; おどおど rụt rè, bồn chồn"
+        }
+      ]
+    },
+    {
+      "sec": "問題3　___の言葉に意味が最も近いものを、1・2・3・4 から一つ選びなさい｡",
+      "questions": [
+        {
+          "qid": 14,
+          "ques": "14．あまり<u>誇張して</u>話すのは良くない｡",
+          "options": {
+            "1": "1　おおげさに",
+            "2": "2　勝手に",
+            "3": "3　自慢して",
+            "4": "4　いらいらして"
+          },
+          "answer": "1",
+          "expl": "Không nên nói quá lên.<br/>誇張する phóng đại, nói quá; 勝手に tùy tiện; 自慢する tự mãn; いらいらする sốt ruột, bực bội"
+        },
+        {
+          "qid": 15,
+          "ques": "15．私たちは<u>ひそかに</u>計画を進めていた｡",
+          "options": {
+            "1": "1　ずっと",
+            "2": "2　しっかり",
+            "3": "3　こっそり",
+            "4": "4　すでに"
+          },
+          "answer": "3",
+          "expl": "Chúng tôi tiến hành kế hoạch một cách kín đáo.<br/>ひそかに kín đáo, bí mật; ずっと lâu dài; しっかり chắc chắn; すでに đã"
+        },
+        {
+          "qid": 16,
+          "ques": "16．この大会に出場するまでに多くの<u>試練</u>があった｡",
+          "options": {
+            "1": "1　苦難",
+            "2": "2　競争",
+            "3": "3　支援",
+            "4": "4　反省"
+          },
+          "answer": "1",
+          "expl": "Trong quá trình chuẩn bị cho cuộc thi, chúng tôi đã trải qua nhiều thử thách.<br/>試練(しせん) thử thách, khó khăn; 苦難(くなん) khổ nạn; 競争(きょうそう) cạnh tranh; 支援(しえん) hỗ trợ; 反省(はんせい) tự phê bình"
+        },
+        {
+          "qid": 17,
+          "ques": "17．山口さんが<u>うろたえる</u>姿を初めて見た｡",
+          "options": {
+            "1": "1　落ち込む",
+            "2": "2　慌てる",
+            "3": "3　威張る",
+            "4": "4　悔しがる"
+          },
+          "answer": "2",
+          "expl": "Tôi lần đầu tiên thấy hình ảnh của Yamaguchi-san đang bối rối.<br/>うろたえる bối rối, hoảng hốt; 落ち込む chán nản; 威張る kiêu ngạo; 悔しがる hối hận"
+        },
+        {
+          "qid": 18,
+          "ques": "18．今後、同様のことが起きることは<u>当面</u>ないだろう｡",
+          "options": {
+            "1": "1　絶対",
+            "2": "2　しばらく",
+            "3": "3　あまり",
+            "4": "4　多分"
+          },
+          "answer": "2",
+          "expl": "Có lẽ sẽ không có chuyện tương tự xảy ra trong một thời gian nữa.<br/>当面(とうめん) trước mắt, tạm thời; 絶対(ぜったい) tuyệt đối; あまり không mấy; 多分(たぶん) có lẽ"
+        },
+        {
+          "qid": 19,
+          "ques": "19．衣装はいつも<u>自前である</u>｡",
+          "options": {
+            "1": "1　自分で買う",
+            "2": "2　自分で決める",
+            "3": "3　自分でデザインする",
+            "4": "4　自分でチェックする"
+          },
+          "answer": "1",
+          "expl": "Trang phục luôn do tự mình chuẩn bị.<br/>自前である tự mình chuẩn bị, tự túc; 自分で決める tự quyết định; 自分でデザインする tự thiết kế; 自分でチェックする tự kiểm tra"
+        }
+      ]
+    },
+    {
+      "sec": "問題4　次の言葉の使い方として、最もよいものを 1・2・3・4 から一つ選びなさい｡",
+      "questions": [
+        {
+          "qid": 20,
+          "ques": "20．運用",
+          "options": {
+            "1": "1　最近は外来語が増え、カタカナが多く<u>運用</u>されるようになった｡",
+            "2": "2　本日は点検のため、エレベーターは<u>運用</u>できません｡",
+            "3": "3　会社の資金をどう<u>運用</u>するかで、社長と会長の意見が分かれている｡",
+            "4": "4　監替は次の試合で新人選手を<u>運用</u>することを決めた。"
+          },
+          "answer": "3",
+          "expl": "Về việc sẽ vận dụng (quản lý/đầu tư) nguồn vốn của công ty như thế nào, ý kiến của giám đốc và chủ tịch đang bị chia rẽ.<br/>運用(うんよう) vận dụng, quản lý (tiền bạc, nguồn lực)"
+        },
+        {
+          "qid": 21,
+          "ques": "21．抜き打ち",
+          "options": {
+            "1": "1　さっきまで晴れていたのに、<u>抜き打ち</u>で雨が降り出した｡",
+            "2": "2　前を走っている車が<u>抜き打ち</u>でブレーキをかけた｡",
+            "3": "3　工場への立ち入り検査は、<u>抜き打ち</u>で実施された｡",
+            "4": "4　家族で旅行に行ったら、学校の友達と<u>抜き打ち</u>で会った。"
+          },
+          "answer": "3",
+          "expl": "Cuộc kiểm tra đột xuất tại nhà máy đã được tiến hành.<br/>抜き打ち(ぬきうち) đột xuất, bất ngờ"
+        },
+        {
+          "qid": 22,
+          "ques": "22．かすれる",
+          "options": {
+            "1": "1　卒業後連絡が<u>かすれ</u>いた友人と、最近また会うようになった。",
+            "2": "2　健康のため調味料の量を減らしたら、味が<u>かすれて</u>おいしくなかった。",
+            "3": "3　うちの子は今ではゲームへの関心が<u>かすれ</u>、ほとんどしなくなった｡",
+            "4": "4　小林さんは風邪をひいているのか声が<u>かすれて</u>いて、話が聞き取りにくい。"
+          },
+          "answer": "4",
+          "expl": "Tiếng nói của Kobayashi bị khàn vì bị cảm lạnh, khiến người nghe khó hiểu.<br/>かすれる khàn (giọng), mờ nhạt (âm thanh, màu sắc, chữ viết)"
+        },
+        {
+          "qid": 23,
+          "ques": "23．緻密",
+          "options": {
+            "1": "1　福田さんは記憶力がよく、知人の住所や電話番号をすべて<u>緻密</u>に覚えているそうだ｡",
+            "2": "2　旅行先での宿の主人の<u>緻密</u>なもてなしに感激した｡",
+            "3": "3　段階で転ばないように一歩ずつ<u>緻密</u>に上がっていた｡",
+            "4": "4　<u>緻密</u>な観察が新しい微生物の発見につながった。"
+          },
+          "answer": "4",
+          "expl": "Quan sát kỹ lưỡng đã dẫn đến việc phát hiện ra vi khuẩn mới.<br/>緻密(ちみつ) kỹ lưỡng, tỉ mỉ"
+        },
+        {
+          "qid": 24,
+          "ques": "24．迫力",
+          "options": {
+            "1": "1　新しい掃除機は、ごみを吸う<u>迫力</u>が以前の約３倍となっている。",
+            "2": "2　初めて動物園で見たライオンは、体が大きくて<u>迫力</u>があった｡",
+            "3": "3　天気予報によると、午後から雨の<u>迫力</u>が増していくらしい。",
+            "4": "4　福田さんは一日中作業しても元気なので、<u>迫力</u>があると思う｡"
+          },
+          "answer": "2",
+          "expl": "Con sư tử mà tôi lần đầu tiên nhìn thấy ở sở thú có thân hình to lớn và rất có uy lực.<br/>迫力(はくりょく) uy lực, sức mạnh"
+        },
+        {
+          "qid": 25,
+          "ques": "25．目まぐるしい",
+          "options": {
+            "1": "1　この滝は、高い崖の上から大量の水が<u>目まぐるしく</u>流れ、実に見事だ｡",
+            "2": "2　現代は情報化が進み、新しいものが次々と<u>目まぐるしく</u>入れ替わっていく｡",
+            "3": "3　夏の太陽が<u>目まぐるしい</u>ので、サングラスをかけて歩くことにした｡",
+            "4": "4　昨夜、徹夜でレポートを書いたせいで、今日はとても<u>目まぐるしい</u>。"
+          },
+          "answer": "2",
+          "expl": "Ngày nay, khi công nghệ thông tin phát triển, những thứ mới liên tục thay đổi một cách chóng mặt.<br/>目まぐるしい chóng mặt, nhanh chóng thay đổi"
+        }
+      ]
+    },
+    {
+      "sec": "問題5　次の文の（　）に入れるのに最もよいものを、1・2・3・4から一つ選びなさい｡",
+      "questions": [
+        {
+          "qid": 26,
+          "ques": "26．草取りを始めたが、思っていたよりも大変で、一日では（　）終わりそうにない｡",
+          "options": {
+            "1": "1　仮に",
+            "2": "2　今にも",
+            "3": "3　とても",
+            "4": "4　まもなく"
+          },
+          "answer": "3",
+          "expl": "Tôi đã bắt đầu nhổ cỏ, nhưng nó khó hơn tôi nghĩ, nên có vẻ không thể kết thúc trong một ngày được.<br/>とても không thể (dùng với thể phủ định); 仮に giả sử; 今にも sắp sửa; まもなく chẳng mấy chốc"
+        },
+        {
+          "qid": 27,
+          "ques": "27．今回のプロジェクトは、地域住民の協力（　）実現しなかった｡",
+          "options": {
+            "1": "1　をはじめて",
+            "2": "2　なくしては",
+            "3": "3　とあって",
+            "4": "4　のみならず"
+          },
+          "answer": "2",
+          "expl": "Dự án lần này đã không thể thực hiện được nếu không có sự hợp tác của cư dân địa phương.<br/>なくしては nếu không có; をはじめて chỉ khi có; とあって vì (lý do đặc biệt); のみならず không chỉ ~ mà còn ~"
+        },
+        {
+          "qid": 28,
+          "ques": "28．私は飛行機が苦手だ。飛行機に乗る（　）、何時間かかっても電車や車で行くほうがいい｡",
+          "options": {
+            "1": "1　うえで",
+            "2": "2　わりに",
+            "3": "3　どころか",
+            "4": "4　くらいなら"
+          },
+          "answer": "4",
+          "expl": "Tôi ghét đi máy bay. Nếu phải đi máy bay thì tôi nghĩ rằng nên đi bằng tàu hỏa hoặc xe hơi dù mất nhiều thời gian hơn.<br/>くらいなら nếu phải ~ thì thà ~ còn hơn; うえで sau khi; わりに so với; どころか không những không ~ mà còn ~"
+        },
+        {
+          "qid": 29,
+          "ques": "29．この仮説を正しい（　）まだデータ数が十分ではないため、さらなる調査が必要だ｡",
+          "options": {
+            "1": "1　とするには",
+            "2": "2　となるには",
+            "3": "3　とすると",
+            "4": "4　となるとは"
+          },
+          "answer": "1",
+          "expl": "Nếu coi giả thuyết này là đúng thì số liệu hiện tại vẫn chưa đủ, vì vậy cần tiến hành điều tra thêm.<br/>とするには nếu coi ~ là đúng thì; となるには nếu trở thành ~ thì; とすると nếu coi ~ là đúng thì; となるとは nếu trở thành ~ thì"
+        },
+        {
+          "qid": 30,
+          "ques": "30．田中選手は、度重なるけがに（　）、それを克服してオリンピック出場を果たした｡",
+          "options": {
+            "1": "1　悩ませながらも",
+            "2": "2　悩ませたあげく",
+            "3": "3　悩まされながらも",
+            "4": "4　悩まされたあげく"
+          },
+          "answer": "3",
+          "expl": "Mặc dù bị những chấn thương lặp đi lặp lại làm phiền, nhưng vận động viên Tanaka đã vượt qua chúng và giành quyền tham dự Olympic.<br/>悩まされながらも mặc dù bị làm phiền; 悩ませながらも mặc dù làm phiền; 悩まされたあげく sau khi bị làm phiền; 悩ませたあげく sau khi làm phiền"
+        },
+        {
+          "qid": 31,
+          "ques": "31．引越しの予定は半年後だからまだまだ先だが、早く準備を始める（　)と思い、少しずつ片付けを進めている｡",
+          "options": {
+            "1": "1　勢いだ",
+            "2": "2　ことは否めない",
+            "3": "3　見込みだ",
+            "4": "4　に越したことはない"
+          },
+          "answer": "4",
+          "expl": "Nếu phải đi bằng tàu hỏa hoặc xe hơi dù mất nhiều thời gian hơn thì tôi nghĩ rằng nên đi bằng tàu hỏa hoặc xe hơi.<br/>くらいなら nếu phải ~ thì thà ~ còn hơn; うえで sau khi; わりに so với; どころか không những không ~ mà còn ~"
+        },
+        {
+          "qid": 32,
+          "ques": "32．A「ああ、こんな道が渋滞していなければ、今頃とっくに着いて（　）のに」<br/>B「そうだね。」",
+          "options": {
+            "1": "1　遊んだ",
+            "2": "2　遊びたかった",
+            "3": "3　遊んでいた",
+            "4": "4　遊んでいたかった"
+          },
+          "answer": "3",
+          "expl": "A: Ah, nếu con đường này không bị tắc nghẽn thì bây giờ chúng ta đã đến từ lâu rồi.<br/>B: Đúng vậy.<br/>遊んでいた đã chơi (đang chơi); 遊んだ đã chơi; 遊びたかった đã muốn chơi; 遊んでいたかった đã muốn chơi (đang chơi)"
+        },
+        {
+          "qid": 33,
+          "ques": "33．けんか中の父と母を仲直りさせられそうだったのに、姉が話を蒸し返したせいで、うまくいかなくなってしまった。まったく、余計なことを（　）｡",
+          "options": {
+            "1": "1　してくれたものだ",
+            "2": "2　しかねないものだ",
+            "3": "3　してくれたはずだ",
+            "4": "4　しかねないはずだ"
+          },
+          "answer": "1",
+          "expl": "Tôi đã có thể làm cho bố mẹ tôi làm lành sau khi cãi nhau, nhưng vì chị gái tôi đã đào lại chuyện cũ nên mọi việc không suôn sẻ nữa. Thật là, chị ấy đã làm chuyện không cần thiết.<br/>余計なことをしてくれたものだ đã làm chuyện không cần thiết"
+        },
+        {
+          "qid": 34,
+          "ques": "34．（弁護士へのインタビューで）<br/>A「弁護士として毎日お忙しいと思いますが、休日はどのようにお過ごしですか。」<br/>B「家にいることが多いですね。弁護士は人と話すのが仕事（　）ので、休日は一人でゆっくりしたいんです。」",
+          "options": {
+            "1": "1　らしいことである",
+            "2": "2　らしいところがある",
+            "3": "3　みたいなことである",
+            "4": "4　みたいなところがある"
+          },
+          "answer": "4",
+          "expl": "B: Vì công việc của luật sư là nói chuyện với mọi người, nên vào ngày nghỉ tôi muốn được thư giãn một mình.<br/>～らしいところがある có vẻ như ~; ～みたいなところがある có vẻ như ~"
+        },
+        {
+          "qid": 35,
+          "ques": "35．もう一か月近く雨が降っていない。晴れの日が続くのはうれしいが、水不足などの問題を考えると、（　）｡",
+          "options": {
+            "1": "1　喜んだだけにすぎない",
+            "2": "2　喜んでばかりもいられない",
+            "3": "3　喜んでしまうところだった",
+            "4": "4　喜んでいないのではないか"
+          },
+          "answer": "2",
+          "expl": "Mặc dù tôi rất vui khi những ngày nắng kéo dài, nhưng khi nghĩ đến các vấn đề như thiếu nước thì tôi không thể cứ mãi vui vẻ được.<br/>～ばかりもいられない không thể cứ mãi ~ được"
+        }
+      ]
+    },
+    {
+      "sec": "問題6　次の文の_★_に入る最もよいものを、1・2・3・4から一つ選びなさい｡",
+      "questions": [
+        {
+          "qid": 36,
+          "ques": "36．（会社で）<br/>高橋「さっき、また課長と西山さんがもめてたね」<br/>上田「自分の主張を譲らない西山さん ___ _★_ ___ ___ も課長だね。すぐ感情的になるんだから」",
+          "options": {
+            "1": "1　なら",
+            "2": "2　も",
+            "3": "3　西山さん",
+            "4": "4　課長"
+          },
+          "answer": "3",
+          "expl": "自分の主張を譲らない西山さんも西山さんなら、課長も課長だ。 (2-3-1-4)<br/>Cả Nishiyama-san không chịu nhượng bộ trong lập trường của mình, và cả trưởng phòng cũng vậy. Ông ấy dễ dàng trở nên cảm tính."
+        },
+        {
+          "qid": 37,
+          "ques": "37．トラブルが ___ _★_ ___ ___ トラブルだ｡",
+          "options": {
+            "1": "1　起きないように",
+            "2": "2　起きるときには",
+            "3": "3　起きてしまうのが",
+            "4": "4　どんなに気をつけていても"
+          },
+          "answer": "4",
+          "expl": "トラブルが起きないようにどんなに気をつけていても、起きるときには起きてしまうのがトラブルだ。（1-4-2-3）<br/>Dù có cẩn thận đến đâu để tránh rắc rối, thì khi rắc rối xảy ra thì nó vẫn sẽ xảy ra."
+        },
+        {
+          "qid": 38,
+          "ques": "38．俳優の村川たかしが今回の作品で ___ ___ _★_ ___ と言えるだろう｡",
+          "options": {
+            "1": "1　自然な演技は",
+            "2": "2　長年会社務めをしてきた",
+            "3": "3　彼ならでは",
+            "4": "4　見せた"
+          },
+          "answer": "2",
+          "expl": "俳優の村川たかしが今回の作品で見せた自然な演技は【長年会社勤めをしてきた】彼ならではと言えるだろう。（4-1-2-3）<br/>Diễn xuất tự nhiên của diễn viên Takashi Murakawa trong tác phẩm lần này có thể nói là đặc trưng chỉ có ở anh ấy, người đã làm việc cho công ty trong nhiều năm."
+        },
+        {
+          "qid": 39,
+          "ques": "39．普段は無口な息子だが、昨日は校内のマラソン大会で入賞した ___ ___ _★_ ___ 、楽しそうに話してくれた｡",
+          "options": {
+            "1": "1　のか",
+            "2": "2　ことが",
+            "3": "3　家に帰ってくるなり",
+            "4": "4　よほどうれしかった"
+          },
+          "answer": "1",
+          "expl": "普段は無口な息子だが、昨日は校内のマラソン大会で入賞したことがよほどうれしかったのか、家に帰ってくるなり、楽しそうに話してくれた｡(3-4-1-2)<br/>Con trai tôi thường ít nói, nhưng hôm qua khi nó về nhà sau khi giành giải trong cuộc thi marathon trong trường, có lẽ vì nó rất vui nên nó đã nói chuyện với tôi một cách vui vẻ."
+        },
+        {
+          "qid": 40,
+          "ques": "40．友人が突然大学をやめると言い出した。将来のことを ___ ___ _★_ ___ 思えないので、考え直すように説得している｡",
+          "options": {
+            "1": "1　応援したいが",
+            "2": "2　決断ならば",
+            "3": "3　よく考えたうえでの",
+            "4": "4　そうは"
+          },
+          "answer": "1",
+          "expl": "将来のことをよく考えたうえでの決断ならば、応援したいが、そうは思えないので、説得している。（3-2-1-4）<br/>Nếu đó là một quyết định được đưa ra sau khi suy nghĩ kỹ về tương lai, tôi muốn ủng hộ, nhưng tôi không nghĩ vậy, nên tôi đang thuyết phục bạn tôi suy nghĩ lại."
+        }
+      ]
+    },
+    {
+      "sec": "問題7　次の文章を読んで、文章全体の内容を考えて、（ 41 ）から（ 44 ）の中に入る最もよいものを、1・2・3・4から一つ選びなさい｡",
+      "questions": [
+        {
+          "qid": 41,
+          "ques": "41．",
+          "options": {
+            "1": "1　よくないせいだとします",
+            "2": "2　よくないことにもあります",
+            "3": "3　よくないときだといえます",
+            "4": "4　よくないからでもあります"
+          },
+          "answer": "4",
+          "expl": "",
+          "pid": 13
+        },
+        {
+          "qid": 42,
+          "ques": "42．",
+          "options": {
+            "1": "1　示すのです",
+            "2": "2　示しそうです",
+            "3": "3　示してばかります",
+            "4": "4　示したものです"
+          },
+          "answer": "1",
+          "expl": "",
+          "pid": 13
+        },
+        {
+          "qid": 43,
+          "ques": "43．",
+          "options": {
+            "1": "1　利用させずに",
+            "2": "2　利用すれば",
+            "3": "3　利用させることで",
+            "4": "4　利用するまでもなく"
+          },
+          "answer": "2",
+          "expl": "",
+          "pid": 13
+        },
+        {
+          "qid": 44,
+          "ques": "44．",
+          "options": {
+            "1": "1　あるいは",
+            "2": "2　ちなみに",
+            "3": "3　そこで",
+            "4": "4　すなわち"
+          },
+          "answer": "3",
+          "expl": "",
+          "pid": 13
+        }
+      ]
+    }
+  ],
+  "passages": [
+    {
+      "pid": 13,
+      "passage": "<div style=\"line-height: 1.8;\">ネコの目の前に指先を出すと、必ずクンクン匂いをかぎますね。じつは、これはネコ同士のあいさつに由来するしぐさです。<br/>私たち人間はおじぎをしたり握手をしてあいさつをしますが、ネコたちにとっては、鼻と鼻を近づけてお互いのにおいをかぐのがあいさつです。ネコの口のまわりには、<ruby>臭腺<rt style=\"letter-spacing: -0.08em;\">しゅうせん</rt></ruby>といって、特別なにおいを出す器官があります。そのにおいはネコによって異なるため、鼻を近づけると相手がどこの誰か、そして敵か味方かなどの情報を知ることができるのです。<br/>このように、ネコがにおいで相手を確認するのは、目があまり<span class=\"text-red-700\">（ 41 ）</span>。ネコは肉食のハンターですから抜群の視力をもっていそうですが、人間にたとえると0.3程度の近眼だとされています。つまり、かなり近づかないと相手の顔を確認できないということ。<br/>だから、人間の指先を見ても、ネコは鼻を近づけられたと勘違いして同じ反応を<span class=\"text-red-700\">（ 42 ）</span>。指先だとわかっていても、習慣的に「とりあえず、あいさつだけはしておこう」と考えるのでしょう。おきまりのクンクンが始まります。この習性を<span class=\"text-red-700\">（ 43 ）</span>、初対面のネコとも仲よくできます。いくら<ruby>可愛<rp>(</rp><rt>かわい</rt><rp>)</rp></ruby>いネコでも、いきなりなでたり抱っこしようとすれば嫌がります。それは、あなたが何者かわからないからです。<span class=\"text-red-700\">（ 44 ）</span>、まずは指先をネコの鼻に近つけてみます。ひととおり指のにおいをかいだ後でネコが逃げなければ、それはあなたに好意をもったという証拠ですから、そっと触れても嫌がらないはずです｡</div>"
+    }
+  ]
+}

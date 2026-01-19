@@ -1,0 +1,408 @@
+{
+  "level": "N3",
+  "exam_id": "N3-2025-7",
+  "sections": [
+    {
+      "sec": "問題1",
+      "questions": [
+        {
+          "qid": 1,
+          "ques": "1 ばん",
+          "options": {
+            "1": "1　しんしつのたなに<ruby>入<rt>い</rt>れる</ruby>",
+            "2": "2　<ruby>花<rt>はな</rt>子<rt>こ</rt></ruby>にわたす",
+            "3": "3　はこを<ruby>開<rt>あ</rt>けて</ruby>みる",
+            "4": "4　げんかんにおいておく"
+          },
+          "answer": "",
+          "expl": null,
+          "pid": 0
+        },
+        {
+          "qid": 2,
+          "ques": "2 ばん",
+          "options": {
+            "1": "1　しりょうをいんさつする",
+            "2": "2　しりょうをもう<ruby>一<rt>いち</rt>度<rt>ど</rt></ruby>チェックする",
+            "3": "3　パソコンをじゅんびする",
+            "4": "4　マイクのテストをする"
+          },
+          "answer": "",
+          "expl": null,
+          "pid": 0
+        },
+        {
+          "qid": 3,
+          "ques": "3番",
+          "options": {
+            "1": "1　かいぎに<ruby>出<rt>で</rt>る</ruby>",
+            "2": "2　エアコンのしゅうりをたのむ",
+            "3": "3　<ruby>銀<rt>ぎん</rt>行<rt>こう</rt></ruby>に<ruby>行<rt>い</rt>く</ruby>",
+            "4": "4　はこをそこに<ruby>運<rt>はこ</rt>ぶ</ruby>"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 0
+        },
+        {
+          "qid": 4,
+          "ques": "4番",
+          "options": {
+            "1": "1　ことばのまちがいをなおす",
+            "2": "2　クラスで<ruby>習<rt>なら</rt>った</ruby><ruby>文<rt>ぶん</rt>法<rt>ぽう</rt></ruby>を<ruby>使<rt>つか</rt>う</ruby>",
+            "3": "3　<ruby>文<rt>ぶん</rt></ruby>と<ruby>文<rt>ぶん</rt></ruby>をむすぶことばを<ruby>足<rt>た</rt>す</ruby>",
+            "4": "4　ないようをふやす"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 0
+        },
+        {
+          "qid": 5,
+          "ques": "5番<img src=\"/images/jlpt/N3-2025-7-1.png\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "options": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 0
+        },
+        {
+          "qid": 6,
+          "ques": "6番",
+          "options": {
+            "1": "1　ゴミに<ruby>出<rt>だ</rt>す</ruby>",
+            "2": "2　<ruby>友<rt>とも</rt>達<rt>だち</rt></ruby>にあげる",
+            "3": "3　こうりゅうセンターに<ruby>持<rt>も</rt>って</ruby>いく",
+            "4": "4　インターネットで<ruby>売<rt>う</rt>る</ruby>"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 0
+        }
+      ]
+    },
+    {
+      "sec": "問題2",
+      "questions": [
+        {
+          "qid": 7,
+          "ques": "1番",
+          "options": {
+            "1": "1　<ruby>海<rt>うみ</rt></ruby>へあそびに<ruby>行<rt>い</rt>く</ruby>",
+            "2": "2　やまのぼりをする",
+            "3": "3　おまつりを<ruby>見<rt>み</rt>に</ruby><ruby>行<rt>い</rt>く</ruby>",
+            "4": "4　お<ruby>寺<rt>てら</rt></ruby>を<ruby>見<rt>み</rt>に</ruby><ruby>行<rt>い</rt>く</ruby>"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 1
+        },
+        {
+          "qid": 8,
+          "ques": "2番",
+          "options": {
+            "1": "1　<ruby>水<rt>すい</rt>曜<rt>よう</rt></ruby>のグループ<ruby>会<rt>かい</rt>議<rt>ぎ</rt></ruby>レッスン",
+            "2": "2　<ruby>水<rt>すい</rt>曜<rt>よう</rt></ruby>の<ruby>個<rt>こ</rt>人<rt>じん</rt></ruby>レッスン",
+            "3": "3　<ruby>金<rt>きん</rt>曜<rt>よう</rt></ruby>のグループ<ruby>会<rt>かい</rt>議<rt>ぎ</rt></ruby>レッスン",
+            "4": "4　<ruby>金<rt>きん</rt>曜<rt>よう</rt></ruby>の<ruby>個<rt>こ</rt>人<rt>じん</rt></ruby>レッスン"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 1
+        },
+        {
+          "qid": 9,
+          "ques": "3番",
+          "options": {
+            "1": "1　<ruby>作<rt>さっ</rt>家<rt>か</rt></ruby>が<ruby>言<rt>い</rt>いたい</ruby>こと",
+            "2": "2　<ruby>本<rt>ほん</rt></ruby>をえらんだり<ruby>由<rt>ゆう</rt>りゅう</ruby>",
+            "3": "3　<ruby>本<rt>ほん</rt></ruby>に<ruby>出<rt>で</rt>て</ruby>くる<ruby>人<rt>ひと</rt></ruby>と<ruby>自<rt>じ</rt>分<rt>ぶん</rt></ruby>とのきょうつう<ruby>点<rt>てん</rt></ruby>",
+            "4": "4　<ruby>自<rt>じ</rt>分<rt>ぶん</rt></ruby>の<ruby>考<rt>かん</rt>え</ruby>のへんか"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 1
+        },
+        {
+          "qid": 10,
+          "ques": "4番",
+          "options": {
+            "1": "1　けいごが<ruby>正<rt>ただ</rt>しく</ruby><ruby>使<rt>つか</rt>える</ruby>かどうか",
+            "2": "2　しょうひんが<ruby>おぼ<rt>おぼ</rt>えられる</rt></ruby>かどうか",
+            "3": "3　クラブ<ruby>活<rt>かつ</rt>動<rt>どう</rt></ruby>の<ruby>時<rt>じ</rt>間<rt>かん</rt></ruby>がとれるかどうか",
+            "4": "4　<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>といいかんけいが<ruby>作<rt>つく</rt>れる</ruby>かどうか"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 1
+        },
+        {
+          "qid": 11,
+          "ques": "5番",
+          "options": {
+            "1": "1　いい<ruby>会<rt>かい</rt>社<rt>しゃ</rt></ruby>にさそわれたから",
+            "2": "2　<ruby>親<rt>おや</rt></ruby>がいる<ruby>町<rt>まち</rt></ruby>にひっこすから",
+            "3": "3　ざんぎょうがふえたから",
+            "4": "4　<ruby>出<rt>しゅっ</rt>張<rt>ちょう</rt></ruby>が<ruby>多<rt>おお</rt>くて</ruby>たいへんだから"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 1
+        },
+        {
+          "qid": 12,
+          "ques": "6番",
+          "options": {
+            "1": "1　よごれをきれいに<ruby>落<rt>お</rt>とす</ruby>こと",
+            "2": "2　やぶれた<ruby>所<rt>ところ</rt></ruby>を<ruby>分<rt>わ</rt>から</ruby>なくすること",
+            "3": "3　<ruby>買<rt>か</rt>った</ruby>ときのじょうたいにもどすこと",
+            "4": "4　いんしょうがかわらないようにすること"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 1
+        }
+      ]
+    },
+    {
+      "sec": "問題3",
+      "questions": [
+        {
+          "qid": 13,
+          "ques": "1番",
+          "options": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 2
+        },
+        {
+          "qid": 14,
+          "ques": "2番",
+          "options": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 2
+        },
+        {
+          "qid": 15,
+          "ques": "3番",
+          "options": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 2
+        }
+      ]
+    },
+    {
+      "sec": "問題4",
+      "questions": [
+        {
+          "qid": 16,
+          "ques": "1番<br/><img src=\"/images/jlpt/N3-2025-7-2.png\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "options": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 3
+        },
+        {
+          "qid": 17,
+          "ques": "2番<br/><img src=\"/images/jlpt/N3-2025-7-3.png\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "options": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 3
+        },
+        {
+          "qid": 18,
+          "ques": "3番<br/><img src=\"/images/jlpt/N3-2025-7-4.png\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "options": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 3
+        },
+        {
+          "qid": 19,
+          "ques": "4番<br/><img src=\"/images/jlpt/N3-2025-7-5.png\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "options": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 3
+        }
+      ]
+    },
+    {
+      "sec": "問題5",
+      "questions": [
+        {
+          "qid": 20,
+          "ques": "1番",
+          "options": {
+            "1": "1",
+            "2": "2",
+            "3": "3"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 4
+        },
+        {
+          "qid": 21,
+          "ques": "2番",
+          "options": {
+            "1": "1",
+            "2": "2",
+            "3": "3"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 4
+        },
+        {
+          "qid": 22,
+          "ques": "3番",
+          "options": {
+            "1": "1",
+            "2": "2",
+            "3": "3"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 4
+        },
+        {
+          "qid": 23,
+          "ques": "4番",
+          "options": {
+            "1": "1",
+            "2": "2",
+            "3": "3"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 4
+        },
+        {
+          "qid": 24,
+          "ques": "5番",
+          "options": {
+            "1": "1",
+            "2": "2",
+            "3": "3"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 4
+        },
+        {
+          "qid": 25,
+          "ques": "6番",
+          "options": {
+            "1": "1",
+            "2": "2",
+            "3": "3"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 4
+        },
+        {
+          "qid": 26,
+          "ques": "7番",
+          "options": {
+            "1": "1",
+            "2": "2",
+            "3": "3"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 4
+        },
+        {
+          "qid": 27,
+          "ques": "8番",
+          "options": {
+            "1": "1",
+            "2": "2",
+            "3": "3"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 4
+        },
+        {
+          "qid": 28,
+          "ques": "9番",
+          "options": {
+            "1": "1",
+            "2": "2",
+            "3": "3"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 4
+        }
+      ]
+    }
+  ],
+  "passages": [
+    {
+      "pid": 0,
+      "passage": "問題1では、まず質問を聞いてください。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つえらんでください。"
+    },
+    {
+      "pid": 1,
+      "passage": "問題2では、まず質問を聞いてください。そのあと、問題用紙を見てください。読む時間があります。それから話を聞いて、問題用紙の1から4の中から、最もよいものを一つえらんでください。"
+    },
+    {
+      "pid": 2,
+      "passage": "問題3では、問題用紙に何もいんさつされていません。この問題は、ぜんたいとしてどんなないようかを聞く問題です。話の前に質問はありません。まず話を聞いてください。それから、質問とせんたくしを聞いて、1から4の中から、最もよいものを一つえらんでください。"
+    },
+    {
+      "pid": 3,
+      "passage": "問題4では、えを見ながら質問を聞いてください。やじるし(→)の人は何と言いますか。1から3の中から、最もよいものを一つえらんでください。"
+    },
+    {
+      "pid": 4,
+      "passage": "問題5では、問題用紙に何もいんさつされていません。まず文を聞いてください。それから、そのへんじを聞いて質問とせんたくしを聞いて、1から3の中から、最もよいものを一つえらんでください。"
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "level": "N4",
+  "exam_id": "202412",
+  "sections": [
+    {
+      "sec": "もんだい１　（　）に何を 入れますか。1·2·3·4から いちばんいいものを 一つえらんでください｡",
+      "questions": [
+        {
+          "qid": 1,
+          "ques": "<span class=\"q-number\">1</span> A「今から　サッカーを　しませんか。」<br/>B「すみません、ともだち（　）<ruby>待<rt>ま</rt></ruby>たせて　いるので、また<ruby>今度<rt>こんど</rt></ruby>さそってく　ださい。」",
+          "options": {
+            "1": "1　を",
+            "2": "2　の",
+            "3": "3　へ",
+            "4": "4　で"
+          },
+          "answer": "1",
+          "expl": null
+        },
+        {
+          "qid": 2,
+          "ques": "<span class=\"q-number\">2</span> （ケーキ屋で）<br/>客「すみません。いちごの　ケーキと、チョコレートの　ケーキを　二つ（　）ください。」",
+          "options": {
+            "1": "1　と",
+            "2": "2　が",
+            "3": "3　ずつ",
+            "4": "4　など"
+          },
+          "answer": "3",
+          "expl": null
+        },
+        {
+          "qid": 3,
+          "ques": "<span class=\"q-number\">3</span> 今日　ともだちと　<ruby>冬休<rt>ふゆやす</rt></ruby>みの　<ruby>旅行<rt>りょこう</rt></ruby>（　）そうだんしました｡",
+          "options": {
+            "1": "1　について",
+            "2": "2　に",
+            "3": "3　のほうが",
+            "4": "4　が"
+          },
+          "answer": "1",
+          "expl": null
+        },
+        {
+          "qid": 4,
+          "ques": "<span class=\"q-number\">4</span> （会社で）<br/><ruby>森<rt>もり</rt></ruby>「<ruby>中村<rt>なかむら</rt></ruby>さんを　さがして　いるんですが、どこに　いる（　）わかりますか。」<br/><ruby>石川<rt>いしかわ</rt></ruby>「すみません、わかりません。」",
+          "options": {
+            "1": "1　は",
+            "2": "2　か",
+            "3": "3　を",
+            "4": "4　が"
+          },
+          "answer": "2",
+          "expl": null
+        },
+        {
+          "qid": 5,
+          "ques": "<span class=\"q-number\">5</span> A「<ruby>外<rt>そと</rt></ruby> が　うるさいですね。（　）<ruby>音<rt>おと</rt></ruby>ですか。」<br/>B「ああ、<ruby>工事<rt>こうじ</rt></ruby>の　<ruby>音<rt>おと</rt></ruby>ですよ。」",
+          "options": {
+            "1": "1　どの",
+            "2": "2　どんな",
+            "3": "3　なんの",
+            "4": "4　なんで"
+          },
+          "answer": "3",
+          "expl": null
+        },
+        {
+          "qid": 6,
+          "ques": "<span class=\"q-number\">6</span> A「<ruby>足<rt>あし</rt></ruby>の　けがは　だいじょうぶですか。まだ　<ruby>痛<rt>いた</rt></ruby>いですか。」<br/>B「だいじょうぶです。（　）痛く　ありません。」",
+          "options": {
+            "1": "1　もう",
+            "2": "2　よく",
+            "3": "3　かならず",
+            "4": "4　だんだん"
+          },
+          "answer": "1",
+          "expl": null
+        },
+        {
+          "qid": 7,
+          "ques": "<span class=\"q-number\">7</span> <ruby>雨<rt>あめ</rt></ruby>が　少し<ruby>降<rt>ふ</rt></ruby>って　いましたが、<ruby>駅<rt>えき</rt></ruby>から　<ruby>家<rt>いえ</rt></ruby>まで　<ruby>近<rt>ちか</rt></ruby>いので、かさを（　）<ruby>帰<rt>かえ</rt></ruby>りました｡",
+          "options": {
+            "1": "1　ささなかった",
+            "2": "2　ささなくて",
+            "3": "3　ささなく",
+            "4": "4　ささないで"
+          },
+          "answer": "4",
+          "expl": null
+        },
+        {
+          "qid": 8,
+          "ques": "<span class=\"q-number\">8</span> <ruby>姉<rt>あね</rt></ruby>は　<ruby>赤<rt>あか</rt></ruby>ちゃんが　<ruby>昼寝<rt>ひるね</rt></ruby>を（　）あいだに、<ruby>料理<rt>りょうり</rt></ruby>を　します｡",
+          "options": {
+            "1": "1　していく",
+            "2": "2　してきた",
+            "3": "3　している",
+            "4": "4　していた"
+          },
+          "answer": "3",
+          "expl": null
+        },
+        {
+          "qid": 9,
+          "ques": "<span class=\"q-number\">9</span> Ｐホテルは　ペットと　いっしょに（　）が　できます｡",
+          "options": {
+            "1": "1　泊まる",
+            "2": "2　泊まること",
+            "3": "3　泊まれる",
+            "4": "4　泊まれること"
+          },
+          "answer": "2",
+          "expl": null
+        },
+        {
+          "qid": 10,
+          "ques": "<span class=\"q-number\">10</span>（<ruby>道<rt>みち</rt></ruby>で）<br/>A「<ruby>急<rt>いそ</rt></ruby>げば、<ruby>次<rt>つぎ</rt></ruby>の<ruby>　電車<rt>でんしゃ</rt></ruby>に<ruby>間<rt>ま</rt></ruby>に　<ruby>合<rt>あ</rt></ruby>いそうだよ。 <ruby>走<rt>はし</rt></ruby>ろうか。」<br/>B「（　）たぶん　<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わないよ。<ruby>歩<rt>ある</rt></ruby>いて　<ruby>行<rt>い</rt></ruby>かない？」",
+          "options": {
+            "1": "1　走るのに",
+            "2": "2　走ってから",
+            "3": "3　走るより",
+            "4": "4　走っても"
+          },
+          "answer": "4",
+          "expl": null
+        },
+        {
+          "qid": 11,
+          "ques": "<span class=\"q-number\">11</span> <ruby>最近<rt>さいきん</rt></ruby>、<ruby>私<rt></rt></ruby>は　<ruby>仕事<rt>しごと</rt></ruby>が　いそがしくて、なかなか　ともだちと（　）｡",
+          "options": {
+            "1": "1　会える",
+            "2": "2　会えない",
+            "3": "3　会う",
+            "4": "4　会った"
+          },
+          "answer": "2",
+          "expl": null
+        },
+        {
+          "qid": 12,
+          "ques": "<span class=\"q-number\">12</span> （<ruby>会社<rt>かいしゃ</rt></ruby>で）<br/><ruby>田中<rt>たなか</rt></ruby>「<ruby>林<rt>はやし</rt></ruby>さんが　<ruby>来月<rt>らいげつ</rt></ruby>（　）よ。」<br/><ruby>青木<rt>あおき</rt></ruby>「え、そうなんですか。」",
+          "options": {
+            "1": "1　けっこんするそうです",
+            "2": "2　けっこんしたことがあります",
+            "3": "3　けっこんしたいです",
+            "4": "4　けっこんしようと思います"
+          },
+          "answer": "1",
+          "expl": null
+        },
+        {
+          "qid": 13,
+          "ques": "<span class=\"q-number\">13</span> （<ruby>学校<rt>がっこう</rt></ruby>で）<br/><ruby>先生<rt>せんせい</rt></ruby>「あしたから　<ruby>漢字<rt>かんじ</rt></ruby>のじゅぎょうが　<ruby>始<rt>はじ</rt></ruby>まるので、 <ruby>漢字<rt>かんじ</rt></ruby>の　<ruby>教科書<rt>きょうかしょ</rt></ruby>を（　）。」",
+          "options": {
+            "1": "1　忘れないでしょか",
+            "2": "2　忘れるかもしれませんよ",
+            "3": "3　忘れても しかたないですね",
+            "4": "4　忘れないようにして ください"
+          },
+          "answer": "4",
+          "expl": null
+        }
+      ]
+    },
+    {
+      "sec": "もんだい２　_★_に入るものは どれですか。1·2·3·4から いちばん いいものを 一つえらんでください｡",
+      "questions": [
+        {
+          "qid": 14,
+          "ques": "<span class=\"q-number\">14</span> （<ruby>田中<rt>たなか</rt></ruby>さんの<ruby>家<rt>いえ</rt></ruby>で）<br/><ruby>山下<rt>やました</rt></ruby>「ねえ、<ruby>田中<rt>たなか</rt></ruby>さんが___ ___ _★_ ___<ruby>言<rt>い</rt></ruby>う <ruby>黒<rt>くろ</rt></ruby>い <ruby>虫<rt>むし</rt></ruby>が<ruby>台所<rt>だいどころ</rt></ruby>にいましたよ。」<br/><ruby>田中<rt>たなか</rt></ruby>「えっ!」",
+          "options": {
+            "1": "1　名前を",
+            "2": "2　のも",
+            "3": "3　聞く",
+            "4": "4　いやだと"
+          },
+          "answer": "2",
+          "expl": "名前を聞く <u>のも</u> いやだと"
+        },
+        {
+          "qid": 15,
+          "ques": "<span class=\"q-number\">15</span> ___ ___ _★_ ___ が あるので、 <ruby>図書館<rt>としょかん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ってきます｡",
+          "options": {
+            "1": "1　本",
+            "2": "2　に",
+            "3": "3　返さないといけない",
+            "4": "4　今日中"
+          },
+          "answer": "3",
+          "expl": "今日中 に <u>返さないといけない</u> 本"
+        },
+        {
+          "qid": 16,
+          "ques": "<span class=\"q-number\">16</span> <ruby>妹<rt>いもうと</rt></ruby>「ねえ、<ruby>週末<rt>しゅうまつ</rt></ruby>に お<ruby>花見<rt>はなみ</rt></ruby>に<ruby>行<rt>い</rt></ruby>かない？」<br/><ruby>姉<rt>あね</rt></ruby>　「いいね。 <ruby>私<rt>わたし</rt></ruby>は<ruby>土曜日<rt>どようび</rt></ruby>でも ___ ___ _★_ ___ いい？」<br/><ruby>妹<rt>いもうと</rt></ruby>「じゃあ、<ruby>土曜日<rt>どようび</rt></ruby>に<ruby>行<rt>い</rt></ruby>こうか。」",
+          "options": {
+            "1": "1　いいけど",
+            "2": "2　どっちでも",
+            "3": "3　日曜日でも",
+            "4": "4　どっちが"
+          },
+          "answer": "1",
+          "expl": "日曜日でも どっちでも <u>いいけど</u> どっちが"
+        },
+        {
+          "qid": 17,
+          "ques": "<span class=\"q-number\">17</span> （<ruby>教室<rt>きょうしつ</rt></ruby>で）<br/><ruby>先生<rt>せんせい</rt></ruby>「<ruby>来週<rt>らいしゅう</rt></ruby>のじゅぎょうまでに、23ページと24ページを<ruby>読<rt>よ</rt></ruby>んで、 わからない<ruby>言葉<rt>ことば</rt></ruby>が ___ ___ _★_ ___ ください。」",
+          "options": {
+            "1": "1　意味を",
+            "2": "2　あったら",
+            "3": "3　おいて",
+            "4": "4　調べて"
+          },
+          "answer": "4",
+          "expl": "あったら 意味を <u>調べて</u> おいて"
+        }
+      ]
+    },
+    {
+      "sec": "もんだい３　（18）から（21）に 何を入れますか。1·2·3·4から いちばんいいものを 一つえらんでください｡",
+      "questions": [
+        {
+          "qid": 18,
+          "ques": "<span class=\"q-number\">18</span>",
+          "options": {
+            "1": "1　より",
+            "2": "2　ずつ",
+            "3": "3　でも",
+            "4": "4　には"
+          },
+          "answer": "4",
+          "expl": null,
+          "pid": 0
+        },
+        {
+          "qid": 19,
+          "ques": "<span class=\"q-number\">19</span>",
+          "options": {
+            "1": "1　来て もらう",
+            "2": "2　来て くれる",
+            "3": "3　行って きて もらう",
+            "4": "4　行って きて くれる"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": 0
+        },
+        {
+          "qid": 20,
+          "ques": "<span class=\"q-number\">20</span>",
+          "options": {
+            "1": "1　それから",
+            "2": "2　だから",
+            "3": "3　たとえば",
+            "4": "4　では"
+          },
+          "answer": "1",
+          "expl": null,
+          "pid": 0
+        },
+        {
+          "qid": 21,
+          "ques": "<span class=\"q-number\">21</span>",
+          "options": {
+            "1": "1　楽しんでいます",
+            "2": "2　楽しんでいることです",
+            "3": "3　楽しもうと思います",
+            "4": "4　楽しもうと思うことです"
+          },
+          "answer": "3",
+          "expl": null,
+          "pid": 0
+        }
+      ]
+    },
+    {
+      "sec": "もんだい４　つぎの(1)から(3)の文章を読んで、質問に答えてください。答えは、1·2·3·4から一番いいものを一つえらんでください｡",
+      "questions": [
+        {
+          "qid": 22,
+          "ques": "<span class=\"q-number\">22</span> ジョンさんはアリさんに<ruby>何<rt>なに</rt></ruby>を<ruby>頼<rt>たの</rt></ruby>みましたか｡",
+          "options": {
+            "1": "1　病気になったので、家に来てほしい",
+            "2": "2　明日の朝、一緒に病院に行ってほしい",
+            "3": "3　先生に午前の授業に遅れると伝えてほしい",
+            "4": "4　明日の授業のノートを貸してほしい"
+          },
+          "answer": "4",
+          "expl": null,
+          "pid": 1
+        },
+        {
+          "qid": 23,
+          "ques": "<span class=\"q-number\">23</span>  <u><ruby>驚<rt>おどろ</rt></ruby>きました</u>とありますが、どうして<ruby>驚<rt>おどろ</rt></ruby>きましたか｡",
+          "options": {
+            "1": "1　息子がアルバイトで、たくさんお金をもらってきたから",
+            "2": "2　息子が自分でギターを買うためにアルバイトを始めたから",
+            "3": "3　ギターを買いたいと言っていた息子が、 花を買ってきてくれたから",
+            "4": "4　ほしいと言っていたのに、 息子がギターをもう買わないことにしたから"
+          },
+          "answer": "3",
+          "expl": null,
+          "pid": 2
+        },
+        {
+          "qid": 24,
+          "ques": "<span class=\"q-number\">24</span> このメモを<ruby>読<rt>よ</rt></ruby>んで、 <ruby>中西<rt>なかにし</rt></ruby>さんは<ruby>何<rt>なに</rt></ruby>をしなければなりませんか｡",
+          "options": {
+            "1": "1　山田さんに電話で、会議に行く5人の名前を知らせます",
+            "2": "2　山田さんにメールで、 会議に行く5人の名前を知らせます",
+            "3": "3　山田さんにメールで、会議に行く5人名札を作ることを頼みます",
+            "4": "4　山田さんからもらったメールを見て、会議に行く5人の名札を作ります"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": 3
+        }
+      ]
+    },
+    {
+      "sec": "もんだい５　つぎの文章を読んで、質問に答えてください。 答えは 1·2·3·4から いちばんいいものを一つえらんでください｡",
+      "questions": [
+        {
+          "qid": 25,
+          "ques": "<span class=\"q-number\">25</span> <ruby>小林<rt>こばやし</rt></ruby>さんに①<u><ruby>行<rt>い</rt></ruby>かない</u>と<ruby>言<rt>い</rt></ruby>われたあと、「<ruby>私<rt>わたし</rt></ruby>」はどう<ruby>思<rt>おも</rt></ruby>いましたか｡",
+          "options": {
+            "1": "1　一人でも秋の京都に行きたい",
+            "2": "2　やはり小林さんと秋の京都に行きたい",
+            "3": "3　京都でなくてもいいから、 小林さんと旅行に行きたい",
+            "4": "4　ほかの季節に京都に行きたい"
+          },
+          "answer": "1",
+          "expl": null,
+          "pid": 4
+        },
+        {
+          "qid": 26,
+          "ques": "<span class=\"q-number\">26</span> ②<u>いいこと</u>とありますが、どんなことですか｡",
+          "options": {
+            "1": "1　「私」が行ったお寺より、朝早くから開いているお寺があること",
+            "2": "2　「私」が行ったお寺より、庭がきれいで、すいているお寺があること",
+            "3": "3　「私」が行ったお寺は、朝早くから開いていて、朝は すいていること",
+            "4": "4　「私」 が行ったお寺は、 昼でもすいている日があること"
+          },
+          "answer": "3",
+          "expl": null,
+          "pid": 4
+        },
+        {
+          "qid": 27,
+          "ques": "<span class=\"q-number\">27</span> ③<u>いい<ruby>旅行<rt>りょこう</rt></ruby>になりました</u>とありますが、 どうしてですか｡",
+          "options": {
+            "1": "1　行きたかったお寺に行って、秋の庭をゆっくり楽しめたから",
+            "2": "2　旅行の前には知らなかったお寺で、秋の庭をゆっくり楽しめたから",
+            "3": "3　すばらしい秋の庭をゆっくり楽しめる旅館に泊まれたから",
+            "4": "4　人が多くてにぎやかな朝の京都のお寺を楽しめたから"
+          },
+          "answer": "1",
+          "expl": null,
+          "pid": 4
+        }
+      ]
+    },
+    {
+      "sec": "もんだい６　つぎの工場見学の案内を見て、質問に答えてください。答えは 1·2·3·4から一番いいものを一つ選んでください｡",
+      "questions": [
+        {
+          "qid": 28,
+          "ques": "<span class=\"q-number\">28</span> ミンさんは、<ruby>留学生<rt>りゅうがくせい</rt></ruby>クラブの<ruby>人<rt>ひと</rt></ruby>30<ruby>人<rt>にん</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>ける<ruby>工場見学<rt>こうじょうけんがく</rt></ruby>を<ruby>探<rt>さが</rt></ruby>しています。<ruby>曜日<rt>ようび</rt></ruby>は<ruby>水<rt>すい</rt></ruby>、<ruby>木<rt>もく</rt></ruby>、<ruby>土<rt>ど</rt></ruby>ならいつでもいいですが、1<ruby>時間<rt>じかん</rt></ruby>以内で<ruby>見学<rt>けんがく</rt></ruby>できるところがいいです。ミンさんたちが<ruby>選<rt>えら</rt></ruby>べる<ruby>工場見学<rt>こうじょうけんがく</rt></ruby>はどれですか｡",
+          "options": {
+            "1": "1　AとBとC",
+            "2": "2　BとC",
+            "3": "3　BとCとD",
+            "4": "4　Dだけ"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": 5
+        },
+        {
+          "qid": 29,
+          "ques": "<span class=\"q-number\">29</span> ボブさんは、あさって (<ruby>日曜日<rt>にちようび</rt></ruby>)の<ruby>午後<rt>ごご</rt></ruby>に<ruby>工場見学<rt>こうじょうけんがく</rt></ruby>に<ruby>行<rt>い</rt></ruby>きたいと<ruby>思<rt>おも</rt></ruby>って、どこがいいか<ruby>探<rt>さが</rt></ruby>しています。ボブさんが<ruby>今<rt>いま</rt></ruby>から<ruby>選<rt>えら</rt></ruby>べる<ruby>工場見学<rt>こうじょうけんがく</rt></ruby>はどれですか｡",
+          "options": {
+            "1": "1　AとCとD",
+            "2": "2　Bだけ",
+            "3": "3　BとD",
+            "4": "4　Dだけ"
+          },
+          "answer": "4",
+          "expl": null,
+          "pid": 5
+        }
+      ]
+    }
+  ],
+  "passages": [
+    {
+      "pid": 0,
+      "passage": "<ruby>下<rt>した</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>は、<ruby>留学生<rt>りゅうがくせい</rt></ruby>の<ruby>作文<rt>さくぶん</rt></ruby>です。<hr/><div style=\"line-height: 2;\"><center><b><ruby>私<rt>わたし</rt></ruby>が<ruby>会<rt>あ</rt></ruby>いたい<ruby>人<rt>ひと</rt></ruby></b></center><div style=\"text-align:right\">コルナリ フク</div><ruby>私<rt>わたし</rt></ruby>が<ruby>会<rt>あ</rt></ruby>いたい<ruby>人<rt>ひと</rt></ruby>は、<ruby>国<rt>くに</rt></ruby>にいるともだちのリタとサラです｡<br/><ruby>二人<rt>ふたり</rt></ruby><span class=\"text-red-700\">（18）</span>二<ruby>年前<rt>ねんまえ</rt></ruby>に<ruby>国<rt>くに</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby>のクラスで<ruby>初<rt>はじ</rt></ruby>めて<ruby>会<rt>あ</rt></ruby>いました。<ruby>私<rt>わたし</rt></ruby>たちはみんな<ruby>映画<rt>えいが</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。それで、いろいろ<ruby>話<rt>はな</rt></ruby>すようになって、<ruby>休<rt>やす</rt></ruby>みの<ruby>日<rt>ひ</rt></ruby>はよく三<ruby>人<rt>にん</rt></ruby>で<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>ったり、<ruby>食事<rt>しょくじ</rt></ruby>をしたりしていました。ときどき<ruby>日本<rt>にほん</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>も<ruby>見<rt>み</rt></ruby>ました｡<br/>今、<ruby>私<rt>わたし</rt></ruby>は<ruby>東京<rt>とうきょう</rt></ruby>にいるので、リタとサラに<ruby>会<rt>あ</rt></ruby>えません。でも、<ruby>冬休<rt>ふゆやす</rt></ruby>みになれば<ruby>会<rt>あ</rt></ruby>えます。<ruby>二人<rt>ふたり</rt></ruby>が<ruby>東京<rt>とうきょう</rt></ruby>に<span class=\"text-red-700\">（19）</span>のです。<ruby>私<rt>わたし</rt></ruby>は<ruby>二人<rt>ふたり</rt></ruby>といっしょに<ruby>映画館<rt>えいがかん</rt></ruby>で<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>るつもりです。<span class=\"text-red-700\">（20）</span>、<ruby>私<rt>わたし</rt></ruby>の<ruby>好<rt>す</rt></ruby>きな<ruby>食堂<rt>しょくどう</rt></ruby>やそば<ruby>屋<rt>や</rt></ruby>に<ruby>二人<rt>ふたり</rt></ruby>をつれていきたいです｡<br/><ruby>二人<rt>ふたり</rt></ruby>といろいろな<ruby>所<rt>ところ</rt></ruby>に<ruby>行<rt>い</rt></ruby>ったり、たくさん<ruby>話<rt>はな</rt></ruby>したりして、<ruby>冬休<rt>ふゆやす</rt></ruby>みを<span class=\"text-red-700\">（21）</span>｡</div>"
+    },
+    {
+      "pid": 1,
+      "passage": "(1) <div style=\"line-height: 2;\">これは、<ruby>大学<rt>だいがく</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>からアリさんに届いたメールです。<hr/>アリさん<br/>こんばんは｡<br/>風邪をひいてしまったようで、熱があります｡<br/>明日の朝、<ruby>病院<rt>びょういん</rt></ruby>に行ってから<ruby>大学<rt>だいがく</rt></ruby>に行くので、午前中の<ruby>授業<rt>じゅぎょう</rt></ruby>は休みます。すみませんが、<ruby>先生<rt>せんせい</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>えてください。それから、 あとで<ruby>授業<rt>じゅぎょう</rt></ruby>のノートを貸してくれませんか｡<br/>よろしくお願いします｡</div>ジョン。"
+    },
+    {
+      "pid": 2,
+      "passage": "(2) <div style=\"line-height: 2;\">アルバイトを始めた<ruby>高校生<rt>こうこうせい</rt></ruby>の<ruby>息子<rt>むすこ</rt></ruby>が、もらったお金で<ruby>花<rt>はな</rt></ruby>を買ってきてくれました。<ruby>息子<rt>むすこ</rt></ruby>はギターを買うためにアルバイトを始めました。 でも、 初めてもらったお金では、<ruby>親<rt>おや</rt></ruby>に何か買おうと思っていたそうです。 <u><ruby>驚<rt>おどろ</rt></ruby>きました</u>が、うれしかったです｡</div>"
+    },
+    {
+      "pid": 3,
+      "passage": "(3)<br/>（<ruby>会社<rt>かいしゃ</rt></ruby>で）　<ruby>中西<rt>なかにし</rt></ruby>さんが席に戻ったとき、机の上に、このメモが置いてありました。<hr/><div style=\"line-height: 2;\"><ruby>中西<rt>なかにし</rt></ruby>さん<br/><ruby>大森銀行<rt>おおもりぎんこう</rt></ruby>の<ruby>山田<rt>やまだ</rt></ruby>さんから<ruby>電話<rt>でんわ</rt></ruby>がありました｡<br/>来週の<ruby>大森銀行<rt>おおもりぎんこう</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>に、私たちの<ruby>会社<rt>かいしゃ</rt></ruby>から行く5人の<ruby>名前<rt>なまえ</rt></ruby>を知りたいそうです。 <ruby>名札<rt>なふだ</rt></ruby>を作るために<ruby>名前<rt>なまえ</rt></ruby>を正しく知りたいので、メールで教えてもらいたいと言っていました｡</div>よろしくお願いします<br/><div style=\"text-align:right\">3月12日 13:15<br/>イム</div>"
+    },
+    {
+      "pid": 4,
+      "passage": "これはカタリーナさんが書いた<ruby>作文<rt>さくぶん</rt></ruby>です。<hr/><center><b><ruby>京都<rt>きょうと</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby></b></center><div style=\"text-align:right\">カタリーナゴメス</div>先週、一人で<ruby>京都<rt>きょうと</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に行ってきました。 私は<ruby>日本<rt>にほん</rt></ruby>に来る前に、テレビで<ruby>庭<rt>にわ</rt></ruby>中の木の葉が赤くなっている<ruby>寺<rt>てら</rt></ruby>を見て、<ruby>秋<rt>あき</rt></ruby>に<ruby>京都<rt>きょうと</rt></ruby>に 行ってみたいと思っていたのです｡<br/><ruby>旅行<rt>りょこう</rt></ruby>に行く前に、<ruby>友達<rt>ともだち</rt></ruby>の<ruby>小林<rt>こばやし</rt></ruby>さんを誘ってみましたが、<ruby>秋<rt>あき</rt></ruby>の<ruby>京都<rt>きょうと</rt></ruby>は人気があって人が多いから①<u>行かない</u>と言われました。ちょっと残念でしたが、 私の気持ちは変わりませんでした。 <br/>昼ごろ<ruby>京都駅<rt>きょうとえき</rt></ruby>に着いて、すぐにテレビで見た<ruby>寺<rt>てら</rt></ruby>に行きました。しかし、人が多すぎて、<ruby>寺<rt>てら</rt></ruby>の<ruby>庭<rt>にわ</rt></ruby>はゆっくり見られませんでした。とても残念でした。 ほかの<ruby>寺<rt>てら</rt></ruby>や<ruby>神社<rt>じんじゃ</rt></ruby>にも行ってみましたが同じでした。 <ruby>小林<rt>こばやし</rt></ruby>さんの話は本当でした｡<br/>でも、<ruby>夜<rt>よる</rt></ruby>、<ruby>旅館<rt>りょかん</rt></ruby>で②<u>いいこと</u>を知りました。私は<ruby>旅館<rt>りょかん</rt></ruby>の人にずっと行きたかった<ruby>寺<rt>てら</rt></ruby>に行ったのに、こんでいてよく見られなかったと話しました。すると、「その<ruby>寺<rt>てら</rt></ruby>には <ruby>朝<rt>あさ</rt></ruby>6時から入れますよ。」と教えてくれました。<ruby>朝<rt>あさ</rt></ruby>はあまり人がいないのだそうです｡<br/>次の<ruby>朝<rt>あさ</rt></ruby>、私は6時に<ruby>寺<rt>てら</rt></ruby>に行きました。 今度は人が少なくて、 すばらしい <ruby>庭<rt>にわ</rt></ruby>を 楽しめました。 ずっと見たいと思っていた景色が ゆっくり見られて、うれしかったです｡<br/><ruby>秋<rt>あき</rt></ruby>の<ruby>京都<rt>きょうと</rt></ruby>は人が多かったですが、 ③<u>いい<ruby>旅行<rt>りょこう</rt></ruby>になりました</u>。"
+    },
+    {
+      "pid": 5,
+      "passage": "<ruby>工場<rt>こうじょう</rt></ruby><ruby>見学<rt>けんがく</rt></ruby>に行きませんか!大人も子どもも一緒に楽しめます。ご家族やお<ruby>友達<rt>ともだち</rt></ruby>とどうぞ。<table> <tr><td><center>A タナカ自動車川北<ruby>工場<rt>こうじょう</rt></ruby></center><br/>【<ruby>見学時間<rt>けんがくじかん</rt></ruby>】　10時〜11時<br/>【<ruby>必要時間<rt>ひつようじかん</rt></ruby>】　1時間<br/>【<ruby>見学<rt>けんがく</rt></ruby>できる<ruby>曜日<rt>ようび</rt></ruby>】　火、木、金、 日<br/>【<ruby>予約<rt>よやく</rt></ruby>】 <ruby>必要<rt>ひつよう</rt></ruby>（5日前までに<ruby>電話<rt>でんわ</rt></ruby>してください。） <br/>【<ruby>見学<rt>けんがく</rt></ruby>できる人の<ruby>数<rt>かず</rt></ruby>】2人〜25人<br/>（12歳以下の人は、大人と一緒に来てください。）<br/><div style=\"text-align:right\">早田市川北1-5<br/>0511-07-8369</div> </td> <td> <center>B キムラしょうゆ<ruby>工場<rt>こうじょう</rt></ruby></center><br/>【<ruby>見学時間<rt>けんがくじかん</rt></ruby>】　①10時〜　②13時〜　③16時〜<br/>【<ruby>必要時間<rt>ひつようじかん</rt></ruby>】　30分<br/>【<ruby>見学<rt>けんがく</rt></ruby>できる<ruby>曜日<rt>ようび</rt></ruby>】　月〜土<br/>【<ruby>予約<rt>よやく</rt></ruby>】 <ruby>必要<rt>ひつよう</rt></ruby>ありません <br/>【<ruby>見学<rt>けんがく</rt></ruby>できる人の<ruby>数<rt>かず</rt></ruby>】何人でも<div style=\"text-align:right\">西野市東 9-8<br/>0518-29-1234</div><br/></td> </tr> <tr><td><center>C 毎朝新聞月山<ruby>工場<rt>こうじょう</rt></ruby></center><br/>【<ruby>見学時間<rt>けんがくじかん</rt></ruby>】　13時半〜 <br/>（<ruby>見学時間<rt>けんがくじかん</rt></ruby>の15分前までに来てください。）<br/>【<ruby>必要時間<rt>ひつようじかん</rt></ruby>】　1時間<br/>【<ruby>見学<rt>けんがく</rt></ruby>できる<ruby>曜日<rt>ようび</rt></ruby>】　月〜金、日<br/>【<ruby>予約<rt>よやく</rt></ruby>】 <ruby>必要<rt>ひつよう</rt></ruby>（1週間前までに<ruby>電話<rt>でんわ</rt></ruby>してください。） <br/>【<ruby>見学<rt>けんがく</rt></ruby>できる人の<ruby>数<rt>かず</rt></ruby>】　小学生: 150人まで<br/>中学生以上: 80人まで<br/><div style=\"text-align:right\">月山町南 5789<br/>0516-54-2109</div> </td> <td> <center>D 前川ミルク<ruby>工場<rt>こうじょう</rt></ruby></center><br/>【<ruby>見学<rt>けんがく</rt></ruby>できる<ruby>時間<rt>じかん</rt></ruby>】　9時〜16時<br/>【<ruby>必要時間<rt>ひつようじかん</rt></ruby>】　約1時間半<br/>【<ruby>見学<rt>けんがく</rt></ruby>できる<ruby>曜日<rt>ようび</rt></ruby>】　月、水、木、日<br/>【<ruby>予約<rt>よやく</rt></ruby>】 <ruby>必要<rt>ひつよう</rt></ruby> （前の日までに<ruby>電話<rt>でんわ</rt></ruby>してください。）<br/>【<ruby>見学<rt>けんがく</rt></ruby>できる人の<ruby>数<rt>かず</rt></ruby>】<br/>60人まで<br/><div style=\"text-align:right\">安口町前川41-6-3<br/>0512-22-7410</div> <br/></td> </tr> </table>"
+    }
+  ]
+}

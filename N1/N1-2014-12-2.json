@@ -1,0 +1,411 @@
+{
+  "level": "N1",
+  "exam_id": "201412",
+  "sections": [
+    {
+      "sec": "問題8　次の(1)から(4)の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい｡",
+      "questions": [
+        {
+          "qid": 1,
+          "ques": "46．筆者が親に対して言いたいことは何か｡",
+          "options": {
+            "1": "1　子どもが失敗しなくなるまであきらめずに教えることが大切だ｡",
+            "2": "2　子どもが失敗しないようあらかじめ教えることが大切だ｡",
+            "3": "3　子どもが失敗するまでは何も言わずに見守ることが大切だ｡",
+            "4": "4　子どもが失敗したとしてもそのまま見守ることが大切だ。"
+          },
+          "answer": "3",
+          "expl": "Bản dịch<br/>Mọi thất bại đều sẽ trở thành xương thành thịt (bài học xương máu) để trẻ có thể sống một cuộc đời sau này mà không gặp phải sai lầm lớn. Nếu suy nghĩ như vậy, bạn sẽ hiểu rằng việc can thiệp trước khi trẻ kịp thất bại là một phương pháp giáo dục ngốc nghếch đến mức nào. Tuy nhiên, cha mẹ phải luôn theo sát và quan sát trẻ thật kỹ. Không nhúng tay vào nhưng luôn ở trong tư thế sẵn sàng để có thể cứu trẻ khỏi nguy hiểm bất cứ lúc nào. Và rồi, nếu trẻ vấp ngã và bị thương, hãy dạy trẻ rằng: 'Con thấy đau chưa? Phải chú ý để không va chạm nhé'. Đó chính là thái độ mà người làm cha mẹ cần có.",
+          "pid": 0
+        },
+        {
+          "qid": 2,
+          "ques": "47．「ビタミン生活」についてこの文書は何を知らせているか｡",
+          "options": {
+            "1": "1　通販を一時中止してしばらくの間店舗販売のみ行う｡",
+            "2": "2　生産体制が整い次第通販に加え店舗販売も再開する｡",
+            "3": "3　在庫不足のため現在は通販および店舗販売を中止している｡",
+            "4": "4　販売は一時すべて中止になるが後日店舗販売のみ再開する。"
+          },
+          "answer": "4",
+          "expl": "Bản dịch:<br/>Thông báo liên quan đến thực phẩm sức khỏe \"Vitamin Seikatsu\"<br/>Kính gửi Quý khách hàng, Lời đầu tiên, chúng tôi xin chân thành cảm ơn Quý khách đã luôn tin tưởng và ủng hộ các sản phẩm của công ty trong suốt thời gian qua.<br/>Về sản phẩm \"Vitamin Seikatsu\" được bắt đầu bán từ ngày 08/09/2014 thông qua hình thức đặt hàng trực tuyến và tại các cửa hàng trực thuộc của chúng tôi, do được giới thiệu trên các chương trình thông tin, lượng bán ra đã vượt xa kế hoạch ban đầu dẫn đến tình trạng sản xuất không kịp đáp ứng. Vì lý do đó, chúng tôi đã tạm dừng tiếp nhận đơn hàng trực tuyến, và đối với việc bán tại cửa hàng, chúng tôi cũng buộc phải tạm dừng ngay khi hết hàng tồn kho.<br/>Trong thời gian tới, chúng tôi sẽ củng cố lại hệ thống sản xuất và dự kiến tái khởi động việc bán tại cửa hàng vào ngày 17/11. Chúng tôi xin chân thành xin lỗi vì những bất tiện đã gây ra cho Quý khách.<br/>Công ty Cổ phần Thực phẩm Sức khỏe Mitsunuma Bộ phận chăm sóc khách hàng: 0120-333-1406 Thời gian tiếp nhận: 10:00 - 18:00 (Nghỉ thứ Bảy, Chủ Nhật và ngày lễ)",
+          "pid": 1
+        },
+        {
+          "qid": 3,
+          "ques": "48．筆者の考えに合うのはどれか｡",
+          "options": {
+            "1": "1　前へ進みたいなら無理なことに執着せずに諦めることも必要だ｡",
+            "2": "2　前へ進めない理由がわからないなら諦めることが必要だ｡",
+            "3": "3　能力を超えていると思ってもすぐに諦めてしまっては前へ進めない｡",
+            "4": "4　能力に合った憧れや道を求めるなら何事も諦めてはいけない。"
+          },
+          "answer": "1",
+          "expl": "Bản dịch:<br/>Nếu một người cứ mãi khao khát những điều vượt quá khả năng của bản thân, dù hoàn toàn không thể thực hiện được nhưng vẫn cố chấp bám lấy, thì chẳng khác nào đang vùng vẫy một cách vô ích dưới chân một bức tường không thể leo qua; điều đó vừa đáng thương nhưng cũng vừa nực cười. Trong trường hợp này, sự từ bỏ là cần thiết. Tuy nhiên, việc từ bỏ đó chỉ cần thiết để ta có thể tìm kiếm một khát vọng hay một con đường khác phù hợp với năng lực tiếp theo của mình mà thôi; nếu ta cứ mãi đắm chìm trong sự từ bỏ đó mà nghỉ ngơi (buông xuôi) thì có lẽ là một điều sai lầm.",
+          "pid": 2
+        },
+        {
+          "qid": 4,
+          "ques": "49．筆者の考えに合うのはどれか｡",
+          "options": {
+            "1": "1　少年時代に経験した雷雨の記憶は人によって異なる｡",
+            "2": "2　同じ雷雨でも今の人は昔の人と同じような印象は受けない｡",
+            "3": "3　大人になると子供時代に経験した雷雨の記憶は薄れてしまう｡",
+            "4": "4　昔も今も雷雨はあるが大人になると子供のときほど強い印象は受けない。"
+          },
+          "answer": "4",
+          "expl": "Bản dịch:<br/>Vào khoảng năm tôi 35 tuổi, tôi đã từng thốt lên rằng: 'Dạo này chẳng còn thấy những trận giông sét kinh khủng như thời thiếu niên nữa'. Thế nhưng, khi tôi khoảng 60 tuổi, tôi lại nghe chính câu nói đó từ một người tầm 35 tuổi. Nói cách khác, ngay tại thời điểm mà tôi cảm thấy những trận giông sét dữ dội đã biến mất, thì người đó vẫn còn đang ở tuổi thiếu niên và đã trải qua những trận giông sét mạnh mẽ ấy. Trong trường hợp này, thứ thực sự biến mất không phải là giông sét, mà là những ấn tượng tươi mới, sự ngạc nhiên và nỗi sợ hãi đặc trưng của thời thiếu niên khi đối diện với thiên nhiên.<br/>～特有の đặc trưng của",
+          "pid": 3
+        }
+      ]
+    },
+    {
+      "sec": "問題9　次の(1)から(3)の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい｡",
+      "questions": [
+        {
+          "qid": 5,
+          "ques": "50．①<u>いつまでも不安をダラダラと抱え続けてしまう</u>とあるがなぜか｡",
+          "options": {
+            "1": "1　不安の原因がいくつもあって対処できないから｡",
+            "2": "2　不安について考えることを避けてしまうから｡",
+            "3": "3　不安が一人では解決できないほど大きいから｡",
+            "4": "4　不安に向き合うと不安はさらに膨らんでいくから。"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": 4
+        },
+        {
+          "qid": 6,
+          "ques": "51．筆者によると危機感をもつとどうなるか｡",
+          "options": {
+            "1": "1　次の行動に移れる｡",
+            "2": "2　行動に自信がもてる｡",
+            "3": "3　不安の原因が把握できる｡",
+            "4": "4　不安の正体を突き止めたくなる。"
+          },
+          "answer": "1",
+          "expl": null,
+          "pid": 4
+        },
+        {
+          "qid": 7,
+          "ques": "52．不安について筆者はどのように考えているか｡",
+          "options": {
+            "1": "1　解決しやすい不安から順々に対応するといい｡",
+            "2": "2　保留にするべきではない不安をまず特定するといい｡",
+            "3": "3　不安を感じたときはすぐに解決策を考えて実行するといい｡",
+            "4": "4　不安の原因が何かわかるまでしばらく保留にしておくといい。"
+          },
+          "answer": "2",
+          "expl": "",
+          "pid": 4
+        },
+        {
+          "qid": 8,
+          "ques": "53．いま内側から生きている感情と重なり合う表情について筆者はどのように考えているか｡",
+          "options": {
+            "1": "1　写真やビデオだけでなく鏡でも見ることができる｡",
+            "2": "2　写真やビデオはもちろん鏡ですら見ることはできない｡",
+            "3": "3　写真やビデオでは見られるが鏡では見ることができない｡",
+            "4": "4　写真やビデオでは見られないが鏡では見ることができる。"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": 5
+        },
+        {
+          "qid": 9,
+          "ques": "54．他者の表情を理解することについて筆者はどのように考えているか｡",
+          "options": {
+            "1": "1　人間関係が成立すれば容易に理解できるがそれ以前には困難である｡",
+            "2": "2　人間関係を成立させる上で理解が欠かせないが現実には容易ではない｡",
+            "3": "3　理解できないはずだが現実には人間関係を構築する基盤になっている｡",
+            "4": "4　理解しようと努力することが人間関係を構築する上で役立っている。"
+          },
+          "answer": "3",
+          "expl": null,
+          "pid": 5
+        },
+        {
+          "qid": 10,
+          "ques": "55．筆者の考えに合うものはどれか｡",
+          "options": {
+            "1": "1　表情から理解し合うことは人間に備わったメカニズムだと考えられる｡",
+            "2": "2　感情を表情で表現することは人間に共通するメカニズムだと考えられる｡",
+            "3": "3　他者の表情を理解するメカニズムは経験を通して精巧になると考えられる｡",
+            "4": "4　典型的な表情の違いを理解するメカニズムには文化差があると考えられる。"
+          },
+          "answer": "1",
+          "expl": "Bản dịch:<br/>Hầu như không có ai từng thực sự nhìn thấy biểu cảm của chính mình khi đang khóc hay đang cười một cách trực diện. Có thể ảnh chụp hay video đôi khi ghi lại được một nụ cười tự nhiên, nhưng thứ hiện lên ở đó chỉ là quá khứ, nó không trùng khớp với những cảm xúc đang sống từ bên trong ngay lúc này. Ở điểm này, gương có vẻ như có thể bắt trọn được khoảnh khắc đó một cách đồng thời. Thế nhưng thực tế là, khi đang cười mà ta nhìn vào khuôn mặt đang cười của chính mình, ngay lập tức ta không thể tiếp tục cười được nữa và nụ cười ấy sẽ chợt tắt lịm. Khi khóc cũng vậy.<br/>Việc nắm bắt biểu cảm của bản thân về mặt thị giác vốn dĩ là điều không tưởng. Mặt khác, việc nắm bắt biểu cảm của người khác từ bên trong cũng là điều không thể, bởi lẽ chúng ta không thể sống bên trong cơ thể của người khác. Nếu vậy, đáng lẽ việc hiểu biểu cảm của người khác phải là điều bất khả thi, nhưng hằng ngày chúng ta hầu như chẳng bao giờ nghĩ rằng việc đó là khó khăn hay không thể cả. Thực tế, chúng ta rất nhạy cảm với ngay cả những thay đổi nhỏ nhất trên khuôn mặt người khác, và chính việc hiểu những biểu cảm đó là nền tảng để thiết lập nên những phần cơ bản trong quan hệ giữa người với người.<br/>Biểu cảm khuôn mặt gần như là điểm chung của nhân loại; ngoại trừ những sắc thái tinh vi, thì dù khác biệt về chủng tộc, hầu như không có chuyện chúng ta đọc sai chúng. Những nụ cười như cười thầm, cười khổ, hay cười xã giao có thể có sự khác biệt về văn hóa dẫn đến nhầm lẫn, nhưng với những biểu cảm điển hình thì hầu như không sai sót. Nếu đúng là như vậy, ta phải hiểu rằng trong con người với tư cách là một loài, tồn tại một cơ chế thấu hiểu lẫn nhau thông qua biểu cảm, vượt lên trên đơn vị cá nhân.",
+          "pid": 5
+        },
+        {
+          "qid": 11,
+          "ques": "56．多くの大人について筆者はどのように考えているか｡",
+          "options": {
+            "1": "1　生活も人生もわかっていない｡",
+            "2": "2　生活と人生の違いがわかっていない｡",
+            "3": "3　生活と人生の両方を教えている｡",
+            "4": "4　生活と人生の違いを教えている。"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": 6
+        },
+        {
+          "qid": 12,
+          "ques": "57．筆者によると子供にとって必要なのはどのような時間か｡",
+          "options": {
+            "1": "1　働くことの意義を考える｡",
+            "2": "2　人生と生活の違いを学ぶ｡",
+            "3": "3　生活に必要なことを学ぶ｡",
+            "4": "4　人が生きている意味を考える。"
+          },
+          "answer": "4",
+          "expl": null,
+          "pid": 6
+        },
+        {
+          "qid": 13,
+          "ques": "58.「人生とは何か」と問うことによって筆者は何がわかると考えているか｡",
+          "options": {
+            "1": "1　自分がなぜ存在しているかということ｡",
+            "2": "2　すべての学びが自分にとって有益だということ｡",
+            "3": "3　教科で扱われている事柄は生活に必要だということ｡",
+            "4": "4　人間が存在すること自体が不思議であるということ。"
+          },
+          "answer": "2",
+          "expl": "Bản dịch:<br/>Nhiều người lớn nghĩ rằng vì họ sống trước trẻ em nên họ hiểu về nhân sinh (cuộc đời) hơn. Nhưng đó là lời nói dối. Thứ họ biết là 'sinh hoạt' (cách sống/mưu sinh) chứ tuyệt đối không phải 'nhân sinh'. Họ lầm tưởng rằng việc biết cách sinh hoạt, biết phải sống thế nào là biết về nhân sinh. Và họ sai lầm khi nghĩ rằng dạy cách sinh hoạt chính là dạy về nhân sinh. Dù cả 'sinh hoạt' và 'nhân sinh' đều được gọi là 'Life', nhưng hai thứ này khác biệt hoàn toàn.<br/>Nếu bị hỏi 'Sinh hoạt để làm gì?', họ sẽ trả lời thế nào? Chính vì sai lầm từ những điều cơ bản như thế này nên mới nảy sinh những nền giáo dục vô bổ như việc bắt học sinh tiểu học và trung học đi trải nghiệm công việc. Ở độ tuổi chưa cần đến sinh hoạt (mưu sinh), trẻ cần phải học những thứ không cần thiết cho sinh hoạt. Đó là khoảng thời gian cực kỳ quý giá chỉ được phép có duy nhất trong độ tuổi này, trong giai đoạn ngắn ngủi này. Những thứ không cần cho sinh hoạt lại là những thứ cần thiết cho nhân sinh. Nói cách khác, có được thời gian để suy nghĩ 'Nhân sinh là gì' chính là đặc quyền của lứa tuổi này.<br/>'Nhân sinh là gì' chính là câu hỏi truy vấn về bản thân sự tồn tại – nơi mà sinh hoạt trở nên khả thi. 'Đang sống' hay 'tồn tại' nghĩa là gì? Nếu nhận ra sự kỳ diệu của câu hỏi này, bạn sẽ hiểu được cái hay của việc học thuần túy mọi môn học. Dù là ngôn ngữ trong môn Quốc ngữ, con số và hình khối trong môn Toán, vật chất và sinh mệnh trong môn Khoa học, hay luân thường đạo lý trong môn Xã hội, bạn sẽ nhận ra tất cả đều nhằm tìm hiểu sự kỳ diệu của sự tồn tại và vũ trụ này. Với tư cách là hoạt động phổ quát của tinh thần con người, không có môn học nào là không liên quan đến ta. Bạn sẽ hiểu rằng mọi môn học đều là những bài học hữu ích cho nhân sinh của chính mình.",
+          "pid": 6
+        }
+      ]
+    },
+    {
+      "sec": "問題10　次の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい｡",
+      "questions": [
+        {
+          "qid": 14,
+          "ques": "59．捨てられたって何とも思わないのはなぜか｡",
+          "options": {
+            "1": "1　いつでも描きたいものが描けるから｡",
+            "2": "2　描きたいものが描けて納得したから｡",
+            "3": "3　描きたいという欲求が満たされたから｡",
+            "4": "4　最後まで描けたことに満足しているから。"
+          },
+          "answer": "3",
+          "expl": null,
+          "pid": 7
+        },
+        {
+          "qid": 15,
+          "ques": "60．子供の描いたものが「作品」ではないのはなぜか｡",
+          "options": {
+            "1": "1　大人ほどの表現力や情熱をもって描かれていないから｡",
+            "2": "2　観賞されることを目的として描かれていないから｡",
+            "3": "3　評価に値する出来上りになっていないから｡",
+            "4": "4　描いた本人が価値を認めていないから。"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": 7
+        },
+        {
+          "qid": 16,
+          "ques": "61.「絵描きさん」について筆者はどのように述べているか｡",
+          "options": {
+            "1": "1　かんぺきな出来ばえを求めている｡",
+            "2": "2　いつも同じような描き方をしている｡",
+            "3": "3　買手の要望どおりに描いている｡",
+            "4": "4　買ってもらえるように描いている。"
+          },
+          "answer": "4",
+          "expl": null,
+          "pid": 7
+        },
+        {
+          "qid": 17,
+          "ques": "62．筆者は芸術をどのようにとらえているか｡",
+          "options": {
+            "1": "1　人を引きつける魅力的なもの｡",
+            "2": "2　情熱に突き動かされて作るもの｡",
+            "3": "3　他人には理解できないようなもの｡",
+            "4": "4　人間の生命力を巧みに表現するもの。"
+          },
+          "answer": "2",
+          "expl": "Bản dịch:<br/>Con người khác với động vật ở chỗ có hoạt động trí tuệ và niềm đam mê với nó. Ngay cả khi còn nhỏ, xung năng của linh hồn đã rất mạnh mẽ. Vì thế trẻ con luôn khao khát được vẽ. Chúng dùng hình dáng và màu sắc để xác nhận lại mọi thứ. Thế nhưng, vấn đề nằm ở chính hành động đẩy những thứ bên trong mình ra ngoài, ném chúng ra ngoài, chứ tuyệt đối không phải là hiệu quả của kết quả cuối cùng.<br/>Vì vậy, trẻ con sau khi vẽ xong sẽ không thèm ngoái nhìn lại. Dù bị vứt đi chúng cũng chẳng nghĩ ngợi gì. Người nhặt chúng lên một cách quý trọng rồi trầm trồ 'Thế này thật thú vị', 'Thằng bé có tài đấy, nếu bồi dưỡng tốt có thể sau này thành họa sĩ lớn' – luôn là người lớn. Còn chính đứa trẻ, dù có được khen, cũng chỉ nghe vậy thôi.<br/>Do đó, tôi nghĩ có gì đó sai lầm ngay từ trong cách gọi 'Tranh của trẻ con'. Đúng là thứ chúng đã vẽ, nhưng đó không phải là 'tác phẩm'. Nó là một thứ gì đó căn nguyên hơn thế nhiều.<br/>Chính vì gọi là 'tranh' nên chúng ta mới nhầm lẫn với 'tác phẩm hội họa' của người lớn. Sự lệch pha nảy sinh từ đó. Tranh của người lớn là một kỹ nghệ để trình diễn, là hàng hóa. Ngay từ đầu, nó được tạo ra với mục đích để thưởng lãm (hoặc được thưởng lãm), và được hoàn thiện trong khi đã dự đoán trước kết quả.<br/>Khi đã trở thành một 'họa sĩ', trong từng khoảnh khắc cầm cọ, họ đã biết trước kết quả. Làm thế này sẽ ra thế kia. Qua rèn luyện và kinh nghiệm, họ có thể tính toán được hiệu quả của màu sắc và nét vẽ; thần kinh họ tập trung vào kết quả nhiều hơn là những xung năng sự sống hay hành động không mục đích. Họ bị chính 'thành quả' kéo đi.<br/>Hơn nữa, họ còn để ý đến cả phản ứng của công chúng... một cách có ý thức hoặc vô thức, họ tiến hành công việc trong khi điều chỉnh theo những phản hồi kiểu như 'Phong cách này chắc sẽ được ưa chuộng' hay 'Cái này hơi quá đà chăng'. Nếu không có tiếng tăm, không có người mua thì không thể sống nổi và xã hội không chấp nhận. Cuộc sống rất khắc nghiệt. Không thể là một hành động vô vị lợi được. Rõ ràng họ đang tạo ra 'tác phẩm', tức là 'hàng hóa'.<br/>Dù là tác phẩm của người lớn thì bản chất cốt lõi vẫn phải là sinh lực. Chính chất lượng và cường độ của hành động ném bản thân mình ra bên ngoài một cách thuần túy sẽ tạo nên sức quyến rũ mãnh liệt.<br/>Bản thân tôi ít nhất cũng có ý định như vậy. Tôi thường bị bảo là 'Chẳng hiểu tranh của ông vẽ gì', nhưng tôi không muốn tạo ra thứ gọi là 'Tôi là tranh đây ạ'. Tôi chỉ đơn giản là đưa ra những thứ thuộc về trước và sau đó. —— Không phải là tranh, mà là nghệ thuật. Và tôi muốn phớt lờ mọi sự đánh giá khác hết mức có thể.",
+          "pid": 7
+        }
+      ]
+    },
+    {
+      "sec": "問題11　次のAとBの意見文を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい｡",
+      "questions": [
+        {
+          "qid": 18,
+          "ques": "63．近年の世界遺産についてAとBが共通して認識している点は何か｡",
+          "options": {
+            "1": "1　世界遺産の報道のしかたが過剰になってきている｡",
+            "2": "2　世界遺産への登録をめざす動きが過熱している｡",
+            "3": "3　世界遺産への登録で登録以前より価値が上がる｡",
+            "4": "4　世界遺産は観光振興と密接に関係している。"
+          },
+          "answer": "4",
+          "expl": null,
+          "pid": [8, 11]
+        },
+        {
+          "qid": 19,
+          "ques": "64．AとBは世界遺産をめぐってどのような姿勢を持つべきだと述べているか｡",
+          "options": {
+            "1": "1　AもBも世界遺産への登録による経済効果は期待すべきではないと述べている｡",
+            "2": "2　AもBも認定にかかわらず文化財として価値のあるものは保護すべきだと述べている｡",
+            "3": "3　Aは保護という本来の目的に立ち戻るべきだと述べBは認定に惑わされずもの自体の価値を見定めるべきだと述べている｡",
+            "4": "4　Aは世界遺産に値するか冷静に再検討すべきだと述べBは世界遺産だけを特別視せず他にも目を向けるべきだと述べている。"
+          },
+          "answer": "3",
+          "expl": null,
+          "pid": [8, 11]
+        }
+      ]
+    },
+    {
+      "sec": "問題12　次の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい｡",
+      "questions": [
+        {
+          "qid": 20,
+          "ques": "65．筆者はどのような書評が傲慢だと感じているか｡",
+          "options": {
+            "1": "1　大した理由づけもなく優劣を断定したもの｡",
+            "2": "2　優れている点を決して認めようとしないもの｡",
+            "3": "3　自身に知識があるかのように見せかけたもの｡",
+            "4": "4　自身の判断がすべてであるかのように評価したもの。"
+          },
+          "answer": "4",
+          "expl": null,
+          "pid": 9
+        },
+        {
+          "qid": 21,
+          "ques": "66．ある参考書について筆者が心外だと感じたのはどのような書評か｡",
+          "options": {
+            "1": "1　どうにか合格できる程度を目指したのにそれ以上の内容が必要だと評判したもの｡",
+            "2": "2　合格に必要な最低限の知識を整理したものなのに合格は不可能だと批判したもの｡",
+            "3": "3　敢えて難しいことは書いていないのにそれでもわかりにくいと批判したもの｡",
+            "4": "4　難しい試験でも合格できるように書いたのにそれでも不十分だと批判したもの。"
+          },
+          "answer": "1",
+          "expl": null,
+          "pid": 9
+        },
+        {
+          "qid": 22,
+          "ques": "67．筆者によると本が良書と言えるのはどのような場合か｡",
+          "options": {
+            "1": "1　書評で強く批判されない場合｡",
+            "2": "2　多くの人が価値を認めている場合｡",
+            "3": "3　求める人に本の趣旨が理解しやすい場合｡",
+            "4": "4　求める人のレベルや目的にあっている場合。"
+          },
+          "answer": "4",
+          "expl": null,
+          "pid": 9
+        },
+        {
+          "qid": 23,
+          "ques": "68．本を批評する人に対して筆者が言いたいことは何か｡",
+          "options": {
+            "1": "1　著者のあらゆる本を読むべきだ｡",
+            "2": "2　極端に否定的な評価は避けるべきだ｡",
+            "3": "3　それぞれの本の存在価値を認めるべきだ｡",
+            "4": "4　どのような本にも先入観なしで接するべきだ。"
+          },
+          "answer": "3",
+          "expl": "Bản dịch:<br/>Sách cũng giống như con người vậy. Không thể dùng một thang đo giá trị đồng nhất để quyết định hơn kém. Có những cuốn sách bán chạy giống như những người nổi tiếng. Cũng có những cuốn sách chẳng ai ngó ngàng tới giống như những kẻ bị ghét bỏ. Nhưng cuốn nào cũng có giá trị riêng. Nếu nó đến được tay người đang cần vào đúng thời điểm họ cần, nó sẽ trở thành một cuốn sách hay.<br/>Chính vì vậy, tôi cảm thấy ác cảm dữ dội với những kẻ trên các trang phê bình sách Internet luôn khẳng định sự hơn kém của cuốn sách như thể mình là Thượng đế. Tất nhiên, phê bình không phải là xấu. Việc khen chê sách cũng rất quan trọng. Nhưng suy cho cùng, đó cũng chỉ là nhận định dựa trên kiến thức, mối quan tâm và nhân cách của cá nhân đó mà thôi. Tôi không phải là không hiểu cảm giác muốn nói mọi thứ dưới tư cách của Thượng đế, nhưng làm vậy là quá kiêu ngạo.<br/>Sách của tôi cũng có những cuốn bị chỉ trích khá nặng nề trên mạng. Tôi coi đó là chuyện đương nhiên. Khi sách bán chạy đến một mức nào đó, sẽ luôn có những kẻ muốn dìm hàng. Có lẽ khi chê bai một cuốn sách, họ cảm thấy mình vĩ đại hơn tác giả. Bản thân tôi trước khi bắt đầu viết sách — hay nói thẳng ra là trước khi có những cuốn sách bán chạy — cũng từng chê bai sách của người khác rất nhiều.<br/>Tuy nhiên, điều khiến tôi cực kỳ khó chịu là có quá nhiều lời phê bình theo kiểu 'vòi vĩnh điều không thể' (đòi hỏi thứ vốn không phải mục đích của cuốn sách). Ví dụ, tôi có xuất bản một cuốn sách tham khảo. Mục đích của nó là hệ thống hóa kiến thức để 'giúp người học có được lượng kiến thức tối thiểu nhằm viết được một bài tiểu luận vừa đủ đỗ kỳ thi đại học'. Vì vậy, tôi cố tình không viết những điều khó. Thế nhưng, có những lời phê bình mạt sát cuốn sách đó rằng: 'Đọc cuốn này thì năng lực cũng chỉ suýt soát đỗ thôi'. Tôi viết cuốn đó chính xác là để người ta có năng lực suýt soát đỗ mà! Nếu suýt soát đỗ được thì cuốn sách đó chẳng phải là một cuốn sách cực kỳ tốt hay sao? Việc tôi cố tình lược bỏ những phần khó nhưng lại bị chỉ trích vì không viết chúng thì thật là vô lý.<br/>Những lời phê bình ích kỷ như vậy thật nhiều biết bao. Kẻ có kiến thức thì chê sách nhập môn là ngô nghê, kẻ thiếu kiến thức thì chê sách chuyên ngành là khó hiểu. Nhưng đó đơn giản chỉ là việc họ tìm kiếm những cuốn sách không phù hợp với 'tầm vóc' của bản thân. Tôi nghĩ trách nhiệm của người đọc là phải tìm mua những cuốn sách thực sự phù hợp với trình độ của mình. Đã nói về sách thì nên có tình yêu với mọi loại sách. Chỉ khi đó, ta mới có tư cách để phê bình chúng.",
+          "pid": 9
+        }
+      ]
+    },
+    {
+      "sec": "問題13　右のページはある大学の就職支援行事の案内である。下の問いに対する答えとして最もよいものを1・2・3・4から一つ選びなさい｡",
+      "questions": [
+        {
+          "qid": 24,
+          "ques": "69．留学生のマイクさんは日本で就職したいと思っている。マイクさんが必ず出席しなければいけない行事はいくつか｡",
+          "options": {
+            "1": "1　一つ",
+            "2": "2　二つ",
+            "3": "3　三つ",
+            "4": "4　四つ"
+          },
+          "answer": "1",
+          "expl": null,
+          "pid": 10
+        },
+        {
+          "qid": 25,
+          "ques": "70．林さんはマスコミ関連の企業に就職したいので関連企業に就職した先輩の話や関連企業の仕事内容について聞きたいと思っている。林さんは授業のため17時以降しか出席できない。林さんに合う行事はどれか｡",
+          "options": {
+            "1": "1　③と⑧のみ",
+            "2": "2　③と⑧と⑩",
+            "3": "3　⑧のみ",
+            "4": "4　⑧と⑩のみ"
+          },
+          "answer": "1",
+          "expl": null,
+          "pid": 10
+        }
+      ]
+    }
+  ],
+  "passages": [
+    {
+      "pid": 0,
+      "passage": "(1) 失敗はすべて子どもがその後の人生を大過<small>(注)</small>なく生きるための血となり肉となる。そう思えば失敗する前に手を出すことがいかに愚かな教育かわかろうというものです。ただし親は常に子どもをそばでしっかり見守っていなければなりません。手は出さないけれどいつでも危険から救ってやれるよう待機するのです。そうしてもし子どもが転んでケガをしたら「ほら痛いでしょう。ぶつからないように注意するのよ」と教えてやる。そういう姿勢が親に求められるのです。<div style=\"text-align:right\">(大宅映子『親の常識』による) </div><br/>(注)大過：大きな過ち"
+    },
+    {
+      "pid": 1,
+      "passage": "(2) 以下はある会社がホームページに掲載したお知らせである。<br/>ミツヌマ健康食品株式会社 > ニュース<br/>2014.10.14 健康食品「ビタミン生活」に関するお知らせ<br/>お客様各位平素は弊社商品にご愛顧を<ruby>賜<rt>たまわ</rt></ruby>り、厚く御礼申し上げます｡<br/>さて、2014年9月8日より通販および弊社直営店舗での販売を開始いたしました「ビタミン生活」 は、情報番組での紹介もあって、当初の販売計画を大幅に上回り、生産が追いつかない状況となって おります。そのため、すでに通販での受注を停止しておりますが、店舗販売も在庫がなくなり次第、一時中止せざるを得なくなりました。今後は生産体制を整え、11月17日に店舗販売のみ再開を予定しております｡<br/>お客様にご迷惑をおかけしますことを、深くお詫び申し上げます｡<br/>ミツヌマ健康食品株式会社<br/>お客様担当係：0120-333-1406  <br/>受付時間 10:00-18:00 土日祝休み"
+    },
+    {
+      "pid": 2,
+      "passage": "(3) 以下は諦めについて書かれた文章である｡<hr/>人が自分の能力以上のことに憧れそれがどうしても出来ないというのになお執着を持っているとしたら登れない壁の下で<ruby>徒<rt>いたず</rt></ruby>らにじたばたしているようなもので気の毒でもありますが<ruby>滑稽<rt>かっけい</rt></ruby>でもあります。この場合は諦めが必要です。ただそれはその次の自分の能力に合った憧れなり道なりを求めるためにのみ必要であって諦めの中に<ruby>憩<rt>いこ</rt></ruby>ってしまうことは少し見当が外れていることになるかもしれません。<div style=\"text-align:right\">(串田孫一『考える葦』による)</div>"
+    },
+    {
+      "pid": 3,
+      "passage": "(4) 私が35歳になったころ「このごろは少年時代に経験したようなものすごい<ruby>雷雨<rt>らいう</rt></ruby>が無くなった」と口にしたことがあります。ところが60歳ぐらいになったとき35歳ぐらいの人から同じ言葉を聞いたのです。つまり私が強い雷雨は無くなったと感じたときその人はまだ少年時代で強い雷雨を経験していたことになります。この場合は無くなったのは少年時代特有の自然から受ける<ruby>鮮烈<rt>せんれつ</rt></ruby>な印象、驚き、恐れでしょう。<div style=\"text-align:right\">　(倉嶋厚『日和見の事典――倉嶋 厚の人文気象学ノート』による)</div>"
+    },
+    {
+      "pid": 4,
+      "passage": "(1) 不安は正体がつかみきれないときほど膨らんでいく。長く引きずる｡<br/>人間だれでも自分に都合の悪いこと恐ろしいことは考えたくない。そういう心理が働くから無意識のうちに問題をあいまいにして解決を保留にする。そうして結局①<u>いつまでも不安をダラダラと抱え続けてしまう</u>。逆に自分の何がどのように不安なのか不安に思う必要があるのかどうかを把握すればそれだけで不安は減る。不安の正体が明確になってこれは何かしなくてはまずいと認識されればそれは「危機感」になる｡<br/>危機感は不安と違う。危機感をもてば行動を起こそうという意欲が湧く。さらに情報を集めて行動計画をたてようとする。やるべきことが明確になる。だからスタートが切れるのだ｡<br/>問題は鍵となる不安は何なのかということだ。様々な不安の中からそれを特定して意識する。その不安に思いきり光を当てて自分で正体を見極められれば次にどうすればいいかの対策も講じられる。(中略) <br/>不安にはしばらく保留にしておいても大丈夫な不安もある。それがわかった瞬間不安はまた少し減る｡<br/>こうして自分が何をやらなければいけないかが見えてくる。やる気が出てくる。動く気になる。不安の解決策を考えながら夢が膨らんでくることもある。<div style=\"text-align:right\">(佐々木直彦『「仕事も人生もうまくいく人」の考え方』による)</div>"
+    },
+    {
+      "pid": 5,
+      "passage": "(2) 自分の泣いているときの表情や笑ったときの表情をまともに見たことのある人はまずない｡<br/>写真やビデオになれば自然な笑いがおさめられることもあるかもしれないがそこに映っているのは過去のそれであっていま内側から生きている感情と重なり合うものではない。その点鏡ならばそれを同時的に捉えられそうにもみえる。しかしじっさいには自分が笑っているときその笑っている自分の顔を見たとたんもはや笑いつづけられなくてさっと笑いがさめてしまうものである。泣いているときも同じである。(中略) <br/>自分の表情を視覚的に捉えることにはそもそも無理がある。他方他者の表情を内的に捉えることも私たちが他者の身体を内側から生きることができない以上不可能である。ならば他者の表情の理解はほんらい不可能なことだということになるはずだが私たちは日頃から表情の理解が不可能だとか困難だとかほとんど思いもしない。現に私たちは他者のわずかな表情の変化にも敏感であるしその表情の理解を土台にすることで人間関係の基本部分を成り立たせている｡<br/>表情はほぼ人類に共通であって微妙な表情は別として人種がちがってもそれを読み間違うことはまずない。含み笑いとか苦笑いあるいは愛想笑いとかいったものだと同じく笑いでも文化差があって読み間違うことがあるかもしれないが典型的な表情に関してはまず間違わない。そうだとすれば類としての人間のなかに表情を通して人どうしわかり合うメカニズムが個の単位を越えて存在するものと考えねばならない。<div style=\"text-align:right\">(浜田寿美男『「私」とは何か』による)</div>"
+    },
+    {
+      "pid": 6,
+      "passage": "(3) 多くの大人は子供よりも先に生きているから自分の方が人生を知っていると思っている。しかしこれはウソである。彼らが知っているのは「生活」であって決して「人生」ではない。生活の仕方いかに生活するかを知っているのを人生を知っていることだと思っている。そして生活を教えることが人生を教えることだと間違えているのである。しかし「生活」と「人生」とはどちらも「ライフ」だがこの両者は大違いである。「何のために」生活するのと問われたらどう答えるだろう。こういう基本的なところで大間違いをしているから小中学校で仕事体験をさせようといった愚(注1)にもつかない教育になる。(中略)生活の必要のない年齢には生活に必要のないことを学ぶ必要があるのだ。それはこの年齢このわずかな期間にのみ許されたきわめて貴重な時間なのだ。生活に必要のないことは人生に必要なことだ。すなわち人生とは何かを考えるための時間があるのはこの年代の特権なのである｡<br/>「人生とは何か」とはそこにおいて生活が可能となるところの生存そのものこれを問う問いである。「生きている」すなわち「存在する」とはどういうことなのか｡<br/>この問いの不思議に気がつけばどの教科もそれを純粋に知ることの面白さがわかるはずだ。国語においては言葉算数においては数と図形理科においては物質と生命社会においては人倫(注2)どれもこの存在と宇宙の不思議を知ろうとするものだと知るはずだ。人間精神の普遍的な営みとして自分と無縁なものはひとつもない。どれも自分の人生の役に立つ学びだと知るはずなのだ。<div style=\"text-align:right\">(池田晶子『人間自身――考えることに終わりなく』による) </div><br/>(注1) 愚にもつかない：ここではばかばかしい<br/>(注2) 人倫：人として守るべき道"
+    },
+    {
+      "pid": 7,
+      "passage": "以下はある芸術家が書いた文章である｡<hr/>人間は動物とちがって知的な活動その情熱をもっている。おさなくたって魂の衝動は強いのだ。だから子供は描きたがる。形色にして確かめる。だが問題は自分のなかにあるものを外に突き出す投げ出すという行為自体であって決して出来上りの効果ではない｡<br/>だから子供は描きおわってしまったものはふり向きもしない。捨てられたって何とも思わないのだ(中略)それを大事そうに拾いあげて「これは面白い。」「坊やは才能がある。これをうまく伸ばせば将来えらい画家になるかもしれない。」などと観賞したり評価するのはいつでも大人で子供自身はもしほめられてもそんなものかなと聞いているだけである｡<br/>だから「子供の絵」というような言い方の根本に何か間違いがあると私は思う。描いたものには違いないが「作品」ではない。その以前のもっと根源的な何ものかなのである｡<br/>「絵」などというから大人の「絵画作品」と混同して考えてしまう。そこにズレがおこる。大人のは見せる芸であり商品である。はじめから観賞することしてもらうことを目的とし結果を予測しながら作り上げたものなのだ｡<br/>いわゆる「絵描きさん」となると描いている瞬間瞬間に結果がわかっている。こうやればこうなる。習練(注1)と経験によって色やタッチ(注2)の効果が計算できるし生命の衝動情熱無目的な行動よりも結果の方に神経が働いてしまう。出来ばえに逆にひきずり回されているのだ｡<br/>しかも大向こう(注3)の気配まですでに見すかして･･････こんな趣向は喜ばれるだろうこれはちょっとやりすぎかななどと意識・無意識にそんな手応えにあわせながら仕事をすすめている。評判をとり買手がついてくれなければ食ってゆけないし社会が許さない。生活はきびしいのだ。無償の行為というわけにはいかない。明らかに「作品」つまり「商品」を作っているのである。大人の作品だって本質的には生命力こそ肝要なのだ。自分の存在を純粋に外に投げ出す突き出すアクションの質強さによって猛烈な魅力になる｡<br/>私自身は少なくともそのつもりである。よくあなたの絵はわけがわからないと言われるが「絵」でございますというようなものは作りたくない。それ以前そして以後のものをひたすらつきつける。――絵ではなく芸術。そして出来るかぎり他の評価を無視したいと思っている。<div style=\"text-align:right\">　(岡本太郎『美しく怒れ』による) </div><br/>(注1) 習練：練習(注2)タッチ：ここでは筆の使い方<br/>(注3) 大向こう：ここでは観賞する人々"
+    },
+    {
+      "pid": 8,
+      "passage": "A<br/>世界遺産への関心が高まるのは喜ばしい。各地で登録をめざす動きも活発化している。新聞をはじめとしたメディアがそれらを報じる機会も増えた。ただいつも気になるのはそこに「地元では観光振興に結びつくのを期待している」といったたぐいの文言が必ずと言ってよいほど目につくことだ｡<br/>私としては観光・経済効果の拡大を否定はしないし文化財保護との両立はできると考えている。しかし近年の状況を眺めると遺産の保護という基本理念があまりにも置き去りにされてしまってはいないだろうか。<div style=\"text-align:right\">(中村俊介『世界遺産が消えてゆく』による) </div>"
+    },
+    {
+      "pid": 11,
+      "passage": "B<br/>日本では映像や書籍などさまざまなメディアで世界遺産を商品化しパッケージ・ツアーが数多く組まれ観光産業と深く結び付く。だがそれは本当に建築や自然を愛し歴史への理解を深める人間を増やしているのだろうか。(中略) <br/>世界遺産であろうとなかろうと建築の価値は個別に判断すればいい。人間も肩書きだけですべてを理解できないだろう。世界遺産に認定されたからといって株のように建築の価値が上昇するわけではない。むろん観光資源として巨額の富をもたらすだろうがモノとしては同じままである。私が気になるのは世界遺産だけを特別視するあまり逆にそれ以外のものはがんばって保存しなくてもいいという風潮を助長するのではないかということだ。<div style=\"text-align:right\">(五十嵐太郎 『建築はいかに社会と回路をつなぐのか』による)</div>"
+    },
+    {
+      "pid": 9,
+      "passage": "本というのは人間と同じようなものだ。一律の価値によって優劣を決めることはできない。人気者がいるのと同じようにベストセラーがある。嫌われ者がいるように誰からも手に取られない本もある。だがどれもがそれぞれの価値を持っている。それを求めている人の手に求めているときに渡ればそれは良書になる。それゆえ私はインターネットの書評サイトなどでまるで自分を神であるかのように本の優劣を断定しているものには激しい抵抗を感じる。もちろん書評をするのは悪いことではない。本を批判したりほめたりするのももちろん大事なことだ。だがあくまでもそれはその人の知識と関心と人柄によっての判断でしかない。つい神の立場でものを言いたくなる気持ちはわからないでもないがそれはあまりに傲慢というものだろう。私の本もインターネットの書評サイトでかなり叩かれているものがある。それはそれでやむをえないと思っている。ある程度売れるとそれをけなしたがる人間がいるものだ。本をけなすと自分が著者よりも偉くなったような気がするのだろう。私自身も本を書くようになる前いや正直に言うとある程度売れる本を出すようになる前他人の本をずいぶんけなしたものだ。ただきわめて心外なのはないものねだりをしている評があまりに多いことだ。たとえば私はある参考書を出している。その趣旨としていることは「大学の小論文試験に何とか合格できるだけのレベルの小論文が書けるようにするため最低限これだけの知識は持っていてほしい」という知識を整理した参考書だ。だから私はその本の中では敢えて難しいことは書いていない。ところがその参考書を酷評する(注)書評がある。そしてその評の中には「この本を読んでもかろうじて合格するくらいの力しかつかない」と書かれている。私はまさしくかろうじて合格するくらいの力をつけるためにその本を書いているのだ。かろうじて合格すればその本は最高の良書だろう。私がそのような意味で敢えてカットしたことを取り上げてそれが書かれていないからと批判されてもこちらとしては困ってしまう｡<br/>そのような身勝手な書評がなんと多いことか。知識のある人間が入門書を幼稚すぎるとけなし知識のない人間が専門書をわかりにくいとけなす。しかしそれは単に自分の背丈にあっていない本を求めただけのことに過ぎない。きちんと自分の背丈にあった本を探して買うのが読者の務めだと私は思う。本について語るからにはあらゆる本に愛情を持つべきだと私は考えている。そうしてこそ本を批判する資格を持つと思うのだ。<div style=\"text-align:right\">(樋口裕一『差がつく読書』による)</div> <br/>(注)酷評する：ひどく厳しい評価を下す"
+    },
+    {
+      "pid": 10,
+      "passage": "<center>就職支援行事（9〜12月）のスケジュール</center><br/>就職活動を行う学生のために、各種行事を実施しています。全行事、申し込みは不要です。当日、学生証を持参のうえ、会場へお越しください。<table><tr><th></th><th>日</th><th>時間</th><th>行事名</th><th>内容</th></tr><tr><td>①</td><td>9月19日（金）</td><td>イ</td><td>就職ガイダンス</td><td>「就職活動全般の基本的な情報」就職活動の方法やスケジュールなど</td></tr><tr><td>②</td><td>9月24日（水）</td><td>ア</td><td>留学生ガイダンス</td><td>留学生向けの在留資格や留学生の就職状況などの説明</td></tr><tr><td>③</td><td>10月3日（金）</td><td>イ</td><td>就職活動体験談(1)</td><td>広告・マスコミ業界に就職した卒業生による就職活動の体験談</td></tr><tr><td>④</td><td>10月16日（木）</td><td>ア</td><td>就職ガイダンス</td><td>【就職活動全般の基本的な情報】 内容は9月19日と同じです</td></tr><tr><td>⑤</td><td>10月23日（木）</td><td>ア</td><td>留学生ガイダンス</td><td>内容は9月24日と同じです</td></tr><tr><td>⑥</td><td>11月7日（金）</td><td>イ</td><td>留学生マナー講座</td><td>留学生が日本で就職活動を行うにあ たっての基本的なマナー講座</td></tr><tr><td>⑦</td><td>11月20日（木）</td><td>イ</td><td>就職活動体験談(2)</td><td>金融・証券業界に就職した卒業生による就職活動の体験談</td></tr><tr><td>⑧</td><td>12月1日（月）</td><td>※</td><td>合同企業説明会</td><td>詳細は下記参照</td></tr><tr><td>⑨</td><td>12月12日（金）</td><td>イ</td><td>就職活動体験談(3)</td><td>貿易・流通業界に就職した卒業生によ る就職活動の体験談</td></tr><tr><td>⑩</td><td>12月17日（木）</td><td>※</td><td>合同企業説明会</td><td>詳細は下記参照</td></tr></table>開催時間： ア... 14:50〜16:20　　イ...18:30〜20:00 <br/>※合同企業説明会は下記参照<br/>開催場所： ⑥以外...縁山ホール　　⑥...101教室合同企業説明会について 合同企業説明会は業特別に、以下の日時に開催されます。各国、約50社が参加予定です。(途中入退場自由)<br/><table><tr><th></th><th>12月1日</th> <th>12月17日</th></tr><tr><td>16:00〜17:00</td><td>金融・証券</td><td>広告・マスコミ </td></tr><tr><td>17:15〜18:15 </td><td>広告・マスコミ</td><td> メーカー - IT </td></tr><tr><td>18:30〜19:30 </td><td>貿易・流通</td><td>教育・福祉</td></tr></table>注意事項<br/>* 就職希望者(留学生含む)は、「就職ガイダンス』のどちらかに必ず出席してください｡<br/>*「留学生ガイダンス」は希望者のみ出席してください｡<br/>縁山大学就職課"
+    }
+  ]
+}

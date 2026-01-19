@@ -1,0 +1,482 @@
+{
+  "level": "N5",
+  "exam_id": "201801",
+  "sections": [
+    {
+      "sec": "もんだい１　___のことばは どうよみますか。1·2·3·4から いちばんいいものを 一つえらんでください｡",
+      "questions": [
+        {
+          "qid": 1,
+          "ques": "<span class=\"q-number\">1</span> あしたは　<u>雨</u>ですか｡",
+          "options": {
+            "1": "1　ゆき",
+            "2": "2　あめ",
+            "3": "3　くもり",
+            "4": "4　はれ"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 2,
+          "ques": "<span class=\"q-number\">2</span> きょうしつで　<u>書いて</u>ください｡",
+          "options": {
+            "1": "1　はいって",
+            "2": "2　きいて",
+            "3": "3　かいて",
+            "4": "4　ひいて"
+          },
+          "answer": "3",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 3,
+          "ques": "<span class=\"q-number\">3</span> しゃしんは　はこの　<u>中</u>に　あります｡",
+          "options": {
+            "1": "1　上",
+            "2": "2　なか",
+            "3": "3　そと",
+            "4": "4　そば"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 4,
+          "ques": "<span class=\"q-number\">4</span> この　いすは　<u>小さい</u>です｡",
+          "options": {
+            "1": "1　しいさい",
+            "2": "2　しさい",
+            "3": "3　ちいさい",
+            "4": "4　ちさい"
+          },
+          "answer": "3",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 5,
+          "ques": "<span class=\"q-number\">5</span> あしたは　<u>火よう日</u>です｡",
+          "options": {
+            "1": "1　からようび",
+            "2": "2　どようび",
+            "3": "3　すいようび",
+            "4": "4　にちようび"
+          },
+          "answer": "1",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 6,
+          "ques": "<span class=\"q-number\">6</span> きれいな　<u>空</u>ですね｡",
+          "options": {
+            "1": "1　にわ",
+            "2": "2　うみ",
+            "3": "3　そら",
+            "4": "4　いえ"
+          },
+          "answer": "3",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 7,
+          "ques": "<span class=\"q-number\">7</span> せいとは　<u>百人</u>　います｡",
+          "options": {
+            "1": "1　ぴゃくじん",
+            "2": "2　ぴゃくにん",
+            "3": "3　ひゃくじん",
+            "4": "4　ひゃくにん"
+          },
+          "answer": "3",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 8,
+          "ques": "<span class=\"q-number\">8</span> <u>魚</u>が　たくさん　いますよ｡",
+          "options": {
+            "1": "1　さかな",
+            "2": "2　いぬ",
+            "3": "3　とり",
+            "4": "4　ねこ"
+          },
+          "answer": "1",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 9,
+          "ques": "<span class=\"q-number\">9</span> ペンを　<u>半分</u>　ともだちに　あげました｡",
+          "options": {
+            "1": "1　ぽんぶん",
+            "2": "2　ぼんぶん",
+            "3": "3　はんぶん",
+            "4": "4　はんぷん"
+          },
+          "answer": "3",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 10,
+          "ques": "<span class=\"q-number\">10</span> ぎんこうと　スーパーの　<u>間</u>に　ほそい　みちが　あります｡",
+          "options": {
+            "1": "1　あいた",
+            "2": "2　あいだ",
+            "3": "3　となり",
+            "4": "4　となか"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 11,
+          "ques": "<span class=\"q-number\">11</span> たまごを　<u>三つ</u>　とって　ください｡",
+          "options": {
+            "1": "1　みっつ",
+            "2": "2　いつつ",
+            "3": "3　さんつ",
+            "4": "4　ごつ"
+          },
+          "answer": "1",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 12,
+          "ques": "<span class=\"q-number\">12</span> きょうは　<u>天気</u>が　いいですね｡",
+          "options": {
+            "1": "1　げんき",
+            "2": "2　けんき",
+            "3": "3　でんき",
+            "4": "4　てんき"
+          },
+          "answer": "4",
+          "expl": null,
+          "pid": null
+        }
+      ]
+    },
+    {
+      "sec": "もんだい２　___のことばは どうかきますか。1·2·3·4から いちばんいいものを 一つえらんでください｡",
+      "questions": [
+        {
+          "qid": 13,
+          "ques": "<span class=\"q-number\">13</span> この　<u>わいしゃつ</u>を　ください｡",
+          "options": {
+            "1": "1　ワイシャソ",
+            "2": "2　ワイシャツ",
+            "3": "3　ウイシャソ",
+            "4": "4　ウイシャツ"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 14,
+          "ques": "<span class=\"q-number\">14</span> わたしの　くには <u>かわ </u>が　おおいです｡",
+          "options": {
+            "1": "1　川",
+            "2": "2　木",
+            "3": "3　山",
+            "4": "4　花"
+          },
+          "answer": "1",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 15,
+          "ques": "<span class=\"q-number\">15</span> ヤマさんの　<u>がっこう</u>は　どこですか｡",
+          "options": {
+            "1": "1　字枚",
+            "2": "2　学枚",
+            "3": "3　字校",
+            "4": "4　学校"
+          },
+          "answer": "4",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 16,
+          "ques": "<span class=\"q-number\">16</span> このざっしを　<u>みて</u>　ください｡",
+          "options": {
+            "1": "1　見て",
+            "2": "2　買て",
+            "3": "3　目て",
+            "4": "4　員て"
+          },
+          "answer": "1",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 17,
+          "ques": "<span class=\"q-number\">17</span> このカメラは　<u>たかい</u>ですね｡",
+          "options": {
+            "1": "1　古い",
+            "2": "2　新しい",
+            "3": "3　高い",
+            "4": "4　安い"
+          },
+          "answer": "3",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 18,
+          "ques": "<span class=\"q-number\">18</span> きのうは　<u>かいしゃ</u>に　いきました｡",
+          "options": {
+            "1": "1　公仕",
+            "2": "2　会仕",
+            "3": "3　公社",
+            "4": "4　会社"
+          },
+          "answer": "4",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 19,
+          "ques": "<span class=\"q-number\">19</span> まだ<u>いわれないで</u>　ください｡",
+          "options": {
+            "1": "1　立たないで",
+            "2": "2　行わないで",
+            "3": "3　言わないで",
+            "4": "4　食わないで"
+          },
+          "answer": "3",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 20,
+          "ques": "<span class=\"q-number\">20</span> <u>らいげつ/u>、けっこんしきを　します｡",
+          "options": {
+            "1": "1　今月",
+            "2": "2　来月",
+            "3": "3　今週",
+            "4": "4　来週"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": null
+        }
+      ]
+    },
+    {
+      "sec": "もんだい３　（　）に なにを いれますか。1·2·3·4から いちばんいいものを 一つえらんでください｡",
+      "questions": [
+        {
+          "qid": 21,
+          "ques": "<span class=\"q-number\">21</span> わたしのへやは　このアパートの２（　）です｡",
+          "options": {
+            "1": "1　ほん",
+            "2": "2　だい",
+            "3": "3　さつ",
+            "4": "4　かい"
+          },
+          "answer": "4",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 22,
+          "ques": "<span class=\"q-number\">22</span> そのナイフで　りんごを （　） ください｡",
+          "options": {
+            "1": "1　しめて",
+            "2": "2　おきて",
+            "3": "3　きって",
+            "4": "4　つけて"
+          },
+          "answer": "3",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 23,
+          "ques": "<span class=\"q-number\">23</span> （　）を　わすれましたから、じかんが　わかりません｡",
+          "options": {
+            "1": "1　じしょ",
+            "2": "2　とけい",
+            "3": "3　ちず",
+            "4": "4　さいふ"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 24,
+          "ques": "<span class=\"q-number\">24</span> わたしのうちは　えきにちかいですから、（　）です｡",
+          "options": {
+            "1": "1　じょうぶ",
+            "2": "2　へた",
+            "3": "3　いっぱい",
+            "4": "4　べんり"
+          },
+          "answer": "4",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 25,
+          "ques": "<span class=\"q-number\">25</span> なつやすみは まいにち（　）で およぎました｡",
+          "options": {
+            "1": "1　プール",
+            "2": "2　レストラン",
+            "3": "3　ビル",
+            "4": "4　エレベーター"
+          },
+          "answer": "1",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 26,
+          "ques": "<span class=\"q-number\">26</span> しらないことが　ありましたから、せんせいに （　）しました｡",
+          "options": {
+            "1": "1　しつもん",
+            "2": "2　じゅぎょう",
+            "3": "3　べんきょう",
+            "4": "4　れんしゅう"
+          },
+          "answer": "1",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 27,
+          "ques": "<span class=\"q-number\">27</span> このへやは　あついから、（　）を　あけましょう｡",
+          "options": {
+            "1": "1　おふろ",
+            "2": "2　まど",
+            "3": "3　エアコン",
+            "4": "4　テーブル"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 28,
+          "ques": "<span class=\"q-number\">28</span> きのうは　がっこうで　たくさんかんじを　（　）｡",
+          "options": {
+            "1": "1　おぼえました",
+            "2": "2　こまりました",
+            "3": "3　もちました",
+            "4": "4　うりました"
+          },
+          "answer": "1",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 29,
+          "ques": "<span class=\"q-number\">29</span> このコーヒーは、さとうを　たくさんいれましたから、（　）です｡",
+          "options": {
+            "1": "1　からい",
+            "2": "2　あまい",
+            "3": "3　まるい",
+            "4": "4　わかい"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 30,
+          "ques": "<span class=\"q-number\">30</span> つよいかぜ　が（　）います｡",
+          "options": {
+            "1": "1　いそいで",
+            "2": "2　はしって",
+            "3": "3　とんで",
+            "4": "4　ふいて"
+          },
+          "answer": "4",
+          "expl": null,
+          "pid": null
+        }
+      ]
+    },
+    {
+      "sec": "もんだい４　___のぶんと だいたいおなじいみのぶんが あります。1·2·3·4から いちばんいいものを 一つえらんでください｡",
+      "questions": [
+        {
+          "qid": 31,
+          "ques": "<span class=\"q-number\">31</span> <u className=\"text-black\">これは　りょうしんの　しゃしんです</u>｡",
+          "options": {
+            "1": "1. これは　あねといもうとの　しゃしんです｡",
+            "2": "2. これは　あにとおとうとの　しゃしんです｡",
+            "3": "3. これは　ちちとははの　しゃしんです｡",
+            "4": "4. これは　そふとそぼの　しゃしんです。"
+          },
+          "answer": "3",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 32,
+          "ques": "<span class=\"q-number\">32</span> <u className=\"text-black\">このダンスは　やさしいです</u>｡",
+          "options": {
+            "1": "1. このダンスは　かんたんです｡",
+            "2": "2. このダンスは　たいへんです｡",
+            "3": "3. このダンスは　たのしいです｡",
+            "4": "4. このダンスは　つまらないです。"
+          },
+          "answer": "1",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 33,
+          "ques": "<span class=\"q-number\">33</span> <u className=\"text-black\">ふくを　せんたくしました</u>｡",
+          "options": {
+            "1": "1. ふくを　きました｡",
+            "2": "2. ふくを　ぬぎました｡",
+            "3": "3. ふくを　わたしました｡",
+            "4": "4. ふくを　あらいました。"
+          },
+          "answer": "4",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 34,
+          "ques": "<span class=\"q-number\">34</span> <u className=\"text-black\">このへやは　からいですね</u>｡",
+          "options": {
+            "1": "1. このへやは　あかるいですね｡",
+            "2": "2. このへやは　あかるくないですね｡",
+            "3": "3. このへやは　しずかですね｡",
+            "4": "4. このへやは　しずかじゃないですね。"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 35,
+          "ques": "<span class=\"q-number\">35</span> <u className=\"text-black\">リーさんは　もりさんに　ペンを　かしました</u>｡",
+          "options": {
+            "1": "1. リーさんは　もりさんに　ペンを　かりました｡",
+            "2": "2. もりさんは　リーさんに　ペンを　かりました｡",
+            "3": "3. リーさんは　もりさんに　ペンを　もらいました｡",
+            "4": "4. もりさんは　リーさんに　ペンを　もらいました。"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": null
+        }
+      ]
+    }
+  ],
+  "passages": []
+}

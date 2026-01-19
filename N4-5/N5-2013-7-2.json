@@ -1,0 +1,64 @@
+{
+  "level": "N5",
+  "exam_id": "201307",
+  "sections": [
+    {
+      "sec": "もんだい１　（　）に何を 入れますか。1·2·3·4から いちばんいいものを 一つえらんでください｡",
+      "questions": [
+        
+      ]
+    },
+    {
+      "sec": "もんだい２　_★_に入るものは どれですか。1·2·3·4から いちばん いいものを 一つえらんでください｡",
+      "questions": [
+        
+      ]
+    },
+    {
+      "sec": "もんだい３　（14）から（17）に 何を入れますか。1·2·3·4から いちばんいいものを 一つえらんでください｡",
+      "questions": [
+        
+      ]
+    },
+    {
+      "sec": "もんだい４　つぎのぶんを読んで、しつもんに こたえてください。こたえは、1·2·3·4から いちばんいいものを 一つえらんでください｡",
+      "questions": [
+        
+      ]
+    },
+    {
+      "sec": "もんだい５　つぎのぶんを読んで、しつもんに こたえてください。こたえは、1·2·3·4から いちばんいいものを 一つえらんでください｡",
+      "questions": [
+        
+      ]
+    },
+    {
+      "sec": "もんだい６　つぎのぶんを読んで、しつもんに こたえてください。こたえは、1·2·3·4から いちばんいいものを 一つえらんでください｡",
+      "questions": [
+        
+      ]
+    }
+  ],
+  "passages": [
+    {
+      "pid": 0,
+      "passage": "りゅうがくせいの ブラウンさんと レーさんは さくぶんを 書いて、クラスの みんなの 前で 読みました。<hr/>（1）ブラウンさんのさくぶん<br/>先週の <ruby>日曜日<rt>にちようび</rt></ruby>に 私ははじめて 日本の えいがかんで えいがを 見ました。駅の近く （14）新しい えいがかんで 見ました。えいがかんは 広く、とても きれいでした｡<br/>また（15）。<hr/>（2）レーさんのさくぶん<br/>私は <ruby>先週<rt>せんしゅう</rt></ruby>の <ruby>土曜日<rt>どようび</rt></ruby>に うちで ともだちと りょうりをしました。私たちは 二つの りょうりを作りました。はじめは、おにぎりを作りました。（16）、やさいの みそしるを 作りました。おにぎりは 少し むずかしかったです。でも、みそしるは（17）。ともだちと 作ったおにぎりと みそしるは おいしかったです。"
+    },
+    {
+      "pid": 1,
+      "passage": "(1)<br/>（<ruby>会<rt>かい</rt></ruby><ruby>社<rt>しゃ</rt></ruby>で） ムムさんは　同じ　<ruby>会<rt>かい</rt></ruby><ruby>社<rt>しゃ</rt></ruby>の　<ruby>大<rt>おお</rt></ruby><ruby>友<rt>とも</rt></ruby>さんに　メールを　しました。<hr/><ruby>大<rt>おお</rt></ruby><ruby>友<rt>とも</rt></ruby>さん<br/><ruby>机<rt>つくえ</rt></ruby>の　<ruby>上<rt>うえ</rt></ruby>の　おかしを　ありがとう。<ruby>旅<rt>りょ</rt></ruby><ruby>行<rt>こう</rt></ruby>は　どうでしたか｡<br/>今、<ruby>大<rt>おお</rt></ruby><ruby>友<rt>とも</rt></ruby>さんの　ところに　<ruby>行<rt>い</rt></ruby>きましたが、いませんでしたから、メールをしました｡<br/>おいしかったです。ごちそうさまでした｡<br/>ムム"
+    },
+    {
+      "pid": 2,
+      "passage": "(2)<br/><ruby>学<rt>がく</rt></ruby><ruby>生<rt>せい</rt></ruby>の　ころ、わたしは　いつも　<ruby>友<rt>とも</rt></ruby>だちと　<ruby>話<rt>はな</rt></ruby>しながら　<ruby>電<rt>でん</rt></ruby><ruby>車<rt>しゃ</rt></ruby>で　<ruby>学<rt>がっ</rt></ruby><ruby>校<rt>こう</rt></ruby>に　<ruby>行<rt>い</rt></ruby>っていました。今は　一人で　<ruby>電<rt>でん</rt></ruby><ruby>車<rt>しゃ</rt></ruby>で　<ruby>会<rt>かい</rt></ruby><ruby>社<rt>しゃ</rt></ruby>に　<ruby>行<rt>い</rt></ruby>きます。<ruby>会<rt>かい</rt></ruby><ruby>社<rt>しゃ</rt></ruby>まで　１<ruby>時<rt>じ</rt></ruby><ruby>間<rt>かん</rt></ruby>、<ruby>本<rt>ほん</rt></ruby>を　<ruby>読<rt>よ</rt></ruby>みながら　<ruby>行<rt>い</rt></ruby>きます。今は　<ruby>本<rt>ほん</rt></ruby>が　わたしの　<ruby>友<rt>とも</rt></ruby>だちです。"
+    },
+    {
+      "pid": 3,
+      "passage": "これは ランさん が <ruby>書<rt>か</rt></ruby>いた さくぶん です。<hr><center><ruby>青木山<rt>あおきやま</rt></ruby> に のぼりました</center><div style=\"text-align:right\">ラン</div>きのう、はじめて <ruby>青木山<rt>あおきやま</rt></ruby> に のぼりました。<ruby>山<rt>やま</rt></ruby> の <ruby>上<rt>うえ</rt></ruby> の さくら が <ruby>見<rt>み</rt></ruby>たかった から です。<br><ruby>山<rt>やま</rt></ruby> の <ruby>入口<rt>いりぐち</rt></ruby> から <ruby>山<rt>やま</rt></ruby> の <ruby>上<rt>うえ</rt></ruby>  まで <ruby>２時間<rt>にじかん</rt></ruby> かかります。<ruby>私<rt>わたし</rt></ruby> は １５<ruby>分<rt>ふん</rt></ruby> ぐらい のぼって、すぐ に つかれました。でも、<ruby>山<rt>やま</rt></ruby> で <ruby>会<rt>あ</rt></ruby>った <ruby>人<rt>ひと</rt></ruby>たち が みんな、<ruby>私<rt>わたし</rt></ruby> に <ruby>元気<rt>げんき</rt></ruby> な <ruby>声<rt>こえ</rt></ruby> で 「こんにちは。」と <ruby>言<rt>い</rt></ruby>いました。ちょっと ①<u>うれしかったです</u>。<br><br>１<ruby>時<rt>じ</rt></ruby>ごろ <ruby>山<rt>やま</rt></ruby> の <ruby>上<rt>うえ</rt></ruby> に <ruby>着<rt>つ</rt></ruby>きました。さくら の <ruby>木<rt>き</rt></ruby> は ありました が、<ruby>花<rt>はな</rt></ruby> は ありません でした。近く に いた <ruby>女<rt>おんな</rt></ruby> の <ruby>人<rt>ひと</rt></ruby> に 「さくら の <ruby>花<rt>はな</rt></ruby> は まだ です か。」と <ruby>聞<rt>き</rt></ruby>きました。 女の人 は 「<ruby>山<rt>やま</rt></ruby> の <ruby>上<rt>うえ</rt></ruby> は <ruby>寒<rt>さむ</rt></ruby>い です から、<ruby>花<rt>はな</rt></ruby> は まだ です。<ruby>来月<rt>らいげつ</rt></ruby> の はじめごろ に <ruby>咲<rt>さ</rt></ruby>く と <ruby>思<rt>おも</rt></ruby>います よ。」と <ruby>言<rt>い</rt></ruby>いました。<br><br>ですから、②<u><ruby>来月<rt>らいげつ</rt></ruby> また <ruby>行<rt>い</rt></ruby>きたい です</u>。"
+    },
+    {
+      "pid": 4,
+      "passage": "<center><ruby>中野<rt>なかの</rt></ruby>の<ruby>町<rt>まち</rt></ruby> <ruby>今週<rt>こんしゅう</rt></ruby>のやすい<ruby>店<rt>みせ</rt></ruby></center><br><center><ruby>12月<rt>じゅうにがつ</rt></ruby>13<ruby>日<rt>にち</rt></ruby>（<ruby>金<rt>きん</rt></ruby>）・14<ruby>日<rt>にち</rt></ruby>（<ruby>土<rt>ど</rt></ruby>）・15<ruby>日<rt>にち</rt></ruby>（<ruby>日<rt>にち</rt></ruby>）</center><br><center><ruby>今週<rt>こんしゅう</rt></ruby>は<ruby>下<rt>した</rt></ruby>の<ruby>四<rt>よっ</rt></ruby>つの<ruby>店<rt>みせ</rt></ruby>がやすいですよ</center><br><br><table style=\"width:100%; border-collapse: collapse;\"><tr><td style=\"width:50%; border: 1px solid black; padding: 5px;\">①<ruby>六八<rt>ろくはち</rt></ruby>くだもの<br><ruby>電話<rt>でんわ</rt></ruby>: 01-722-1406<br><br>13<ruby>日<rt>にち</rt></ruby>（<ruby>金<rt>きん</rt></ruby>） みかん　198<ruby>円<rt>えん</rt></ruby><br>14<ruby>日<rt>にち</rt></ruby>（<ruby>土<rt>ど</rt></ruby>） バナナ 　89<ruby>円<rt>えん</rt></ruby><br>15<ruby>日<rt>にち</rt></ruby>（<ruby>日<rt>にち</rt></ruby>） いちご 　300<ruby>円<rt>えん</rt></ruby></td><td style=\"width:50%; border: 1px solid black; padding: 5px;\">②とりのたかだ<br><ruby>電話<rt>でんわ</rt></ruby>: 01-722-1406<br><br>13<ruby>日<rt>にち</rt></ruby>（<ruby>金<rt>きん</rt></ruby>） とりにく 　150<ruby>円<rt>えん</rt></ruby><br>14<ruby>日<rt>にち</rt></ruby>（<ruby>土<rt>ど</rt></ruby>） たまご 　　99<ruby>円<rt>えん</rt></ruby><br>15<ruby>日<rt>にち</rt></ruby>（<ruby>日<rt>にち</rt></ruby>） とりにく 　150<ruby>円<rt>えん</rt></ruby></td></tr><tr><td style=\"width:50%; border: 1px solid black; padding: 5px;\">③すずきスーパー<br><ruby>電話<rt>でんわ</rt></ruby>: 01-722-1406<br><br>13<ruby>日<rt>にち</rt></ruby>（<ruby>金<rt>きん</rt></ruby>） ジュース 　50<ruby>円<rt>えん</rt></ruby><br>14<ruby>日<rt>にち</rt></ruby>（<ruby>土<rt>ど</rt></ruby>） とうふ 　48<ruby>円<rt>えん</rt></ruby><br>15<ruby>日<rt>にち</rt></ruby>（<ruby>日<rt>にち</rt></ruby>） チョコレート 　88<ruby>円<rt>えん</rt></ruby></td><td style=\"width:50%; border: 1px solid black; padding: 5px;\">④スーパーやまだ<br><ruby>電話<rt>でんわ</rt></ruby>: 01-722-1406<br><br>13<ruby>日<rt>にち</rt></ruby>（<ruby>金<rt>きん</rt></ruby>） りんご 　50<ruby>円<rt>えん</rt></ruby><br>14<ruby>日<rt>にち</rt></ruby>（<ruby>土<rt>ど</rt></ruby>） ぎゅうにゅう 　120<ruby>円<rt>えん</rt></ruby><br>15<ruby>日<rt>にち</rt></ruby>（<ruby>日<rt>にち</rt></ruby>） アイスクリーム 　80<ruby>円<rt>えん</rt></ruby></td></tr></table>"
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "level": "N5",
+  "exam_id": "201801",
+  "sections": [
+    {
+      "sec": "もんだい１",
+      "questions": [
+        {
+          "qid": 1,
+          "ques": "1 ばん <img src=\"/images/jlpt/N5-2018-1-1.png\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　",
+            "4": "4　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 0
+        },
+        {
+          "qid": 2,
+          "ques": "2 ばん <img src=\"/images/jlpt/N5-2018-1-2.png\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　",
+            "4": "4　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 0
+        },
+        {
+          "qid": 3,
+          "ques": "3 ばん <img src=\"/images/jlpt/N5-2018-1-3.png\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　",
+            "4": "4　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 0
+        },
+        {
+          "qid": 4,
+          "ques": "4 ばん <img src=\"/images/jlpt/N5-2018-1-4.png\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　",
+            "4": "4　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 0
+        },
+        {
+          "qid": 5,
+          "ques": "5 ばん ",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　",
+            "4": "4　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 0
+        },
+        {
+          "qid": 6,
+          "ques": "6 ばん",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　",
+            "4": "4　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 0
+        },
+        {
+          "qid": 7,
+          "ques": "7 ばん <img src=\"/images/jlpt/N5-2018-1-5.png\" style=\"width:100%;max-width:360px;margin:0 auto;\" />",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　",
+            "4": "4　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 0
+        }
+      ]
+    },
+    {
+      "sec": "もんだい２",
+      "questions": [
+        {
+          "qid": 8,
+          "ques": "1 ばん <img src=\"/images/jlpt/N5-2018-1-6.png\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　",
+            "4": "4　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 1
+        },
+        {
+          "qid": 9,
+          "ques": "2 ばん ",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　",
+            "4": "4　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 1
+        },
+        {
+          "qid": 10,
+          "ques": "3 ばん <img src=\"/images/jlpt/N5-2018-1-7.png\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　",
+            "4": "4　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 1
+        },
+        {
+          "qid": 11,
+          "ques": "4 ばん <img src=\"/images/jlpt/N5-2018-1-8.png\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　",
+            "4": "4　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 1
+        },
+        {
+          "qid": 12,
+          "ques": "5 ばん",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　",
+            "4": "4　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 1
+        },
+        {
+          "qid": 13,
+          "ques": "6 ばん",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　",
+            "4": "4　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 1
+        }
+      ]
+    },
+    {
+      "sec": "もんだい３",
+      "questions": [
+        {
+          "qid": 14,
+          "ques": "1 ばん <img src=\"/images/jlpt/N5-2018-1-9.png\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 2
+        },
+        {
+          "qid": 15,
+          "ques": "2 ばん <img src=\"/images/jlpt/N5-2018-1-10.png\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 2
+        },
+        {
+          "qid": 16,
+          "ques": "3 ばん <img src=\"/images/jlpt/N5-2018-1-11.png\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 2
+        },
+        {
+          "qid": 17,
+          "ques": "4 ばん <img src=\"/images/jlpt/N5-2018-1-12.png\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 2
+        },
+        {
+          "qid": 18,
+          "ques": "5 ばん <img src=\"/images/jlpt/N5-2018-1-13.png\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 2
+        }
+      ]
+    },
+    {
+      "sec": "もんだい４",
+      "questions": [
+        {
+          "qid": 19,
+          "ques": "1 ばん",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 3
+        },
+        {
+          "qid": 20,
+          "ques": "2 ばん",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 3
+        },
+        {
+          "qid": 21,
+          "ques": "3 ばん",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 3
+        },
+        {
+          "qid": 22,
+          "ques": "4 ばん",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 3
+        },
+        {
+          "qid": 23,
+          "ques": "5 ばん",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 3
+        },
+        {
+          "qid": 24,
+          "ques": "6 ばん",
+          "options": {
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
+          },
+          "answer": "",
+          "expl": "",
+          "pid": 3
+        }
+      ]
+    }
+  ],
+  "passages": [
+    {
+      "pid": 0,
+      "passage": "もんだい１では、まずしつもんを きいてください。それからはなしを きいて、もんだいようしの 1から4のなかから、ただしいこたえをひとつえらんでください。"
+    },
+    {
+      "pid": 1,
+      "passage": "もんだい２では、まずしつもんを きいてください。そのあと、もんだいようしを見てください。よむじかんがあります。それからはなしを きいて、もんだいようしの 1から4の中から、ただしいこたえをひとつえらんでください。"
+    },
+    {
+      "pid": 2,
+      "passage": "もんだい３では、えを みながらしつもんを きいてください。それから、ただしいこたえを 1から3の中から ひとえらんでください。"
+    },
+    {
+      "pid": 3,
+      "passage": "もんだい４では、えなどがありません。まずぶんをきいてください。それから、そのへんじをきいて、1から3のなかから、ただしいこたえを ひとつえらんでください。"
+    }
+  ]
+}

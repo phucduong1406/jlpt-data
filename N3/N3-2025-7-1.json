@@ -1,0 +1,486 @@
+{
+  "level": "N3",
+  "exam_id": "N3-2025-7",
+  "sections": [
+    {
+      "sec": "問題1　___のことばの読み方として最もよいものを、1・2・3・4 から一つえらびなさい｡",
+      "questions": [
+        {
+          "qid": 1,
+          "ques": "1．急に<u>涙</u>が出てしまいました｡",
+          "options": {
+            "1": "1　なみだ",
+            "2": "2　あせ",
+            "3": "3　せき",
+            "4": "4　くしゃみ"
+          },
+          "answer": "1",
+          "expl": "涙 nước mắt\nBất chợt tôi đã khóc.",
+          "pid": null
+        },
+        {
+          "qid": 2,
+          "ques": "2．けがは<u>完全</u>に<ruby>治<rt>なお</rt></ruby>りました｡",
+          "options": {
+            "1": "1　かんぜん",
+            "2": "2　かんたん",
+            "3": "3　けんぜん",
+            "4": "4　けんたん"
+          },
+          "answer": "1",
+          "expl": "完全 hoàn toàn\nVết thương đã lành hẳn rồi."
+        },
+        {
+          "qid": 3,
+          "ques": "3．雨で<u>地面</u>がぬれている｡",
+          "options": {
+            "1": "1　ちめい",
+            "2": "2　ちめん",
+            "3": "3　じめい",
+            "4": "4　じめん"
+          },
+          "answer": "4",
+          "expl": "地面 mặt đất\nĐất bị ướt do trời mưa.",
+          "pid": null
+        },
+        {
+          "qid": 4,
+          "ques": "4．お金はあの<ruby>箱<rt>はこ</rt></ruby>に<u>移した</u>ほうがいいですか｡",
+          "options": {
+            "1": "1　もどした",
+            "2": "2　かくした",
+            "3": "3　のこした",
+            "4": "4　うつした"
+          },
+          "answer": "4",
+          "expl": "移す chuyển, dời sang chỗ khác",
+          "pid": null
+        },
+        {
+          "qid": 5,
+          "ques": "5．ゆっくり<u>呼吸</u>をしてください｡",
+          "options": {
+            "1": "1　こきょう",
+            "2": "2　こきゅう",
+            "3": "3　こうきゅう",
+            "4": "4　こうきょう"
+          },
+          "answer": "2",
+          "expl": "呼吸 hô hấp, thở",
+          "pid": null
+        },
+        {
+          "qid": 6,
+          "ques": "6．ここに<u>身長</u>を書いてください｡",
+          "options": {
+            "1": "1　せんちょう",
+            "2": "2　しんちょう",
+            "3": "3　じんちょう",
+            "4": "4　ぜんちょう"
+          },
+          "answer": "2",
+          "expl": "身長 chiều cao cơ thể",
+          "pid": null
+        },
+        {
+          "qid": 7,
+          "ques": "7．前田さんは<u>困って</u>いるようだ｡",
+          "options": {
+            "1": "1　まよって",
+            "2": "2　おこって",
+            "3": "3　こまって",
+            "4": "4　だまって"
+          },
+          "answer": "3",
+          "expl": "困る gặp khó khăn, rắc rối",
+          "pid": null
+        },
+        {
+          "qid": 8,
+          "ques": "8．近くに<u>薬局</u>はありますか｡",
+          "options": {
+            "1": "1　やっきょ",
+            "2": "2　やきょく",
+            "3": "3　やっきょく",
+            "4": "4　やきょ"
+          },
+          "answer": "3",
+          "expl": "薬局 hiệu thuốc",
+          "pid": null
+        }
+      ]
+    },
+    {
+      "sec": "問題2　___のことばを漢字で書くとき、最もよいものを、1・2・3・4 から一つえらびなさい｡",
+      "questions": [
+        {
+          "qid": 9,
+          "ques": "9．この町で子どもを<u>そだてたい</u>と思っている｡",
+          "options": {
+            "1": "1　産てたい",
+            "2": "2　育てたい",
+            "3": "3　愛てたい",
+            "4": "4　幸てたい"
+          },
+          "answer": "2",
+          "expl": "育てる nuôi dạy",
+          "pid": null
+        },
+        {
+          "qid": 10,
+          "ques": "10．物が<ruby>燃<rt>も</rt></ruby>えるときに、<u>けむり</u>が出ます｡",
+          "options": {
+            "1": "1　煙",
+            "2": "2　燻",
+            "3": "3　焼",
+            "4": "4　爆"
+          },
+          "answer": "1",
+          "expl": "煙 khói",
+          "pid": null
+        },
+        {
+          "qid": 11,
+          "ques": "11．ここから<u>しんりん</u>が見えます｡",
+          "options": {
+            "1": "1　森村",
+            "2": "2　森林",
+            "3": "3　山林",
+            "4": "4　山村"
+          },
+          "answer": "2",
+          "expl": "森林 rừng",
+          "pid": null
+        },
+        {
+          "qid": 12,
+          "ques": "12．朝、シャワーを<u>あびました</u>｡",
+          "options": {
+            "1": "1　流びました",
+            "2": "2　洗びました",
+            "3": "3　清びました",
+            "4": "4　浴びました"
+          },
+          "answer": "4",
+          "expl": "浴びました tắm (shower)",
+          "pid": null
+        },
+        {
+          "qid": 13,
+          "ques": "13．文字の色を変えることは<u>かのう</u>でしょうか｡",
+          "options": {
+            "1": "1　可能",
+            "2": "2　可態",
+            "3": "3　化能",
+            "4": "4　化態"
+          },
+          "answer": "1",
+          "expl": "可能 khả năng",
+          "pid": null
+        },
+        {
+          "qid": 14,
+          "ques": "14．今からメールを<u>そうしん</u>します｡",
+          "options": {
+            "1": "1　返信",
+            "2": "2　送真",
+            "3": "3　送信",
+            "4": "4　返真"
+          },
+          "answer": "3",
+          "expl": "送信 gửi (mail/message)",
+          "pid": null
+        }
+      ]
+    },
+    {
+      "sec": "問題3　（　）に入れるのに最もよいものを、1・2・3・4 から一つえらびなさい｡",
+      "questions": [
+        {
+          "qid": 15,
+          "ques": "15．山の上から見た<ruby>景色<rt>けしき</rt></ruby>が素晴らしくて、とても（　）した｡",
+          "options": {
+            "1": "1　<ruby>拝見<rt>はいけん</rt></ruby>",
+            "2": "2　<ruby>歓迎<rt>かんげい</rt></ruby>",
+            "3": "3　<ruby>応答<rt>おうとう</rt></ruby>",
+            "4": "4　<ruby>感動<rt>かんどう</rt></ruby>"
+          },
+          "answer": "4",
+          "expl": "感動 cảm động",
+          "pid": null
+        },
+        {
+          "qid": 16,
+          "ques": "16．この店では、以前<ruby>誰<rt>だれ</rt></ruby>かが使っていた（　）の車を売っている｡",
+          "options": {
+            "1": "1　<ruby>後半<rt>こうはん</rt></ruby>",
+            "2": "2　<ruby>中年<rt>ちゅうねん</rt></ruby>",
+            "3": "3　<ruby>中古<rt>ちゅうこ</rt></ruby>",
+            "4": "4　<ruby>後期<rt>こうき</rt></ruby>"
+          },
+          "answer": "3",
+          "expl": "中古 đồ cũ",
+          "pid": null
+        },
+        {
+          "qid": 17,
+          "ques": "17．来週の旅行に持っていく物の（　）を作った｡",
+          "options": {
+            "1": "1　スケジュール",
+            "2": "2　リスト",
+            "3": "3　カタログ",
+            "4": "4　プログラム"
+          },
+          "answer": "2",
+          "expl": "リスト danh sách",
+          "pid": null
+        },
+        {
+          "qid": 18,
+          "ques": "18．この前は試合に<ruby>負<rt>ま</rt></ruby>けて（　）が、今回は<ruby>勝<rt>か</rt></ruby>てたので、本当にうれしい｡",
+          "options": {
+            "1": "1　くやしかった",
+            "2": "2　まずしかった",
+            "3": "3　ゆるめるかった",
+            "4": "4　ずるかった"
+          },
+          "answer": "1",
+          "expl": "くやしい tiếc, cay cú",
+          "pid": null
+        },
+        {
+          "qid": 19,
+          "ques": "19．ここから<ruby>市役所<rt>しやくしょ</rt></ruby>までの（　）はどのくらいですか｡",
+          "options": {
+            "1": "1　<ruby>途中<rt>とちゅう</rt></ruby>",
+            "2": "2　<ruby>徒歩<rt>とほ</rt></ruby>",
+            "3": "3　<ruby>方向<rt>ほうこう</rt></ruby>",
+            "4": "4　<ruby>距離<rt>きょり</rt></ruby>"
+          },
+          "answer": "4",
+          "expl": "距離 khoảng cách",
+          "pid": null
+        },
+        {
+          "qid": 20,
+          "ques": "20．シャワーの後は、このタオルで体を（　）ください｡",
+          "options": {
+            "1": "1　ほして",
+            "2": "2　ふいて",
+            "3": "3　<ruby>張<rt>は</rt></ruby>って",
+            "4": "4　<ruby>直<rt>なお</rt></ruby>して"
+          },
+          "answer": "2",
+          "expl": "ふく lau (bằng khăn)",
+          "pid": null
+        },
+        {
+          "qid": 21,
+          "ques": "21．<ruby>配<rt>はい</rt>達<rt>たつ</rt></ruby>が<ruby>遅<rt>おく</rt>れた</ruby>せいで、<ruby>お<rt></rt>客<rt>きゃく</rt></ruby>さんから（　）を言われてしまった｡",
+          "options": {
+            "1": "1　<ruby>失礼<rt>しつれい</rt></ruby>",
+            "2": "2　<ruby>命令<rt>めいれい</rt></ruby>",
+            "3": "3　<ruby>否定<rt>ひてい</rt></ruby>",
+            "4": "4　<ruby>文句<rt>もんく</rt></ruby>"
+          },
+          "answer": "4",
+          "expl": "文句 phàn nàn",
+          "pid": null
+        },
+        {
+          "qid": 22,
+          "ques": "22．この問題を<ruby>解<rt>かい</rt>決<rt>けつ</rt></ruby>するために、何かよい方法を（　）人はいませんか｡",
+          "options": {
+            "1": "1　<ruby>思いついた<rt></rt></ruby>",
+            "2": "2　<ruby>引き受けた<rt></rt></ruby>",
+            "3": "3　<ruby>知り合った<rt></rt></ruby>",
+            "4": "4　<ruby>取り替えた<rt></rt></ruby>"
+          },
+          "answer": "1",
+          "expl": "思いつく nghĩ ra",
+          "pid": null
+        },
+        {
+          "qid": 23,
+          "ques": "23．私の家から駅までは（　）なので、駅まで歩くと<ruby>疲<rt>つか</rt>れ</ruby>ます｡",
+          "options": {
+            "1": "1　<ruby>坂道<rt>さかみち</rt></ruby>",
+            "2": "2　<ruby>通<rt>とお</rt></ruby>り<ruby>道<rt>みち</rt></ruby>",
+            "3": "3　<ruby>片道<rt>かたみち</rt></ruby>",
+            "4": "4　<ruby>近道<rt>ちかみち</rt></ruby>"
+          },
+          "answer": "1",
+          "expl": "坂道 đường dốc",
+          "pid": null
+        },
+        {
+          "qid": 24,
+          "ques": "24．この店はとても人気があり、店の前にはいつも、開店を待つ人の長い（　）ができている｡",
+          "options": {
+            "1": "1　<ruby>帯<rt>おび</rt></ruby>",
+            "2": "2　<ruby>幕<rt>まく</rt></ruby>",
+            "3": "3　<ruby>列<rt>れつ</rt></ruby>",
+            "4": "4　<ruby>壁<rt>かべ</rt></ruby>"
+          },
+          "answer": "3",
+          "expl": "列 hàng, line người xếp hàng",
+          "pid": null
+        },
+        {
+          "qid": 25,
+          "ques": "25．後でレポートを書くために、<ruby>実<rt>じっ</rt>験<rt>けん</rt></ruby>の<ruby>結<rt>けっ</rt>果<rt>か</rt></ruby>をノートに（　）した｡",
+          "options": {
+            "1": "1　<ruby>申請<rt>しんせい</rt></ruby>",
+            "2": "2　<ruby>記録<rt>きろく</rt></ruby>",
+            "3": "3　<ruby>予報<rt>よほう</rt></ruby>",
+            "4": "4　<ruby>通知<rt>つうち</rt></ruby>"
+          },
+          "answer": "2",
+          "expl": "記録 ghi chép",
+          "pid": null
+        }
+      ]
+    },
+    {
+      "sec": "問題4　___に意味が最も近いものを、1・2・3・4から一つえらびなさい｡",
+      "questions": [
+        {
+          "qid": 26,
+          "ques": "26．あの<ruby>仕<rt></rt>事<rt></rt></ruby>は<ruby>本<rt>ほん</rt>当<rt>とう</rt></ruby>に<u><ruby>苦<rt>く</rt>労<rt>ろう</rt></ruby></u>した｡",
+          "options": {
+            "1": "1　<ruby>危<rt>き</rt>険<rt>けん</rt></ruby>だった",
+            "2": "2　<ruby>大<rt>たい</rt>変<rt>へん</rt></ruby>だった",
+            "3": "3　つまらなかった",
+            "4": "4　やりたくなかった"
+          },
+          "answer": "2",
+          "expl": "大変 vất vả",
+          "pid": null
+        },
+        {
+          "qid": 27,
+          "ques": "27．<ruby>本<rt>もと</rt>田<rt>だ</rt></ruby>さんと<ruby>佐<rt>さ</rt>藤<rt>とう</rt></ruby>さんは、<ruby>部<rt>へ</rt>屋<rt>や</rt></ruby>から<u>そっと</u><ruby>出<rt></rt></ruby>ていった｡",
+          "options": {
+            "1": "1　静かに",
+            "2": "2　にぎやかに",
+            "3": "3　急で",
+            "4": "4　二人で"
+          },
+          "answer": "1",
+          "expl": "静かに nhẹ nhàng, rón rén",
+          "pid": null
+        },
+        {
+          "qid": 28,
+          "ques": "28．<ruby>昨<rt></rt>日<rt></rt></ruby>、<ruby>田<rt>た</rt>中<rt>なか</rt></ruby>さんは<u><ruby>早<rt>そう</rt>退<rt>たい</rt></ruby>した</u>そうです｡",
+          "options": {
+            "1": "1　早く起きた",
+            "2": "2　早く来た",
+            "3": "3　早く寝た",
+            "4": "4　早く帰った"
+          },
+          "answer": "4",
+          "expl": "早退 về sớm",
+          "pid": null
+        },
+        {
+          "qid": 29,
+          "ques": "29．ここに<ruby>来<rt></rt>て</ruby>から1<ruby>週<rt></rt>間<rt></rt></ruby>くらい<u><ruby>経<rt>た</rt>ち</ruby>ました</u>｡",
+          "options": {
+            "1": "1　<ruby>待<rt>ま</rt>ち</ruby>ました",
+            "2": "2　<ruby>続<rt>つづ</rt>け</ruby>ました",
+            "3": "3　<ruby>休<rt>やす</rt>み</rt>ました",
+            "4": "4　<ruby>過<rt>す</rt>ぎ</rt>ました"
+          },
+          "answer": "4",
+          "expl": "過す trôi qua",
+          "pid": null
+        },
+        {
+          "qid": 30,
+          "ques": "30．この<ruby>店<rt></rt></ruby>では<u>さまざまな</u><ruby>料<rt></rt>理<rt></rt></ruby>が食べられます｡",
+          "options": {
+            "1": "1　きれいな",
+            "2": "2　<ruby>有<rt>ゆう</rt>名<rt>めい</rt></ruby>な",
+            "3": "3　いろいろな",
+            "4": "4　<ruby>特<rt>とく</rt>別<rt>べつ</rt></ruby>な"
+          },
+          "answer": "3",
+          "expl": "いろいろな đa dạng",
+          "pid": null
+        }
+      ]
+    },
+    {
+      "sec": "問題5　つぎのことばの使い方として最もよいものを、1・2・3・4 から一つえらびなさい｡",
+      "questions": [
+        {
+          "qid": 31,
+          "ques": "31．<ruby>減少<rt>げんしょう</rt></ruby>",
+          "options": {
+            "1": "1　<ruby>兄<rt></rt></ruby>はサッカーの<ruby>試<rt></rt>合<rt></rt></ruby>に<ruby>負<rt>ま</rt>けて</ruby>から、<ruby>元<rt></rt>気<rt></rt></ruby>が<u><ruby>減<rt>げん</rt>少<rt>しょう</rt></ruby></u>している｡",
+            "2": "2　<ruby>気<rt>き</rt>温<rt>おん</rt></ruby>が<u><ruby>減<rt>げん</rt>少<rt>しょう</rt></ruby></u>しているので、<ruby>今<rt>こん</rt>夜<rt>や</rt></ruby>は<ruby>雪<rt></rt></ruby>が<ruby>降<rt>ふ</rt>る</ruby>と<ruby>思<rt></rt>う</ruby>｡",
+            "3": "3　<ruby>調<rt>ちょう</rt>査<rt>さ</rt></ruby>によると、この<ruby>国<rt>くに</rt></ruby>の<ruby>人<rt>じん</rt>口<rt>こう</rt></ruby>は<ruby>今<rt>こん</rt>後<rt>ご</rt></ruby><u><ruby>減<rt>げん</rt>少<rt>しょう</rt></ruby></u>するそうだ｡",
+            "4": "4　<ruby>今<rt>こと</rt>年<rt>し</rt></ruby>はりんごの<ruby>価<rt>ね</rt>段<rt>だん</rt></ruby>が<ruby>去<rt>きょ</rt>年<rt>ねん</rt></ruby>より<u><ruby>減<rt>げん</rt>少<rt>しょう</rt></ruby></u>したらしい。"
+          },
+          "answer": "3",
+          "expl": "減少 giảm xuống (số lượng, dân số…)",
+          "pid": null
+        },
+        {
+          "qid": 32,
+          "ques": "32．重大",
+          "options": {
+            "1": "1　<ruby>子<rt></rt>ども</ruby>たちは<u>重大</u>な<ruby>顔<rt></rt></ruby>をして、<ruby>先<rt></rt>生<rt></rt></ruby>の<ruby>話<rt></rt></ruby>を<ruby>聞<rt>き</rt>いていた</ruby>｡",
+            "2": "2　これは<ruby>祖<rt>そ</rt>母<rt>ぼ</rt></ruby>からもらった<u>重大</u>な<ruby>指<rt>ゆび</rt>輪<rt>わ</rt></ruby>だ｡",
+            "3": "3　<ruby>外<rt></rt>国<rt></rt></ruby>での<ruby>一<rt>ひと</rt>人<rt>り</rt></ruby>ぐらしは、<u>重大</u>な<ruby>経<rt></rt>験<rt></rt></ruby>になると<ruby>思<rt></rt>う</ruby>｡",
+            "4": "4　<ruby>明<rt></rt>日<rt></rt></ruby>、<ruby>社<rt>しゃ</rt>長<rt>ちょう</rt></ruby>から<u>重大</u>な<ruby>発<rt>はっ</rt>表<rt>ぴょう</rt></ruby>があるそうだ。"
+          },
+          "answer": "4",
+          "expl": "重大 nghiêm trọng, quan trọng",
+          "pid": null
+        },
+        {
+          "qid": 33,
+          "ques": "33．ばらばら",
+          "options": {
+            "1": "1　<ruby>冷<rt>れい</rt>凍<rt>とう</rt>庫<rt>こ</rt></ruby>に<ruby>入<rt></rt>れる</ruby>のを<ruby>忘<rt>わす</rt>れて</ruby>、アイスクリームが<u>ばらばら</u>になってしまった｡",
+            "2": "2　<ruby>床<rt>ゆか</rt></ruby>に<ruby>落<rt>お</rt>として</ruby>しまい、<ruby>資料<rt>しりょう</rt></ruby>が<u>ばらばら</u>になってしまった｡",
+            "3": "3　ドアを<ruby>開<rt></rt>けた</ruby>ので、<ruby>部<rt>へ</rt>屋<rt>や</rt></ruby>の<ruby>暖<rt>あたた</rt>かい</ruby><ruby>空<rt></rt>気<rt></rt></ruby>が<u>ばらばら</u>になってしまった｡",
+            "4": "4　コップが<ruby>倒<rt>たお</rt>れて</ruby>、<ruby>中<rt></rt></ruby>のジュースが<u>ばらばら</u>になってしまった。"
+          },
+          "answer": "2",
+          "expl": "ばらばら rời rạc, tách rời",
+          "pid": null
+        },
+        {
+          "qid": 34,
+          "ques": "34．<ruby>皮<rt>かわ</rt></ruby>",
+          "options": {
+            "1": "1　じゃがいもは<u><ruby>皮<rt>かわ</rt></ruby></u>をむかずに、そのままゆでます｡",
+            "2": "2　<ruby>机<rt>つくえ</rt></ruby>にぶつけて、パソコンの<u><ruby>皮<rt>かわ</rt></ruby></u>に<ruby>傷<rt>きず</rt></ruby>がついてしまった｡",
+            "3": "3　<ruby>割<rt>わ</rt>った</ruby>たまごの<u><ruby>皮<rt>かわ</rt></ruby></u>はここに<ruby>捨<rt>す</rt>てて</ruby>ください｡",
+            "4": "4　テキストの<u><ruby>皮<rt>かわ</rt></ruby></u>に<ruby>名<rt></rt>前<rt></rt></ruby>が<ruby>書<rt></rt>いてある</ruby>ので、<ruby>誰<rt>だれ</rt></ruby>の<ruby>物<rt></rt></ruby>か<ruby>分<rt></rt>かります</ruby>。"
+          },
+          "answer": "1",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 35,
+          "ques": "35．オーダー",
+          "options": {
+            "1": "1　<ruby>健<rt>けん</rt>康<rt>こう</rt></ruby>のため、<ruby>毎<rt></rt>日<rt></rt></ruby><ruby>運<rt></rt>動<rt></rt></ruby>するように<ruby>医<rt></rt>者<rt></rt></ruby>から<u>オーダー</u>された｡",
+            "2": "2　<ruby>母<rt></rt></ruby>は<ruby>妹<rt></rt></ruby>に<ruby>部<rt>へ</rt>屋<rt>や</rt></ruby>の<ruby>掃<rt>そう</rt>除<rt>じ</rt></ruby>を<u>オーダー</u>した｡",
+            "3": "3　レストランで<ruby>食<rt></rt>事<rt></rt></ruby>の<ruby>後<rt>あと</rt></ruby>にデザートを<u>オーダー</u>した｡",
+            "4": "4　<ruby>次<rt>つぎ</rt></ruby>の<ruby>大<rt></rt>会<rt></rt></ruby>で<ruby>必<rt>かなら</rt>ず</ruby><ruby>優勝<rt>ゆうしょう</rt></ruby>してほしいと<ruby>選<rt>せん</rt>手<rt>しゅ</rt></ruby>たちに<u>オーダー</u>した。"
+          },
+          "answer": "3",
+          "expl": null,
+          "pid": null
+        }
+      ]
+    }
+  ],
+  "passages": []
+}

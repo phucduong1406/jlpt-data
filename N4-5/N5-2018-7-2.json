@@ -1,0 +1,334 @@
+{
+  "level": "N5",
+  "exam_id": "201801",
+  "sections": [
+    {
+      "sec": "もんだい１　（　）に何を 入れますか。1·2·3·4から いちばんいいものを 一つえらんでください｡",
+      "questions": [
+        {
+          "qid": 1,
+          "ques": "<span class=\"q-number\">1</span> わたしは あしたの ひこうき（　）<ruby>国<rt>くに</rt></ruby>へ <ruby>帰<rt>かえ</rt></ruby>ります｡",
+          "options": {
+            "1": "1　を",
+            "2": "2　か",
+            "3": "3　で",
+            "4": "4　に"
+          },
+          "answer": "3",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 2,
+          "ques": "<span class=\"q-number\">2</span> <ruby>先週<rt>せんしゅう</rt></ruby> デパートで かばん（　）くつなどを <ruby>買<rt>か</rt></ruby>いました｡",
+          "options": {
+            "1": "1　や",
+            "2": "2　は",
+            "3": "3　も",
+            "4": "4　へ"
+          },
+          "answer": "1",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 3,
+          "ques": "<span class=\"q-number\">3</span> わたしは <ruby>毎朝<rt>まいあさ</rt></ruby> ７<ruby>時<rt>じ</rt></ruby>ごろ <ruby>家<rt>いえ</rt></ruby>（　） <ruby>出<rt>で</rt></ruby>ます｡",
+          "options": {
+            "1": "1　に",
+            "2": "2　が",
+            "3": "3　と",
+            "4": "4　を"
+          },
+          "answer": "4",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 4,
+          "ques": "<span class=\"q-number\">4</span> きのう スーパーで 田中さん（　） <ruby>会<rt>あ</rt></ruby>いました｡",
+          "options": {
+            "1": "1　の",
+            "2": "2　を",
+            "3": "3　に",
+            "4": "4　で"
+          },
+          "answer": "3",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 5,
+          "ques": "<span class=\"q-number\">5</span> わたしの <ruby>家<rt>うち</rt></ruby>の ほんだなは、きょうだいが <ruby>父<rt>ちち</rt></ruby>（　）<ruby>作<rt>つく</rt></ruby>りました｡",
+          "options": {
+            "1": "1　を",
+            "2": "2　が",
+            "3": "3　で",
+            "4": "4　や"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 6,
+          "ques": "<span class=\"q-number\">6</span> きのう やおやで りんごを <ruby>買<rt>か</rt></ruby>いました。五つ（　）1,000円でした｡",
+          "options": {
+            "1": "1　で",
+            "2": "2　に",
+            "3": "3　や",
+            "4": "4　と"
+          },
+          "answer": "1",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 7,
+          "ques": "<span class=\"q-number\">7</span> きのう（　）少し <ruby>寒<rt>さむ</rt></ruby>かったですが、<ruby>今日<rt>きょう</rt></ruby>（　）<ruby>寒<rt>さむ</rt></ruby>くないです｡",
+          "options": {
+            "1": "1　に／に",
+            "2": "2　は／は",
+            "3": "3　も／も",
+            "4": "4　を／を"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 8,
+          "ques": "<span class=\"q-number\">8</span> <ruby>南<rt>みなみ</rt></ruby>町は、<ruby>海<rt>うみ</rt></ruby>が きれい（　）、<ruby>静<rt>しず</rt></ruby>かです｡",
+          "options": {
+            "1": "1　や",
+            "2": "2　と",
+            "3": "3　で",
+            "4": "4　も"
+          },
+          "answer": "3",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 9,
+          "ques": "<span class=\"q-number\">9</span> <ruby>前川<rt>まえかわ</rt></ruby>さん「<ruby>林<rt>はやし</rt></ruby>さん（　）ある カメラは <ruby>林<rt>はやし</rt></ruby>さんのですか。」",
+          "options": {
+            "1": "1　そこ",
+            "2": "2　どこ",
+            "3": "3　その",
+            "4": "4　どの"
+          },
+          "answer": "1",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 10,
+          "ques": "<span class=\"q-number\">10</span> A「<ruby>先週<rt>せんしゅう</rt></ruby> はじめて スキーを しました。」",
+          "options": {
+            "1": "1　どちら",
+            "2": "2　どなた",
+            "3": "3　いくつ",
+            "4": "4　いかが"
+          },
+          "answer": "4",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 11,
+          "ques": "<span class=\"q-number\">11</span> <ruby>森<rt>もり</rt></ruby>「ケンさん、<ruby>大学<rt>だいがく</rt></ruby>の じゅぎょうは <ruby>始<rt>はじ</rt></ruby>まりましたか。」",
+          "options": {
+            "1": "1　よく",
+            "2": "2　もう",
+            "3": "3　まだ",
+            "4": "4　ちょっと"
+          },
+          "answer": "3",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 12,
+          "ques": "<span class=\"q-number\">12</span> （びょういんで）「<ruby>今<rt>きょう</rt></ruby>から 一週間 <ruby>薬<rt>くすり</rt></ruby>を のんで、<ruby>来週<rt>らいしゅう</rt></ruby>の <ruby>月曜日<rt>げつようび</rt></ruby>に（　）<ruby>来<rt>き</rt></ruby>てください。」",
+          "options": {
+            "1": "1　あまり",
+            "2": "2　また",
+            "3": "3　たくさん",
+            "4": "4　だんだん"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 13,
+          "ques": "<span class=\"q-number\">13</span> <ruby>父<rt>ちち</rt></ruby>は <ruby>毎朝<rt>まいあさ</rt></ruby> コーヒーを（　）ながら <ruby>新聞<rt>しんぶん</rt></ruby>を <ruby>読<rt>よ</rt></ruby>みます｡",
+          "options": {
+            "1": "1　飲み",
+            "2": "2　飲む",
+            "3": "3　飲で",
+            "4": "4　飲んだ"
+          },
+          "answer": "1",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 14,
+          "ques": "<span class=\"q-number\">14</span> わたしは <ruby>小<rt>ちい</rt></ruby>さいとき、なっとうが <ruby>好<rt>す</rt></ruby>き（　）でした｡",
+          "options": {
+            "1": "1　ない",
+            "2": "2　じゃない",
+            "3": "3　ありません",
+            "4": "4　じゃありません"
+          },
+          "answer": "4",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 15,
+          "ques": "<span class=\"q-number\">15</span> （ケーキやで）「すみません、いちごの ケーキを 二つ（　）。」",
+          "options": {
+            "1": "1　どうぞ",
+            "2": "2　ください",
+            "3": "3　ありますか",
+            "4": "4　ほしいですか"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 16,
+          "ques": "<span class=\"q-number\">16</span> リー「<ruby>日曜日<rt>にちようび</rt></ruby>に、わたしの <ruby>家<rt>いえ</rt></ruby>で アンさんと べんきょうを します。キムさんも（　）。」",
+          "options": {
+            "1": "1　来ませんか",
+            "2": "2　来ませんでしたか",
+            "3": "3　来ていますか",
+            "4": "4　来ていましたか"
+          },
+          "answer": "1",
+          "expl": null,
+          "pid": null
+        }
+      ]
+    },
+    {
+      "sec": "もんだい２　_★_に入るものは どれですか。1·2·3·4から いちばん いいものを 一つえらんでください｡",
+      "questions": [
+        {
+          "qid": 17,
+          "ques": "<span class=\"q-number\">17</span> A「すみません、つぎの　___ ___ _★_ ___　まがって　ください。」",
+          "options": {
+            "1": "1　を",
+            "2": "2　右",
+            "3": "3　に",
+            "4": "4　しんごう"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 18,
+          "ques": "<span class=\"q-number\">18</span> わたしは <ruby>日曜日<rt>にちようび</rt></ruby>に　兄<rt>あに</rt></ruby>　___ ___ _★_ ___　で　<ruby>出<rt>で</rt></ruby>かけました｡",
+          "options": {
+            "1": "1　と",
+            "2": "2　いっしょに",
+            "3": "3　の",
+            "4": "4　子ども"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 19,
+          "ques": "<span class=\"q-number\">19</span> きのう　<ruby>買<rt>か</rt></ruby>った　おかしは　___ ___ _★_ ___　でした｡",
+          "options": {
+            "1": "1　色",
+            "2": "2　が",
+            "3": "3　きれい",
+            "4": "4　まるくて"
+          },
+          "answer": "2",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 20,
+          "ques": "<span class=\"q-number\">20</span> <ruby>駅<rt>えき</rt></ruby>の　___ ___ _★_ ___　で　ざっしを　<ruby>買<rt>か</rt></ruby>いました｡",
+          "options": {
+            "1": "1　<ruby>近<rt>ちか</rt></ruby>く",
+            "2": "2　<ruby>本屋<rt>ほんや</rt></ruby>",
+            "3": "3　に",
+            "4": "4　ある"
+          },
+          "answer": "4",
+          "expl": null,
+          "pid": null
+        },
+        {
+          "qid": 21,
+          "ques": "<span class=\"q-number\">21</span> <ruby>先週<rt>せんしゅう</rt></ruby>、　___ ___ _★_ ___　の　こうちゃは　とても　おいしかったです｡",
+          "options": {
+            "1": "1　<ruby>外国<rt>がいこく</rt></ruby>",
+            "2": "2　に",
+            "3": "3　もらった",
+            "4": "4　ともだち"
+          },
+          "answer": "3",
+          "expl": null,
+          "pid": null
+        }
+      ]
+    },
+    {
+      "sec": "もんだい３　（22）から（26）に 何を入れますか。1·2·3·4から いちばんいいものを 一つえらんでください｡",
+      "questions": [
+        
+      ]
+    },
+    {
+      "sec": "もんだい４　つぎのぶんを読んで、しつもんに こたえてください。こたえは、1·2·3·4から いちばんいいものを 一つえらんでください｡",
+      "questions": [
+        
+      ]
+    },
+    {
+      "sec": "もんだい５　つぎのぶんを読んで、しつもんに こたえてください。こたえは、1·2·3·4から いちばんいいものを 一つえらんでください｡",
+      "questions": [
+        
+      ]
+    },
+    {
+      "sec": "もんだい６　つぎのぶんを読んで、しつもんに こたえてください。こたえは、1·2·3·4から いちばんいいものを 一つえらんでください｡",
+      "questions": [
+      ]
+    }
+  ],
+  "passages": [
+    {
+      "pid": 0,
+      "passage": ""
+    },
+    {
+      "pid": 1,
+      "passage": ""
+    },
+    {
+      "pid": 2,
+      "passage": ""
+    },
+    {
+      "pid": 3,
+      "passage": ""
+    },
+    {
+      "pid": 4,
+      "passage": ""
+    }
+  ]
+}
