@@ -15,11 +15,11 @@
             "4": "4　ちぢまって"
           },
           "answer": "1",
-          "expl": null
+          "expl": "Càng về sau, nhịp độ di chuyển của các cầu thủ càng chậm lại."
         },
         {
           "qid": 2,
-          "ques": "2．高校生のごる、｢将来は海外で動きたい｣と<u>漠然</u>と考えていた｡",
+          "ques": "2．高校生のごろ、｢将来は海外で動きたい｣と<u>漠然</u>と考えていた｡",
           "options": {
             "1": "1　まくぜん",
             "2": "2　ばくぜん",
@@ -27,7 +27,7 @@
             "4": "4　ばうぜん"
           },
           "answer": "2",
-          "expl": "漠然＝ぼんやりとしてはっきりしない"
+          "expl": "Khi còn là học sinh, tôi đã có một suy nghĩ mơ hồ là muốn làm việc ở nước ngoài trong tương lai.\n漠然＝ぼんやりとしてはっきりしない"
         },
         {
           "qid": 3,
@@ -39,7 +39,7 @@
             "4": "4　えつけん"
           },
           "answer": "3",
-          "expl": "閲覧＝調べたり読んだりする"
+          "expl": "Vui lòng trả lại tài liệu bạn đã xem tại quầy.\n閲覧＝調べたり読んだりする"
         },
         {
           "qid": 4,
@@ -51,7 +51,7 @@
             "4": "4　しゃくめい"
           },
           "answer": "4",
-          "expl": "釈明＝弁明、説明"
+          "expl": "Thủ tướng buộc phải giải thích về những phát ngôn của mình.\n釈明＝弁明、説明"
         },
         {
           "qid": 5,
@@ -63,11 +63,11 @@
             "4": "4　がっぺん"
           },
           "answer": "3",
-          "expl": "合併＝合わせて一つにする"
+          "expl": "Công ty chúng tôi sẽ đổi tên sau khi sáp nhập (nhân cơ hội sáp nhập).\n合併＝合わせて一つにする"
         },
         {
           "qid": 6,
-          "ques": "6．ようや景気回復の<u>兆し</u>が見えてきた｡",
+          "ques": "6．ようやく景気回復の<u>兆し</u>が見えてきた｡",
           "options": {
             "1": "1　しるし",
             "2": "2　あかし",
@@ -75,7 +75,7 @@
             "4": "4　ひざし"
           },
           "answer": "3",
-          "expl": "兆し＝物事が起ころとする気配"
+          "expl": "Cuối cùng cũng có những dấu hiệu phục hồi kinh tế.\n兆し＝物事が起ころとする気配"
         }
       ]
     },

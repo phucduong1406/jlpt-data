@@ -15,8 +15,7 @@
             "4": "4　けつえきがた"
           },
           "answer": "4",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 2,
@@ -28,8 +27,7 @@
             "4": "4　なみ"
           },
           "answer": "1",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 3,
@@ -41,8 +39,7 @@
             "4": "4　べんか"
           },
           "answer": "2",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 4,
@@ -54,8 +51,7 @@
             "4": "4　つたえました"
           },
           "answer": "4",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 5,
@@ -67,8 +63,7 @@
             "4": "4　にもの"
           },
           "answer": "3",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 6,
@@ -80,8 +75,7 @@
             "4": "4　へいやく"
           },
           "answer": "2",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 7,
@@ -93,8 +87,7 @@
             "4": "4　しきゅう"
           },
           "answer": "4",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 8,
@@ -106,8 +99,7 @@
             "4": "4　うつした"
           },
           "answer": "1",
-          "expl": null,
-          "pid": null
+          "expl": null
         }
       ]
     },
@@ -124,8 +116,7 @@
             "4": "4　薬器"
           },
           "answer": "2",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 10,
@@ -137,8 +128,7 @@
             "4": "4　借りました"
           },
           "answer": "4",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 11,
@@ -150,8 +140,7 @@
             "4": "4　欠天"
           },
           "answer": "1",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 12,
@@ -163,8 +152,7 @@
             "4": "4　現存"
           },
           "answer": "3",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 13,
@@ -176,8 +164,7 @@
             "4": "4　赤"
           },
           "answer": "2",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 14,
@@ -189,8 +176,7 @@
             "4": "4　祈って"
           },
           "answer": "2",
-          "expl": null,
-          "pid": null
+          "expl": null
         }
       ]
     },
@@ -207,8 +193,7 @@
             "4": "4　破れて"
           },
           "answer": "4",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 16,
@@ -220,8 +205,7 @@
             "4": "4　物価"
           },
           "answer": "3",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 17,
@@ -233,8 +217,7 @@
             "4": "4　結んで"
           },
           "answer": "3",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 18,
@@ -246,8 +229,7 @@
             "4": "4　曲げる"
           },
           "answer": "1",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 19,
@@ -259,8 +241,7 @@
             "4": "4　興味"
           },
           "answer": "4",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 20,
@@ -272,8 +253,7 @@
             "4": "4　気分"
           },
           "answer": "2",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 21,
@@ -285,8 +265,7 @@
             "4": "4　行動"
           },
           "answer": "1",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 22,
@@ -298,12 +277,11 @@
             "4": "4　やめる"
           },
           "answer": "3",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 23,
-          "ques": "23．この靴は、わたしの足に )合っているので、歩きやすいです｡",
+          "ques": "23．この靴は、わたしの足に（　）合っているので、歩きやすいです｡",
           "options": {
             "1": "1　うっかり",
             "2": "2　ぴったり",
@@ -311,8 +289,7 @@
             "4": "4　ふらふら"
           },
           "answer": "2",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 24,
@@ -324,8 +301,7 @@
             "4": "4　リサイクル"
           },
           "answer": "4",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 25,
@@ -337,8 +313,7 @@
             "4": "4　にぎやか"
           },
           "answer": "3",
-          "expl": null,
-          "pid": null
+          "expl": null
         }
       ]
     },
@@ -347,7 +322,7 @@
       "questions": [
         {
           "qid": 26,
-          "ques": "26．山本さんが<u>得意</u>な料理は何ですか｡",
+          "ques": "26．山本さんが<u>得意な</u>料理は何ですか｡",
           "options": {
             "1": "1　つくってみたい",
             "2": "2　食べたい",
@@ -355,8 +330,7 @@
             "4": "4　上手にできる"
           },
           "answer": "4",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 27,
@@ -368,8 +342,7 @@
             "4": "4　すぐ心配します"
           },
           "answer": "2",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 28,
@@ -381,8 +354,7 @@
             "4": "4　よく知っている"
           },
           "answer": "1",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 29,
@@ -394,8 +366,7 @@
             "4": "4　アイディア"
           },
           "answer": "3",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 30,
@@ -407,8 +378,7 @@
             "4": "4　わたしと違って"
           },
           "answer": "1",
-          "expl": null,
-          "pid": null
+          "expl": null
         }
       ]
     },
@@ -425,8 +395,7 @@
             "4": "4　手にけがをしたので、病院に行って医者に<u>修理</u>してもらった。"
           },
           "answer": "3",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 32,
@@ -438,8 +407,7 @@
             "4": "4　わたしの子どもは毎日車の本を見ているので、車の種類にとても<u>親しい</u>。"
           },
           "answer": "1",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 33,
@@ -451,8 +419,7 @@
             "4": "4　スピーチ大会に申し込む人は、明日が<u>締め切り</u>なので忘れないようにしてください。"
           },
           "answer": "4",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 34,
@@ -464,8 +431,7 @@
             "4": "4　お茶が冷めてしまったので、電子レンジで<u>ゆで</u>て飲んだ。"
           },
           "answer": "2",
-          "expl": null,
-          "pid": null
+          "expl": null
         },
         {
           "qid": 35,
@@ -477,8 +443,7 @@
             "4": "4　一度にたくさんのことを説明されたので、頭の中が<u>渋滞</u>してしまった。"
           },
           "answer": "2",
-          "expl": null,
-          "pid": null
+          "expl": null
         }
       ]
     }

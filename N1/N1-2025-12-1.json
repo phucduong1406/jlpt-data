@@ -15,7 +15,19 @@
             "4": "4　かんじょ"
           },
           "answer": "1",
-          "uexpl": "Cái kệ này được làm (chế tạo) rất chắc chắn.<br/>頑丈 chắc chắn, cứng cáp, khỏe mạnh"
+          "expl": "Cái kệ này được làm (chế tạo) rất chắc chắn.<br/>頑丈 chắc chắn, cứng cáp, khỏe mạnh",
+          "explanations": {
+            "1": "頑丈 (がんじょう): Bền vững, chắc chắn (đồ vật) hoặc khỏe mạnh (cơ thể).",
+            "2": "勘定 (かんじょう): Thanh toán, tính toán tiền bạc.",
+            "3": "Sai âm đọc chữ 丈 (phải có trường âm).",
+            "4": "Sai cả âm đọc chữ 頑 và thiếu trường âm."
+          },
+          "jp_explanations": {
+            "1": "「頑丈」は、物が強く壊れにくい様子や体が丈夫な様子。",
+            "2": "「勘定」は、代金を支払うことや数えること。",
+            "3": "「丈」は長音が必要で、「じょ」は誤り。",
+            "4": "「頑」を「かん」と読むのは誤り。"
+          }
         },
         {
           "qid": 2,
@@ -27,7 +39,19 @@
             "4": "4　ひそんで"
           },
           "answer": "4",
-          "expl": "Vấn đề nghiêm trọng đã ẩn giấu, tiềm tàng ở một nơi không ngờ tới.<br/>潜む ẩn giấu, tiềm tàng, lẩn khuất (nguy cơ, vấn đề, ý đồ xấu…)"
+          "expl": "Vấn đề nghiêm trọng đã ẩn giấu, tiềm tàng ở một nơi không ngờ tới.<br/>潜む ẩn giấu, tiềm tàng, lẩn khuất (nguy cơ, vấn đề, ý đồ xấu…)",
+          "explanations": {
+            "1": "及んで (およんで): Đạt đến, lan đến (phạm vi, thời gian).",
+            "2": "絡んで (からんで): Liên quan, vướng vào rắc rối.",
+            "3": "沈んで (しずんで): Chìm (xuống nước), buồn bã (tâm trạng).",
+            "4": "潜んで (ひそんで): Ẩn giấu, tiềm tàng, chưa lộ ra bề mặt."
+          },
+          "jp_explanations": {
+            "1": "「反ぶ」はある範囲や段階に達すること。",
+            "2": "「絡む」は巻き付く、または面倒なことに関係すること。",
+            "3": "「沈む」は水中に深く入ること、または気持ちが暗くなること。",
+            "4": "「潜む」は人目に触れないように隠れている、表面に現れずに存在すること。"
+          }
         },
         {
           "qid": 3,
@@ -39,7 +63,15 @@
             "4": "4　ぎょうせい"
           },
           "answer": "4",
-          "expl": "Tôi đang tham gia vào các công việc liên quan đến hành chính.<br/>行政 hành chính, công vụ"
+          "expl": "Tôi đang tham gia vào các công việc liên quan đến hành chính.<br/>行政 hành chính, công vụ",
+          "explanations": {
+            "2": "公正 (こうせい): Công bằng, chính trực.",
+            "4": "行政 (ぎょうせい): Việc quản lý, điều hành nhà nước (Hành chính)."
+          },
+          "jp_explanations": {
+            "2": "「公正」は、公平で偏っていないこと。",
+            "4": "「行政」は、政治を行うこと。特に司法・立法以外の国家の統治作用。"
+          }
         },
         {
           "qid": 4,
@@ -51,7 +83,17 @@
             "4": "4　ちょういつ"
           },
           "answer": "2",
-          "expl": "Ông Nakamura đã làm nở rộ (phát huy) tài năng xuất chúng của mình ngay từ thời còn học đại học.<br/>卓越 xuất sắc, xuất chúng, vượt trội"
+          "expl": "Ông Nakamura đã làm nở rộ (phát huy) tài năng xuất chúng của mình ngay từ thời còn học đại học.<br/>卓越 xuất sắc, xuất chúng, vượt trội",
+          "explanations": {
+            "1": "超越 (ちょうえつ): Siêu việt, vượt xa mức bình thường (không tưởng).",
+            "2": "卓越 (たくえつ): Xuất chúng, trội hơn hẳn những người xung quanh.",
+            "3": "択一 (たくいつ): Chọn một trong nhiều cái."
+          },
+          "jp_explanations": {
+            "1": "「超越」は、基準や限界をはるかに超えること。",
+            "2": "「卓越」は、群を抜いて優れていること。才能や技術に使う。",
+            "3": "「択一」は、いくつかの中から一つを選ぶこと。"
+          }
         },
         {
           "qid": 5,
@@ -63,7 +105,19 @@
             "4": "4　いちじるしくない"
           },
           "answer": "3",
-          "expl": "Gần đây thành tích kinh doanh của công ty không được tốt.<br/>芳しい tốt, thuận lợi, khả quan"
+          "expl": "Gần đây thành tích kinh doanh của công ty không được tốt.<br/>芳しい tốt, thuận lợi, khả quan",
+          "explanations": {
+            "1": "相応しい (ふさわしくない): Không phù hợp, không xứng đáng.",
+            "2": "宜しくない (よろしくない): Không tốt (cách nói suồng sã hơn).",
+            "3": "芳しい (かんばしくない): (Thành tích, kết quả) tốt, khả quan. Thường đi với phủ định.",
+            "4": "著しくない (いちじるしくない): Không đáng kể, không rõ rệt."
+          },
+          "jp_explanations": {
+            "1": "「相応しい」は、似つかわしい、ぴったり合うこと。",
+            "2": "「よろしくない」は、「良くない」の丁寧な言い方だが、芳しいほど硬い表現ではない。",
+            "3": "「芳しい」は、好ましい状態。主に否定形で、期待通りでない時に使う。",
+            "4": "「著しい」は、はっきりわかるほど目立つ様子。"
+          }
         },
         {
           "qid": 6,
@@ -75,7 +129,15 @@
             "4": "4　かんがい"
           },
           "answer": "2",
-          "expl": "Vấn đề đó thuộc phạm vi phụ trách / thẩm quyền của Phòng Đời sống Dân sinh.<br/>管轄 phạm vi quản lý, thẩm quyền phụ trách"
+          "expl": "Vấn đề đó thuộc phạm vi phụ trách / thẩm quyền của Phòng Đời sống Dân sinh.<br/>管轄 phạm vi quản lý, thẩm quyền phụ trách",
+          "explanations": {
+            "2": "管轄 (かんかつ): Thẩm quyền, phạm vi quản lý hành chính.",
+            "4": "管外 (かんがい): Ngoài phạm vi quản lý."
+          },
+          "jp_explanations": {
+            "2": "「管轄」は、ある権限を持って支配・管理する範囲。",
+            "4": "「管外」は、管轄している区域の外側。"
+          }
         }
       ]
     },
@@ -92,7 +154,19 @@
             "4": "4　部下"
           },
           "answer": "2",
-          "expl": "Tại trường học này, việc làm sạch rác xung quanh trường là một phần của hoạt động giáo dục.<br/>一環(いかん) một phần, một bộ phận"
+          "expl": "Tại trường học này, việc làm sạch rác xung quanh trường là một phần của hoạt động giáo dục.<br/>一環(いかん) một phần, một bộ phận",
+          "explanations": {
+            "1": "一因 (いちいん): Một trong những nguyên nhân dẫn đến kết quả nào đó.",
+            "2": "一環 (いっかん): Một phần trong một kế hoạch, chuỗi hoạt động lớn.",
+            "3": "部門 (ぶもん): Một bộ phận của tổ chức (ví dụ: phòng ban).",
+            "4": "部下 (ぶか): Nhân viên cấp dưới."
+          },
+          "jp_explanations": {
+            "1": "「一因」はある結果を生じさせた一つの原因。",
+            "2": "「一環」は、全体的な計画の中の一つの要素。「～の一環として」で使う。",
+            "3": "「部門」は、全体を分けたうちの一つ（組織の単位など）。",
+            "4": "「部下」は、自分より職位が下の人。"
+          }
         },
         {
           "qid": 8,
@@ -104,7 +178,19 @@
             "4": "4　キャッチ"
           },
           "answer": "3",
-          "expl": "Trong hiệp một của trận đấu, đội A đã dẫn trước 1 điểm, nhưng trong hiệp hai họ đã để thua ngược khi bị ghi 2 điểm.<br/>リード dẫn trước (trong thể thao)"
+          "expl": "Trong hiệp một của trận đấu, đội A đã dẫn trước 1 điểm, nhưng trong hiệp hai họ đã để thua ngược khi bị ghi 2 điểm.<br/>リード dẫn trước (trong thể thao)",
+          "explanations": {
+            "1": "プラス (ぷらす): Thêm vào, cộng thêm.",
+            "2": "アップ (あっぷ): Tăng lên (về mức độ, trình độ).",
+            "3": "リード (りーど): Dẫn trước điểm số/vị trí trong thi đấu.",
+            "4": "キャッチ (きゃっち): Bắt lấy (bóng, thông tin)."
+          },
+          "jp_explanations": {
+            "1": "「プラス」は、付け加えること、または正の数。",
+            "2": "「アップ」は、向上することや、値段が上がること。",
+            "3": "「リード」は、相手より優位に立つこと、点差をつけて勝っている状態。",
+            "4": "「キャッチ」は、飛んできた物をつかまえること。"
+          }
         },
         {
           "qid": 9,
@@ -116,7 +202,19 @@
             "4": "4　並列"
           },
           "answer": "2",
-          "expl": "Hai nghệ sĩ pianist trẻ tuổi có thực lực ngang nhau, nên không thể đoán trước ai sẽ thắng trong cuộc thi.<br/>互角(ごかく) ngang nhau; 均一(きんいつ) đồng nhất, giống nhau; 間近(まぢか) gần kề; 並列(へいれつ) song song, ngang hàng"
+          "expl": "Hai nghệ sĩ pianist trẻ tuổi có thực lực ngang nhau, nên không thể đoán trước ai sẽ thắng trong cuộc thi.<br/>互角(ごかく) ngang nhau; 均一(きんいつ) đồng nhất, giống nhau; 間近(まぢか) gần kề; 並列(へいれつ) song song, ngang hàng",
+          "explanations": {
+            "1": "均一 (きんいつ): Đồng đều (về giá cả, chất lượng hàng hóa).",
+            "2": "互角 (ごかく): Ngang tài ngang sức (dùng cho thực lực, tranh đấu).",
+            "3": "間近 (まぢか): Cận kề (về thời gian hoặc khoảng cách).",
+            "4": "並列 (へいれつ): Xếp song song, ngang hàng nhau."
+          },
+          "jp_explanations": {
+            "1": "「均一」は、質や量がどれも同じであること（100円均一など）。",
+            "2": "「互角」は、双方の力に優劣がないこと。実力が伯仲している状態。",
+            "3": "「間近」は、すぐ近くに迫っていること。",
+            "4": "「並列」は、並び連なること。"
+          }
         },
         {
           "qid": 10,
@@ -128,7 +226,19 @@
             "4": "4　引き渡す"
           },
           "answer": "3",
-          "expl": "Mỗi sáng, quản lý cửa hàng giao việc cho nhân viên bán thời gian.<br/>割り当てる phân công; 差し出す đưa ra; 振りまく rải, rắc; 引き渡す giao (hàng hóa, con tin...)"
+          "expl": "Mỗi sáng, quản lý cửa hàng giao việc cho nhân viên bán thời gian.<br/>割り当てる phân công; 差し出す đưa ra; 振りまく rải, rắc; 引き渡す giao (hàng hóa, con tin...)",
+          "explanations": {
+            "1": "差し出す (さしだす): Đưa ra, nộp ra.",
+            "2": "振りまく (ふりまく): Rắc, rải (bột) hoặc ban phát (nụ cười).",
+            "3": "割り当てる (わりあてる): Phân chia, phân công (công việc, số lượng).",
+            "4": "引き渡す (ひきわたす): Bàn giao (người, đồ vật)."
+          },
+          "jp_explanations": {
+            "1": "「差し出す」は、前に出す、または提出すること。",
+            "2": "「振りまく」は、あたりに散らすこと（笑顔を振りまくなど）。",
+            "3": "「割り当てる」は、全体を分けてそれぞれの人に配分すること。",
+            "4": "「引き渡す」は、相手に渡す、または明け渡すこと。"
+          }
         },
         {
           "qid": 11,
@@ -137,10 +247,22 @@
             "1": "1　周到な",
             "2": "2　強固な",
             "3": "3　濃厚な",
-            "4": "4　果敵な"
+            "4": "4　果敢な"
           },
           "answer": "1",
-          "expl": "Chuẩn bị kỹ lưỡng trước khi bước vào buổi thi chính thức.<br/>周到な chuẩn bị kỹ lưỡng; 強固な vững chắc; 濃厚な đậm đặc; 果敵な quyết liệt, dữ dội"
+          "expl": "Chuẩn bị kỹ lưỡng trước khi bước vào buổi thi chính thức.<br/>周到な chuẩn bị kỹ lưỡng; 強固な vững chắc; 濃厚な đậm đặc; 果敢な quyết liệt, dữ dội",
+          "explanations": {
+            "1": "周到 (しゅうとう): Cẩn mật, kỹ càng, không có sơ hở (thường đi với 準備).",
+            "2": "強固 (きょうこ): Kiên cố, vững chắc (ý chí, công trình).",
+            "3": "濃厚 (のうこう): Đậm đặc (vị), nồng nhiệt (tình cảm) hoặc khả năng cao.",
+            "4": "果敢 (かかん): Quả cảm, quyết liệt thực hiện."
+          },
+          "jp_explanations": {
+            "1": "「周到」は、隅々まで注意が行き届いている様子。「用意周到」など準備に使う。",
+            "2": "「強固」は、強くしっかりして動かないこと（意志や建物）。",
+            "3": "「濃厚」は、味・色・可能性などが非常に強いこと。",
+            "4": "「果敢」は、決断力があって思い切って物事を行う様子。"
+          }
         },
         {
           "qid": 12,
@@ -152,7 +274,19 @@
             "4": "4　ひとまず"
           },
           "answer": "4",
-          "expl": "Trên đường leo núi thì trời bắt đầu mưa, nên tôi quyết định tạm thời nghỉ ngơi ở nhà nghỉ núi gần đó và chờ mưa tạnh.<br/>ひとまず tạm thời; さきごろ gần đây; いつしか không biết từ lúc nào; いまに chẳng mấy chốc"
+          "expl": "Trên đường leo núi thì trời bắt đầu mưa, nên tôi quyết định tạm thời nghỉ ngơi ở nhà nghỉ núi gần đó và chờ mưa tạnh.<br/>ひとまず tạm thời; さきごろ gần đây; いつしか không biết từ lúc nào; いまに chẳng mấy chốc",
+          "explanations": {
+            "1": "先頃 (さきごろ): Mấy ngày trước, dạo trước.",
+            "2": "いつしか (いつしか): Không biết từ lúc nào.",
+            "3": "今に (いまに): Sắp sửa, chẳng mấy chốc nữa (kết quả xấu).",
+            "4": "ひとまず (ひとまず): Tạm thời, trước hết (để giải quyết tình huống hiện tại)."
+          },
+          "jp_explanations": {
+            "1": "「先頃」は、少し前のこと（先日）。",
+            "2": "「いつしか」は、知らないうちに、いつの間にか。",
+            "3": "「今に」は、近い将来。悪い予測に使われることが多い。",
+            "4": "「ひとまず」は、今後のことは別に置いて、当面の処置をすること。"
+          }
         },
         {
           "qid": 13,
@@ -164,7 +298,19 @@
             "4": "4　むしゃくしゃ"
           },
           "answer": "4",
-          "expl": "Có việc gì đó khiến tôi cảm thấy bực bội, nhưng khi hát lớn trong phòng karaoke thì cảm giác đã nhẹ nhàng hơn.<br/>むしゃくしゃ bực bội, khó chịu; はらはら lo lắng; ひやひや sợ hãi; おどおど rụt rè, bồn chồn"
+          "expl": "Có việc gì đó khiến tôi cảm thấy bực bội, nhưng khi hát lớn trong phòng karaoke thì cảm giác đã nhẹ nhàng hơn.<br/>むしゃくしゃ bực bội, khó chịu; はらはら lo lắng; ひやひy sợ hãi; おどおど rụt rè, bồn chồn",
+          "explanations": {
+            "1": "はらはら (はらはら): Lo lắng (khi xem cảnh mạo hiểm).",
+            "2": "ひやひや (ひやひや): Cảm giác ớn lạnh vì sợ hãi/nguy hiểm.",
+            "3": "おどおど (おどおど): Lúng túng, rụt rè do thiếu tự tin.",
+            "4": "むしゃくしゃ (むしゃくしゃ): Bực bội, cáu kỉnh trong lòng."
+          },
+          "jp_explanations": {
+            "1": "「はらはら」は、危ない様子を見て心配すること。",
+            "2": "「ひやひや」は、危ない目に遭いそうで恐れること。",
+            "3": "「おどおど」は、不安や恐れで落ち着かない様子。",
+            "4": "「むしゃくしゃ」は、不快なことがあって腹立たしい様子。"
+          }
         }
       ]
     },
@@ -181,7 +327,19 @@
             "4": "4　いらいらして"
           },
           "answer": "1",
-          "expl": "Không nên nói quá lên.<br/>誇張する phóng đại, nói quá; 勝手に tùy tiện; 自慢する tự mãn; いらいらする sốt ruột, bực bội"
+          "expl": "Không nên nói quá lên.<br/>誇張する phóng đại, nói quá; 勝手に tùy tiện; 自慢する tự mãn; いらいらする sốt ruột, bực bội",
+          "explanations": {
+            "1": "大げさに (おおげさに): Thổi phồng sự thật.",
+            "2": "勝手に (かってに): Tự tiện, ích kỷ.",
+            "3": "自慢して (じまんして): Khoe khoang.",
+            "4": "いらいらして (いらいらして): Sốt ruột, bực bội."
+          },
+          "jp_explanations": {
+            "1": "「誇張」は実際よりも大きく表現すること。同義語は「大げさに」。",
+            "2": "「勝手に」は自分の思うままに振る舞うこと。",
+            "3": "「自慢」は自分に関することを誇って人に見せること。",
+            "4": "「いらいら」は思い通りにならずに焦ること。"
+          }
         },
         {
           "qid": 15,
@@ -193,7 +351,19 @@
             "4": "4　すでに"
           },
           "answer": "3",
-          "expl": "Chúng tôi tiến hành kế hoạch một cách kín đáo.<br/>ひそかに kín đáo, bí mật; ずっと lâu dài; しっかり chắc chắn; すでに đã"
+          "expl": "Chúng tôi tiến hành kế hoạch một cách kín đáo.<br/>ひそかに kín đáo, bí mật; ずっと lâu dài; しっかり chắc chắn; すでに đã",
+          "explanations": {
+            "1": "ずっと (ずっと): Suốt, mãi.",
+            "2": "しっかり (しっかり): Chắc chắn, nghiêm túc.",
+            "3": "こっそり (こっそり): Bí mật, lén lút (đồng nghĩa với ひそかに).",
+            "4": "すでに (すでに): Đã rồi."
+          },
+          "jp_explanations": {
+            "1": "「ずっと」は時間の経過や程度の差を表す。",
+            "2": "「しっかり」は確かな様子。",
+            "3": "「ひそかに」は人に知られないようにすること。同義語は「こっそり」。",
+            "4": "「すでに」は既にある事態が完了していること。"
+          }
         },
         {
           "qid": 16,
@@ -205,7 +375,19 @@
             "4": "4　反省"
           },
           "answer": "1",
-          "expl": "Trong quá trình chuẩn bị cho cuộc thi, chúng tôi đã trải qua nhiều thử thách.<br/>試練(しせん) thử thách, khó khăn; 苦難(くなん) khổ nạn; 競争(きょうそう) cạnh tranh; 支援(しえん) hỗ trợ; 反省(はんせい) tự phê bình"
+          "expl": "Trong quá trình chuẩn bị cho cuộc thi, chúng tôi đã trải qua nhiều thử thách.<br/>試練(しれん) thử thách, khó khăn; 苦難(くなん) khổ nạn; 競争(きょうそう) cạnh tranh; 支援(しえん) hỗ trợ; 反省(はんせい) tự phê bình",
+          "explanations": {
+            "1": "苦難 (くなん): Khốn khó, gian khổ (đồng nghĩa với 試練).",
+            "2": "競争 (きょうそう): Cạnh tranh.",
+            "3": "支援 (しえん): Hỗ trợ, giúp đỡ.",
+            "4": "反省 (はんせい): Kiểm điểm, suy nghĩ lại lỗi lầm."
+          },
+          "jp_explanations": {
+            "1": "「試練」は実力を試されるような苦労のこと。同義語は「苦難」。",
+            "2": "「競争」は勝敗や優劣を競うこと。",
+            "3": "「支援」は力を貸して助けること。",
+            "4": "「反省」は自分の行動を振り返り、非を認めること。"
+          }
         },
         {
           "qid": 17,
@@ -217,7 +399,19 @@
             "4": "4　悔しがる"
           },
           "answer": "2",
-          "expl": "Tôi lần đầu tiên thấy hình ảnh của Yamaguchi-san đang bối rối.<br/>うろたえる bối rối, hoảng hốt; 落ち込む chán nản; 威張る kiêu ngạo; 悔しがる hối hận"
+          "expl": "Tôi lần đầu tiên thấy hình ảnh của Yamaguchi-san đang bối rối.<br/>うろたえる bối rối, hoảng hốt; 落ち込む chán nản; 威張る kiêu ngạo; 悔しがる hối hận",
+          "explanations": {
+            "1": "落ち込む (おちこむ): Thất vọng, buồn bã.",
+            "2": "慌てる (あわてる): Hoảng hốt, bối rối (đồng nghĩa với うろたえる).",
+            "3": "威張る (いばる): Kiêu căng, ngạo mạn.",
+            "4": "悔しがる (くやしがる): Cảm thấy hối tiếc, cay cú."
+          },
+          "jp_explanations": {
+            "1": "「落ち込む」は、良くない状態になって元気がなくなること。",
+            "2": "「うろたえる」は、不意の出来事に驚き狼狽すること。同義語は「慌てる」。",
+            "3": "「威張る」は、威勢を張って偉そうにすること。",
+            "4": "「悔しがる」は、残念に思って悔しく感じること。"
+          }
         },
         {
           "qid": 18,
@@ -229,7 +423,19 @@
             "4": "4　多分"
           },
           "answer": "2",
-          "expl": "Có lẽ sẽ không có chuyện tương tự xảy ra trong một thời gian nữa.<br/>当面(とうめん) trước mắt, tạm thời; 絶対(ぜったい) tuyệt đối; あまり không mấy; 多分(たぶん) có lẽ"
+          "expl": "Có lẽ sẽ không có chuyện tương tự xảy ra trong một thời gian nữa.<br/>当面(とうめん) trước mắt, tạm thời; 絶対(ぜったい) tuyệt đối; あまり không mấy; 多分(たぶん) có lẽ",
+          "explanations": {
+            "1": "絶対 (ぜったい): Tuyệt đối.",
+            "2": "しばらく (しばらく): Một khoảng thời gian (đồng nghĩa với 当面 trong văn cảnh này).",
+            "3": "あまり (あまり): Không lắm (đi với phủ định).",
+            "4": "多分 (たぶん): Có lẽ."
+          },
+          "jp_explanations": {
+            "1": "「絶対」は例外なく必ず、という意味。",
+            "2": "「当面」は、さしあたって、今のところ。同義語は「しばらく」。",
+            "3": "「あまり」は程度が激しいこと、または否定を伴って程度が低いこと。",
+            "4": "「多分」は推測を表す語。"
+          }
         },
         {
           "qid": 19,
@@ -241,7 +447,19 @@
             "4": "4　自分でチェックする"
           },
           "answer": "1",
-          "expl": "Trang phục luôn do tự mình chuẩn bị.<br/>自前である tự mình chuẩn bị, tự túc; 自分で決める tự quyết định; 自分でデザインする tự thiết kế; 自分でチェックする tự kiểm tra"
+          "expl": "Trang phục luôn do tự mình chuẩn bị.<br/>自前である tự mình chuẩn bị, tự túc; 自分で決める tự quyết định; 自分でデザインする tự thiết kế; 自分でチェックする tự kiểm tra",
+          "explanations": {
+            "1": "自分で買う (じぶんでかう): Tự bỏ tiền ra mua (đồng nghĩa với 自前).",
+            "2": "自分で決める (じぶんできめる): Tự quyết định.",
+            "3": "自分でデザインする: Tự thiết kế.",
+            "4": "自分でチェックする: Tự kiểm tra."
+          },
+          "jp_explanations": {
+            "1": "「自前」は費用を自分で負担すること。ここでは「自分で買う」が近い。",
+            "2": "「決める」は意志を定めること。",
+            "3": "「デザイン」は意匠を考案すること。",
+            "4": "「チェック」は点検すること。"
+          }
         }
       ]
     },
@@ -255,10 +473,22 @@
             "1": "1　最近は外来語が増え、カタカナが多く<u>運用</u>されるようになった｡",
             "2": "2　本日は点検のため、エレベーターは<u>運用</u>できません｡",
             "3": "3　会社の資金をどう<u>運用</u>するかで、社長と会長の意見が分かれている｡",
-            "4": "4　監替は次の試合で新人選手を<u>運用</u>することを決めた。"
+            "4": "4　監督は次の試合で新人選手を<u>運用</u>することを決めた。"
           },
           "answer": "3",
-          "expl": "Về việc sẽ vận dụng (quản lý/đầu tư) nguồn vốn của công ty như thế nào, ý kiến của giám đốc và chủ tịch đang bị chia rẽ.<br/>運用(うんよう) vận dụng, quản lý (tiền bạc, nguồn lực)"
+          "expl": "Về việc sẽ vận dụng (quản lý/đầu tư) nguồn vốn của công ty như thế nào, ý kiến của giám đốc và chủ tịch đang bị chia rẽ.<br/>運用(うんよう) vận dụng, quản lý (tiền bạc, nguồn lực)",
+          "explanations": {
+            "1": "Nên dùng 採用 (さいよう - áp dụng) hoặc 使用 (しよう - sử dụng).",
+            "2": "Nên dùng 運転 (うんてん - vận hành) hoặc 使用 (しよう).",
+            "3": "運用 (うんよう): Thường dùng cho tiền bạc (đầu tư) hoặc quy định, hệ thống.",
+            "4": "Nên dùng 起用 (きよう - trọng dụng/bổ nhiệm)."
+          },
+          "jp_explanations": {
+            "1": "「使用」や「採用」が適切。",
+            "2": "エレベーターの場合は「使用」や「運転」が適切。",
+            "3": "「運用」は資金などを動かして利益を得ること（資産運用）。",
+            "4": "選手の場合は「起用」を使う。"
+          }
         },
         {
           "qid": 21,
@@ -270,7 +500,19 @@
             "4": "4　家族で旅行に行ったら、学校の友達と<u>抜き打ち</u>で会った。"
           },
           "answer": "3",
-          "expl": "Cuộc kiểm tra đột xuất tại nhà máy đã được tiến hành.<br/>抜き打ち(ぬきうち) đột xuất, bất ngờ"
+          "expl": "Cuộc kiểm tra đột xuất tại nhà máy đã được tiến hành.<br/>抜き打ち(ぬきうち) đột xuất, bất ngờ",
+          "explanations": {
+            "1": "Nên dùng 突然 (とつぜん - đột nhiên).",
+            "2": "Nên dùng 急に (きゅうに - bất ngờ).",
+            "3": "抜き打ち (ぬきうち): Làm một việc mà không báo trước (kiểm tra, bài thi).",
+            "4": "Nên dùng 偶然 (ぐうぜん - ngẫu nhiên)."
+          },
+          "jp_explanations": {
+            "1": "自然現象には「突然」や「急に」を使う。",
+            "2": "車の動作には「急に」を使う。",
+            "3": "「抜き打ち」は、あらかじめ知らせず、突然に行うこと（抜き打ち検査）。",
+            "4": "思いがけず会うのは「偶然」。"
+          }
         },
         {
           "qid": 22,
@@ -282,7 +524,19 @@
             "4": "4　小林さんは風邪をひいているのか声が<u>かすれて</u>いて、話が聞き取りにくい。"
           },
           "answer": "4",
-          "expl": "Tiếng nói của Kobayashi bị khàn vì bị cảm lạnh, khiến người nghe khó hiểu.<br/>かすれる khàn (giọng), mờ nhạt (âm thanh, màu sắc, chữ viết)"
+          "expl": "Tiếng nói của Kobayashi bị khàn vì bị cảm lạnh, khiến người nghe khó hiểu.<br/>かすれる khàn (giọng), mờ nhạt (âm thanh, màu sắc, chữ viết)",
+          "explanations": {
+            "1": "Nên dùng 途絶える (とだえる - gián đoạn).",
+            "2": "Nên dùng 薄い (うすい - nhạt).",
+            "3": "Nên dùng 薄れる (うすれる - phai nhạt dần).",
+            "4": "かすれる (かすれる): Giọng bị khàn hoặc nét chữ bị mờ."
+          },
+          "jp_explanations": {
+            "1": "連絡がなくなるのは「途絶える」。",
+            "2": "味が薄いのは「薄い」や「物足りない」。",
+            "3": "関心がなくなるのは「薄れる」や「なくなる」。",
+            "4": "「かすれる」は、声がしわがれてよく出ないこと、または線が途切れること。"
+          }
         },
         {
           "qid": 23,
@@ -294,7 +548,19 @@
             "4": "4　<u>緻密</u>な観察が新しい微生物の発見につながった。"
           },
           "answer": "4",
-          "expl": "Quan sát kỹ lưỡng đã dẫn đến việc phát hiện ra vi khuẩn mới.<br/>緻密(ちみつ) kỹ lưỡng, tỉ mỉ"
+          "expl": "Quan sát kỹ lưỡng đã dẫn đến việc phát hiện ra vi khuẩn mới.<br/>緻密(ちみつ) kỹ lưỡng, tỉ mỉ",
+          "explanations": {
+            "1": "Nên dùng 正確に (せいかくに - chính xác).",
+            "2": "Nên dùng 手厚い (てあつい - nồng hậu) hoặc 丁寧な (ていねい).",
+            "3": "Nên dùng 慎重に (しんちょうに - thận trọng).",
+            "4": "緻密 (ちみつ): Cực kỳ chi tiết, tỉ mỉ (kế hoạch, quan sát)."
+          },
+          "jp_explanations": {
+            "1": "記憶の場合は「正確に」などが適切。",
+            "2": "もてなしには「手厚い」や「丁寧な」を使う。",
+            "3": "階段を上がる様子は「慎重に」。",
+            "4": "「緻密」は、細かいところまで注意が行き届いていること（緻密な計画）。"
+          }
         },
         {
           "qid": 24,
@@ -306,7 +572,19 @@
             "4": "4　福田さんは一日中作業しても元気なので、<u>迫力</u>があると思う｡"
           },
           "answer": "2",
-          "expl": "Con sư tử mà tôi lần đầu tiên nhìn thấy ở sở thú có thân hình to lớn và rất có uy lực.<br/>迫力(はくりょく) uy lực, sức mạnh"
+          "expl": "Con sư tử mà tôi lần đầu tiên nhìn thấy ở sở thú có thân hình to lớn và rất có uy lực.<br/>迫力(はくりょく) uy lực, sức mạnh",
+          "explanations": {
+            "1": "Nên dùng 吸引力 (きゅういんりょく - lực hút).",
+            "2": "迫力 (はくりょく): Sức mạnh áp đảo, lôi cuốn gây ấn tượng mạnh.",
+            "3": "Nên dùng 勢い (いきおい - đà/sức mạnh) hoặc 強さ (つよさ).",
+            "4": "Nên dùng 活力 (かつりょく - sức sống) hoặc 忍耐力."
+          },
+          "jp_explanations": {
+            "1": "掃除機なら「吸引力」を使う。",
+            "2": "「迫力」は、心に強く迫るような力強さ. 動物や演技などに使う。",
+            "3": "雨には「勢い」や「雨脚」を使う。",
+            "4": "元気な様子なら「活力」などが適切。"
+          }
         },
         {
           "qid": 25,
@@ -318,7 +596,19 @@
             "4": "4　昨夜、徹夜でレポートを書いたせいで、今日はとても<u>目まぐるしい</u>。"
           },
           "answer": "2",
-          "expl": "Ngày nay, khi công nghệ thông tin phát triển, những thứ mới liên tục thay đổi một cách chóng mặt.<br/>目まぐるしい chóng mặt, nhanh chóng thay đổi"
+          "expl": "Ngày nay, khi công nghệ thông tin phát triển, những thứ mới liên tục thay đổi một cách chóng mặt.<br/>目まぐるしい chóng mặt, nhanh chóng thay đổi",
+          "explanations": {
+            "1": "Nên dùng 激しく (はげしく - dữ dội).",
+            "2": "目まぐるしい (めまぐるしい): Thay đổi quá nhanh khiến người ta khó theo kịp.",
+            "3": "Nên dùng まぶしい (まぶしい - chói chang).",
+            "4": "Nên dùng 眠い (ねむい - buồn ngủ) hoặc だるい (だるい - mệt mỏi)."
+          },
+          "jp_explanations": {
+            "1": "水の流れには「激しく」を使う。",
+            "2": "「目まぐるしい」は、物事の移り変わりが激しく、目が回るような様子。",
+            "3": "太陽には「まぶしい」を使う。",
+            "4": "体調が悪いなら「だるい」や「眠い」が適切。"
+          }
         }
       ]
     },
@@ -335,7 +625,19 @@
             "4": "4　まもなく"
           },
           "answer": "3",
-          "expl": "Tôi đã bắt đầu nhổ cỏ, nhưng nó khó hơn tôi nghĩ, nên có vẻ không thể kết thúc trong một ngày được.<br/>とても không thể (dùng với thể phủ định); 仮に giả sử; 今にも sắp sửa; まもなく chẳng mấy chốc"
+          "expl": "Tôi đã bắt đầu nhổ cỏ, nhưng nó khó hơn tôi nghĩ, nên có vẻ không thể kết thúc trong một ngày được.<br/>とても không thể (dùng với thể phủ định); 仮に giả sử; 今にも sắp sửa; まもなく chẳng mấy chốc",
+          "explanations": {
+            "1": "仮に (かりに): Giả sử (thường đi với たら).",
+            "2": "今にも (いまにも): Sắp sửa xảy ra (đi với そうだ).",
+            "3": "とても (とても): Không tài nào... (đi với phủ định, chỉ sự bất khả thi).",
+            "4": "まもなく (まもなく): Chẳng mấy chốc (dùng cho thời gian sắp tới)."
+          },
+          "jp_explanations": {
+            "1": "「もし～としたら」という仮定を表す。",
+            "2": "今すぐ何かが起こりそうな様子。「今にも～そうだ」で使う。",
+            "3": "打ち消しの語を伴って、能力的に不可能であることを強調する。",
+            "4": "時間がまもなく経過して、ある事態が起こる様子。"
+          }
         },
         {
           "qid": 27,
@@ -347,7 +649,19 @@
             "4": "4　のみならず"
           },
           "answer": "2",
-          "expl": "Dự án lần này đã không thể thực hiện được nếu không có sự hợp tác của cư dân địa phương.<br/>なくしては nếu không có; をはじめて chỉ khi có; とあって vì (lý do đặc biệt); のみならず không chỉ ~ mà còn ~"
+          "expl": "Dự án lần này đã không thể thực hiện được nếu không có sự hợp tác của cư dân địa phương.<br/>なくしては nếu không có; をはじめて chỉ khi có; とあって vì (lý do đặc biệt); のみならず không chỉ ~ mà còn ~",
+          "explanations": {
+            "1": "をはじめて (をはじめて): Thường dùng để chỉ sự bắt đầu của một trải nghiệm mới.",
+            "2": "なくしては (なくしては): Nếu không có A thì không thể có B (A là điều kiện thiết yếu).",
+            "3": "とあって (とあって): Vì một tình huống đặc biệt.",
+            "4": "のみならず (のみならず): Không chỉ cái này mà còn cái kia nữa."
+          },
+          "jp_explanations": {
+            "1": "ある事がきっかけで何かが始まる時に使う。",
+            "2": "「もし～がなければ、後ろの事は成立しない」という強い条件。",
+            "3": "「～という特別な状況なので」という理由。",
+            "4": "「～だけでなく」という意味。"
+          }
         },
         {
           "qid": 28,
@@ -359,7 +673,19 @@
             "4": "4　くらいなら"
           },
           "answer": "4",
-          "expl": "Tôi ghét đi máy bay. Nếu phải đi máy bay thì tôi nghĩ rằng nên đi bằng tàu hỏa hoặc xe hơi dù mất nhiều thời gian hơn.<br/>くらいなら nếu phải ~ thì thà ~ còn hơn; うえで sau khi; わりに so với; どころか không những không ~ mà còn ~"
+          "expl": "Tôi ghét đi máy bay. Nếu phải đi máy bay thì tôi nghĩ rằng nên đi bằng tàu hỏa hoặc xe hơi dù mất nhiều thời gian hơn.<br/>くらいなら nếu phải ~ thì thà ~ còn hơn; うえで sau khi; わりに so với; どころか không những không ~ mà còn ~",
+          "explanations": {
+            "1": "うえで (うえで): Sau khi/Trên phương diện.",
+            "2": "わりに (わりに): So với... thì (kết quả bất ngờ).",
+            "3": "どころか (どころか): Thay vì... thì trái lại/huống chi là.",
+            "4": "くらいなら (くらいなら): Nếu phải làm A (cái mình ghét) thì thà làm B còn hơn."
+          },
+          "jp_explanations": {
+            "1": "「～したあとで」や「～という準備の上で」。",
+            "2": "「～という程度から予想される状態とは違って」。",
+            "3": "「～はもちろん、それどころか」。",
+            "4": "「～という最悪な状況になるよりは、まだ他の方がましだ」。"
+          }
         },
         {
           "qid": 29,
@@ -371,7 +697,19 @@
             "4": "4　となるとは"
           },
           "answer": "1",
-          "expl": "Nếu coi giả thuyết này là đúng thì số liệu hiện tại vẫn chưa đủ, vì vậy cần tiến hành điều tra thêm.<br/>とするには nếu coi ~ là đúng thì; となるには nếu trở thành ~ thì; とすると nếu coi ~ là đúng thì; となるとは nếu trở thành ~ thì"
+          "expl": "Nếu coi giả thuyết này là đúng thì số liệu hiện tại vẫn chưa đủ, vì vậy cần tiến hành điều tra thêm.<br/>とするには nếu coi ~ là đúng thì; となるには nếu trở thành ~ thì; とすると nếu coi ~ là đúng thì; となるとは nếu trở thành ~ thì",
+          "explanations": {
+            "1": "とするには (とするには): Để coi là/để đánh giá là (đưa ra tiêu chuẩn).",
+            "2": "となるには (となるには): Để trở thành (quá trình biến đổi).",
+            "3": "とすると (とすると): Nếu giả sử là (đưa ra hệ quả logic).",
+            "4": "となるとは (となるとは): Việc trở thành... thì thật là (ngạc nhiên)."
+          },
+          "jp_explanations": {
+            "1": "「AをBと判定・評価するためには」という基準。",
+            "2": "変化の目標を表すが、判定の文脈には合わない。",
+            "3": "「もし～と仮定すれば」という条件法。",
+            "4": "「～という事態になったことには驚きだ」。"
+          }
         },
         {
           "qid": 30,
@@ -383,7 +721,17 @@
             "4": "4　悩まされたあげく"
           },
           "answer": "3",
-          "expl": "Mặc dù bị những chấn thương lặp đi lặp lại làm phiền, nhưng vận động viên Tanaka đã vượt qua chúng và giành quyền tham dự Olympic.<br/>悩まされながらも mặc dù bị làm phiền; 悩ませながらも mặc dù làm phiền; 悩まされたあげく sau khi bị làm phiền; 悩ませたあげく sau khi làm phiền"
+          "expl": "Mặc dù bị những chấn thương lặp đi lặp lại làm phiền, nhưng vận động viên Tanaka đã vượt qua chúng và giành quyền tham dự Olympic.<br/>悩まされながらも mặc dù bị làm phiền; 悩ませながらも mặc dù làm phiền; 悩まされたあげく sau khi bị làm phiền; 悩ませたあげく sau khi làm phiền",
+          "explanations": {
+            "1": "悩ませる (なやませる): Làm phiền ai đó (chủ động).",
+            "3": "悩まされながらも (なやまされながらも): Mặc dù bị (chấn thương) hành hạ/làm khổ (bị động + nghịch lý).",
+            "4": "あげく (あげく): Kết cục xấu sau một quá trình (ở đây kết quả tốt là đi Olympic nên không dùng)."
+          },
+          "jp_explanations": {
+            "1": "能動態なので文脈に合わない。",
+            "3": "「悩まされる（受身）」＋「ながらも（逆接）」で困難を乗り越えたことを表す。",
+            "4": "「あげく」は悪い結果の時に使うので不適切。"
+          }
         },
         {
           "qid": 31,
@@ -395,7 +743,19 @@
             "4": "4　に越したことはない"
           },
           "answer": "4",
-          "expl": "Nếu phải đi bằng tàu hỏa hoặc xe hơi dù mất nhiều thời gian hơn thì tôi nghĩ rằng nên đi bằng tàu hỏa hoặc xe hơi.<br/>くらいなら nếu phải ~ thì thà ~ còn hơn; うえで sau khi; わりに so với; どころか không những không ~ mà còn ~"
+          "expl": "Dù việc chuyển nhà còn xa, nhưng tôi nghĩ bắt đầu sớm vẫn là tốt nhất nên đã dọn dẹp dần.<br/>に越したことはない: Tốt nhất là nên...",
+          "explanations": {
+            "1": "勢いだ (いきおいだ): Với đà này thì/Sắp sửa.",
+            "2": "ことは否めない (ことはいなめない): Không thể phủ nhận.",
+            "3": "見込みだ (みこみだ): Dự kiến/Có khả năng.",
+            "4": "に越したことはない (にこしたことはない): Tốt nhất là nên (không làm cũng được nhưng làm thì vẫn hơn)."
+          },
+          "jp_explanations": {
+            "1": "ある状態の勢いが激しいこと。",
+            "2": "認めざるを得ない事実について使う。",
+            "3": "将来の予測を表す。",
+            "4": "「～に越したことはない」は、そうする方がより良い、安全であるという意味。"
+          }
         },
         {
           "qid": 32,
@@ -407,7 +767,13 @@
             "4": "4　遊んでいたかった"
           },
           "answer": "3",
-          "expl": "A: Ah, nếu con đường này không bị tắc nghẽn thì bây giờ chúng ta đã đến từ lâu rồi.<br/>B: Đúng vậy.<br/>遊んでいた đã chơi (đang chơi); 遊んだ đã chơi; 遊びたかった đã muốn chơi; 遊んでいたかった đã muốn chơi (đang chơi)"
+          "expl": "A: Ah, nếu con đường này không bị tắc nghẽn thì bây giờ chúng ta đã đến từ lâu rồi.<br/>B: Đúng vậy.<br/>遊んでいた đã chơi (đang chơi); 遊んだ đã chơi; 遊びたかった đã muốn chơi; 遊んでいたかった đã muốn chơi (đang chơi)",
+          "explanations": {
+            "3": "遊んでいた (あそんでいた): Giả định một hành động lẽ ra đang tiếp diễn ở hiện tại (trái ngược thực tế)."
+          },
+          "jp_explanations": {
+            "3": "「～ていた（のに）」は、実際にはそうならなかったが、もし条件が合えば今ごろその動作を継続していたはずだという後悔。"
+          }
         },
         {
           "qid": 33,
@@ -419,7 +785,16 @@
             "4": "4　しかねないはずだ"
           },
           "answer": "1",
-          "expl": "Tôi đã có thể làm cho bố mẹ tôi làm lành sau khi cãi nhau, nhưng vì chị gái tôi đã đào lại chuyện cũ nên mọi việc không suôn sẻ nữa. Thật là, chị ấy đã làm chuyện không cần thiết.<br/>余計なことをしてくれたものだ đã làm chuyện không cần thiết"
+          "expl": "Tôi đã có thể làm cho bố mẹ tôi làm lành sau khi cãi nhau, nhưng vì chị gái tôi đã đào lại chuyện cũ nên mọi việc không suôn sẻ nữa. Thật là, chị ấy đã làm chuyện không cần thiết.<br/>余計なことをしてくれたものだ đã làm chuyện không cần thiết",
+          "explanations": {
+            "1": "～てくれたものだ (～てくれたものだ): Mỉa mai, than phiền về hành động thừa thãi của người khác.",
+            "2": "～しかねない (～しかねない): Có khả năng làm việc xấu.",
+            "3": "～はずだ (～はずだ): Chắc chắn là (không phù hợp sắc thái than phiền)."
+          },
+          "jp_explanations": {
+            "1": "相手の余計な行動に対して、あきれたり不満に思ったりする気持ち（皮肉）。",
+            "2": "悪い結果になる可能性があるという意味。"
+          }
         },
         {
           "qid": 34,
@@ -431,7 +806,14 @@
             "4": "4　みたいなところがある"
           },
           "answer": "4",
-          "expl": "B: Vì công việc của luật sư là nói chuyện với mọi người, nên vào ngày nghỉ tôi muốn được thư giãn một mình.<br/>～らしいところがある có vẻ như ~; ～みたいなところがある có vẻ như ~"
+          "expl": "B: Vì công việc của luật sư là nói chuyện với mọi người, nên vào ngày nghỉ tôi muốn được thư giãn một mình.<br/>～らしいところがある có vẻ như ~; ～みたいなところがある có vẻ như ~",
+          "explanations": {
+            "2": "らしい (らしい): Có vẻ/Đúng chất (thường dùng cho phán đoán khách quan).",
+            "4": "～みたいなところがある (～みたいなところがある): Có tính chất/phần nào đó giống như... (dùng giải thích bản chất)."
+          },
+          "jp_explanations": {
+            "4": "「～みたいなところがある」は、その事柄にそのような側面や傾向があることを表す。"
+          }
         },
         {
           "qid": 35,
@@ -443,7 +825,18 @@
             "4": "4　喜んでいないのではないか"
           },
           "answer": "2",
-          "expl": "Mặc dù tôi rất vui khi những ngày nắng kéo dài, nhưng khi nghĩ đến các vấn đề như thiếu nước thì tôi không thể cứ mãi vui vẻ được.<br/>～ばかりもいられない không thể cứ mãi ~ được"
+          "expl": "Mặc dù tôi rất vui khi những ngày nắng kéo dài, nhưng khi nghĩ đến các vấn đề như thiếu nước thì tôi không thể cứ mãi vui vẻ được.<br/>～ばかりもいられない không thể cứ mãi ~ được",
+          "explanations": {
+            "1": "～だけにすぎない (～だけにすぎない): Chẳng qua chỉ là.",
+            "2": "～ばかりもいられない (～ばかりもいられない): Không thể cứ mãi duy trì trạng thái A vì có vấn đề B.",
+            "3": "～ところだった (～ところだった): Suýt nữa thì.",
+            "4": "～のではないか (～のではないか): Chẳng phải là... hay sao."
+          },
+          "jp_explanations": {
+            "1": "単にそれだけであるという意味。",
+            "2": "ある状況をいつまでも続けているわけにはいかないという切迫感を表す。",
+            "3": "実際にはしなかったが、もう少しでそうなったという意味。"
+          }
         }
       ]
     },
@@ -460,7 +853,13 @@
             "4": "4　課長"
           },
           "answer": "3",
-          "expl": "自分の主張を譲らない西山さんも西山さんなら、課長も課長だ。 (2-3-1-4)<br/>Cả Nishiyama-san không chịu nhượng bộ trong lập trường của mình, và cả trưởng phòng cũng vậy. Ông ấy dễ dàng trở nên cảm tính."
+          "expl": "自分の主張を譲らない西山さんも西山さんなら、課長も課長だ. (2-3-1-4)<br/>Cả Nishiyama-san không chịu nhượng bộ, và cả trưởng phòng cũng vậy (đều tệ như nhau).",
+          "explanations": {
+            "3": "Cấu trúc: N1 も N1 なら N2 も N2 だ (Cả A và B đều tệ như nhau/đều có vấn đề)."
+          },
+          "jp_explanations": {
+            "3": "「AもAならBもBだ」で、両方とも良くない、どっちもどっちだという意味。"
+          }
         },
         {
           "qid": 37,
@@ -472,7 +871,13 @@
             "4": "4　どんなに気をつけていても"
           },
           "answer": "4",
-          "expl": "トラブルが起きないようにどんなに気をつけていても、起きるときには起きてしまうのがトラブルだ。（1-4-2-3）<br/>Dù có cẩn thận đến đâu để tránh rắc rối, thì khi rắc rối xảy ra thì nó vẫn sẽ xảy ra."
+          "expl": "トラブルが起きないようにどんなに気をつけていても、起きるときには起きてしまうのがトラブルだ. （1-4-2-3）<br/>Dù có cẩn thận đến đâu để tránh rắc rối, thì khi nó xảy ra thì vẫn sẽ xảy ra.",
+          "explanations": {
+            "4": "Cấu trúc: どんなに V-ていても (Dù có... đến thế nào đi chăng nữa)."
+          },
+          "jp_explanations": {
+            "4": "「どんなに～ていても」＋「～ときには～てしまう」という構成。"
+          }
         },
         {
           "qid": 38,
@@ -484,7 +889,13 @@
             "4": "4　見せた"
           },
           "answer": "2",
-          "expl": "俳優の村川たかしが今回の作品で見せた自然な演技は【長年会社勤めをしてきた】彼ならではと言えるだろう。（4-1-2-3）<br/>Diễn xuất tự nhiên của diễn viên Takashi Murakawa trong tác phẩm lần này có thể nói là đặc trưng chỉ có ở anh ấy, người đã làm việc cho công ty trong nhiều năm."
+          "expl": "俳優の村川たかしが今回の作品で見せた自然な演技は長年会社務めをしてきた彼ならではと言えるだろう. （4-1-2-3）<br/>Diễn xuất tự nhiên của anh ấy có thể nói là đặc trưng chỉ có ở người đã làm việc lâu năm như anh ấy.",
+          "explanations": {
+            "2": "Cấu trúc: N + ならでは (Chỉ có ở N, đặc trưng riêng của N)."
+          },
+          "jp_explanations": {
+            "2": "「～ならでは」は、その人や物だけが持っている素晴らしい特徴を表す。"
+          }
         },
         {
           "qid": 39,
@@ -496,7 +907,13 @@
             "4": "4　よほどうれしかった"
           },
           "answer": "1",
-          "expl": "普段は無口な息子だが、昨日は校内のマラソン大会で入賞したことがよほどうれしかったのか、家に帰ってくるなり、楽しそうに話してくれた｡(3-4-1-2)<br/>Con trai tôi thường ít nói, nhưng hôm qua khi nó về nhà sau khi giành giải trong cuộc thi marathon trong trường, có lẽ vì nó rất vui nên nó đã nói chuyện với tôi một cách vui vẻ."
+          "expl": "入賞したことがよほどうれしかったのか、家に帰ってくるなり、楽しそうに話してくれた. (2-4-1-3)<br/>Có lẽ vì quá vui mừng do được giải nên ngay khi về nhà nó đã kể chuyện.",
+          "explanations": {
+            "1": "Cấu trúc: よほど～のか (Có lẽ là vì rất... nên mới). V-るなり (Ngay sau khi)."
+          },
+          "jp_explanations": {
+            "1": "「～よほど～のか」は理由を推量する表現。「～なり」は直後の動作。"
+          }
         },
         {
           "qid": 40,
@@ -508,7 +925,13 @@
             "4": "4　そうは"
           },
           "answer": "1",
-          "expl": "将来のことをよく考えたうえでの決断ならば、応援したいが、そうは思えないので、説得している。（3-2-1-4）<br/>Nếu đó là một quyết định được đưa ra sau khi suy nghĩ kỹ về tương lai, tôi muốn ủng hộ, nhưng tôi không nghĩ vậy, nên tôi đang thuyết phục bạn tôi suy nghĩ lại."
+          "expl": "将来のことをよく考えたうえでの決断ならば、応援したいが、そうは思えないので、説得している. （3-2-1-4）<br/>Nếu là quyết định sau khi đã nghĩ kỹ thì tôi ủng hộ, nhưng tôi không thấy vậy.",
+          "explanations": {
+            "1": "Cấu trúc: V-たうえで (Sau khi đã làm V). N ならば (Nếu là N)."
+          },
+          "jp_explanations": {
+            "1": "「～たうえでの」＋「～が」＋「そうは（否定）」の流れ。"
+          }
         }
       ]
     },
@@ -525,7 +948,14 @@
             "4": "4　よくないからでもあります"
           },
           "answer": "4",
-          "expl": "",
+          "expl": "Vì thị lực của mèo không tốt nên chúng phải xác nhận đối phương qua mùi hương.",
+          "explanations": {
+            "1": "せいだとします (せいだとします): Giả sử là do lỗi của... (không phù hợp đưa ra lý do thực tế).",
+            "4": "からでもあります (からでもあります): Cũng chính vì lý do là... (giải thích nguyên nhân)."
+          },
+          "jp_explanations": {
+            "4": "「～からでもある」は理由を提示する表現。"
+          },
           "pid": 13
         },
         {
@@ -534,11 +964,19 @@
           "options": {
             "1": "1　示すのです",
             "2": "2　示しそうです",
-            "3": "3　示してばかります",
+            "3": "3　示してばかりいます",
             "4": "4　示したものです"
           },
           "answer": "1",
-          "expl": "",
+          "expl": "Mèo sẽ thể hiện cùng một phản ứng vì nhầm tưởng đó là mũi người.",
+          "explanations": {
+            "1": "のです (のです): Khẳng định, giải thích chân lý/sự thật.",
+            "2": "そうです (そうです): Có vẻ (dựa trên quan sát tức thời).",
+            "3": "ばかりいます (ばかりいます): Suốt ngày chỉ làm... (phàn nàn)."
+          },
+          "jp_explanations": {
+            "1": "結論づける「～のです（断定）」が適切。"
+          },
           "pid": 13
         },
         {
@@ -551,7 +989,14 @@
             "4": "4　利用するまでもなく"
           },
           "answer": "2",
-          "expl": "",
+          "expl": "Nếu tận dụng tập tính này, bạn có thể làm quen với cả những chú mèo mới gặp lần đầu.",
+          "explanations": {
+            "2": "利用すれば (りようすれば): Nếu tận dụng (điều kiện dẫn đến kết quả tốt).",
+            "4": "利用するまでもなく (りようするまでもなく): Không cần thiết phải sử dụng."
+          },
+          "jp_explanations": {
+            "2": "順接の仮定「～利用すれば」が自然。"
+          },
           "pid": 13
         },
         {
@@ -564,7 +1009,16 @@
             "4": "4　すなわち"
           },
           "answer": "3",
-          "expl": "",
+          "expl": "Mèo sợ nếu đột nhiên bị chạm vào, do đó (vì vậy), hãy đưa ngón tay ra trước.",
+          "explanations": {
+            "1": "あるいは (あるいは): Hoặc là.",
+            "2": "ちなみに (ちなみに): Nhân tiện đây.",
+            "3": "そこで (そこで): Vì vậy/Do đó (chuyển sang hành động giải quyết).",
+            "4": "すなわち (すなわち): Có nghĩa là."
+          },
+          "jp_explanations": {
+            "3": "状況を受けて提案につなげる「そこで」が適切。"
+          },
           "pid": 13
         }
       ]
@@ -573,7 +1027,7 @@
   "passages": [
     {
       "pid": 13,
-      "passage": "<div style=\"line-height: 1.8;\">ネコの目の前に指先を出すと、必ずクンクン匂いをかぎますね。じつは、これはネコ同士のあいさつに由来するしぐさです。<br/>私たち人間はおじぎをしたり握手をしてあいさつをしますが、ネコたちにとっては、鼻と鼻を近づけてお互いのにおいをかぐのがあいさつです。ネコの口のまわりには、<ruby>臭腺<rt style=\"letter-spacing: -0.08em;\">しゅうせん</rt></ruby>といって、特別なにおいを出す器官があります。そのにおいはネコによって異なるため、鼻を近づけると相手がどこの誰か、そして敵か味方かなどの情報を知ることができるのです。<br/>このように、ネコがにおいで相手を確認するのは、目があまり<span class=\"text-red-700\">（ 41 ）</span>。ネコは肉食のハンターですから抜群の視力をもっていそうですが、人間にたとえると0.3程度の近眼だとされています。つまり、かなり近づかないと相手の顔を確認できないということ。<br/>だから、人間の指先を見ても、ネコは鼻を近づけられたと勘違いして同じ反応を<span class=\"text-red-700\">（ 42 ）</span>。指先だとわかっていても、習慣的に「とりあえず、あいさつだけはしておこう」と考えるのでしょう。おきまりのクンクンが始まります。この習性を<span class=\"text-red-700\">（ 43 ）</span>、初対面のネコとも仲よくできます。いくら<ruby>可愛<rp>(</rp><rt>かわい</rt><rp>)</rp></ruby>いネコでも、いきなりなでたり抱っこしようとすれば嫌がります。それは、あなたが何者かわからないからです。<span class=\"text-red-700\">（ 44 ）</span>、まずは指先をネコの鼻に近つけてみます。ひととおり指のにおいをかいだ後でネコが逃げなければ、それはあなたに好意をもったという証拠ですから、そっと触れても嫌がらないはずです｡</div>"
+      "passage": "<div style=\"line-height: 1.8;\">ネコの目の前に指先を出すと、必ずクンクン匂いをかぎますね。じつは、これはネコ同士のあいさつに由来するしぐさです。<br/>私たち人間はおじぎをしたり握手をしてあいさつをしますが、ネコたちにとっては、鼻と鼻を近づけてお互いのにおいをかぐのがあいさつです。ネコの口のまわりには、<ruby>臭腺<rt style=\"letter-spacing: -0.08em;\">しゅうせん</rt></ruby>といって、特別なにおいを出す器官があります。そのにおいはネコによって異なるため、鼻を近づけると相手がどこの誰か、そして敵か味方かなどの情報を知ることができるのです。<br/>このように、ネコがにおいで相手を確認するのは、目があまり<span class=\"text-accent\">（ 41 ）</span>。ネコは肉食のハンターですから抜群の視力をもっていそうですが、人間にたとえると0.3程度の近眼だとされています。つまり、かなり近づかないと相手の顔を確認できないということ。<br/>だから、人間の指先を見ても、ネコは鼻を近づけられたと勘違いして同じ反応を<span class=\"text-accent\">（ 42 ）</span>。指先だとわかっていても、習慣的に「とりあえず、あいさつだけはしておこう」と考えるのでしょう。おきまりのクンクンが始まります。この習性を<span class=\"text-accent\">（ 43 ）</span>、初対面のネコとも仲よくできます。いくら<ruby>可愛<rp>(</rp><rt>かわい</rt><rp>)</rp></ruby>いネコでも、いきなりなでたり抱っこしようとすれば嫌がります。それは、あなたが何者かわからないからです。<span class=\"text-accent\">（ 44 ）</span>、まずは指先をネコの鼻に近つけてみます。ひととおり指のにおいをかいだ後でネコが逃げなければ、それはあなたに好意をもったという証拠ですから、そっと触れても嫌がらないはずです｡</div>"
     }
   ]
 }
