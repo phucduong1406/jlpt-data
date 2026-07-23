@@ -1,0 +1,80 @@
+{
+  "level": "N2",
+  "exam_id": "N2-2026-7",
+  "sections": [
+    {
+      "sec": "問題10　次の(1)から(5)の文章を読んで、後の問いに対する答えとして最もよいものを、1 1・2・3・4から一つ選びなさい｡",
+      "questions": []
+    },
+    {
+      "sec": "問題11　次の(1)から(3)の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい｡",
+      "questions": []
+    },
+    {
+      "sec": "問題12　次のAとBの文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい｡",
+      "questions": []
+    },
+    {
+      "sec": "問題13　次の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい｡",
+     "questions": []
+    },
+    {
+      "sec": "問題14　次の案内は、ある定期船会社のホームページに載っている案内である。下の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい｡",
+      "questions": []
+    }
+  ],
+  "passages": [
+    {
+      "pid": 0,
+      "passage": "(1) <div style=\"line-height: 1.8; text-indent: 1em;\">Đoạn văn đang cập nhật...</div>"
+    },
+    {
+      "pid": 1,
+      "passage": "(2) <div style=\"line-height: 1.8; text-indent: 1em;\">Đoạn văn đang cập nhật...</div>"
+    },
+    {
+      "pid": 2,
+      "passage": "(3) <div style=\"line-height: 1.8; text-indent: 1em;\">Đoạn văn đang cập nhật...</div>"
+    },
+    {
+      "pid": 3,
+      "passage": "(4) <div style=\"line-height: 1.8; text-indent: 1em;\">Đoạn văn đang cập nhật...</div>"
+    },
+    {
+      "pid": 4,
+      "passage": "(5) <div style=\"line-height: 1.8; text-indent: 1em;\">Đoạn văn đang cập nhật...</div>"
+    },
+    {
+      "pid": 5,
+      "passage": "(1) <div style=\"line-height: 1.8; text-indent: 1em;\">Đoạn văn đang cập nhật...</div>"
+    },
+    {
+      "pid": 6,
+      "passage": "(2) <div style=\"line-height: 1.8; text-indent: 1em;\">Đoạn văn đang cập nhật...</div>"
+    },
+    {
+      "pid": 7,
+      "passage": "(3) <div style=\"line-height: 1.8; text-indent: 1em;\">Đoạn văn đang cập nhật...</div>"
+    },
+    {
+      "pid": 8,
+      "passage": "(4) <div style=\"line-height: 1.8; text-indent: 1em;\">Đoạn văn đang cập nhật...</div>"
+    },
+    {
+      "pid": 9,
+      "passage": "A <br/><div style=\"line-height: 1.8; text-indent: 1em;\">Đoạn văn đang cập nhật...</div>"
+    },
+    {
+      "pid": 10,
+      "passage": "B <br/><div style=\"line-height: 1.8; text-indent: 1em;\">Đoạn văn đang cập nhật...</div>"
+    },
+    {
+      "pid": 11,
+      "passage": "<div style=\"line-height: 1.8; text-indent: 1em;\">Đoạn văn đang cập nhật...</div>"
+    },
+    {
+      "pid": 12,
+      "passage": "<div style=\"line-height: 1.8; text-indent: 1em;\">Đoạn văn đang cập nhật...</div>"
+    }
+  ]
+}
