@@ -1,18 +1,18 @@
 {
   "level": "N4",
-  "exam_id": "201312",
+  "exam_id": "N4-2026-7",
   "sections": [
     {
       "sec": "もんだい１",
       "questions": [
         {
           "qid": 1,
-          "ques": "1 ばん <img src=\"/images/jlpt/F132-1.web\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "ques": "1 ばん",
           "options": {
-            "1": "1",
-            "2": "2",
-            "3": "3",
-            "4": "4"
+            "1": "1　10まい",
+            "2": "2　30まい",
+            "3": "3　35まい",
+            "4": "4　40まい"
           },
           "answer": "",
           "expl": "",
@@ -20,7 +20,7 @@
         },
         {
           "qid": 2,
-          "ques": "2 ばん <img src=\"/images/jlpt/F132-2.web\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "ques": "2 ばん <img src=\"/images/jlpt/F261-11.webp\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
           "options": {
             "1": "1",
             "2": "2",
@@ -35,10 +35,10 @@
           "qid": 3,
           "ques": "3 ばん",
           "options": {
-            "1": "1　4こ",
-            "2": "2　5こ",
-            "3": "3　9こ",
-            "4": "4　10こ"
+            "1": "1　8時30分にぎんこうで",
+            "2": "2　8時30分にかいしゃで",
+            "3": "3　9時にぎんこうで",
+            "4": "4　9時にかいしゃで"
           },
           "answer": "",
           "expl": "",
@@ -46,7 +46,7 @@
         },
         {
           "qid": 4,
-          "ques": "4 ばん <img src=\"/images/jlpt/F132-3.web\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "ques": "4 ばん <img src=\"/images/jlpt/F261-14.webp\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
           "options": {
             "1": "1",
             "2": "2",
@@ -59,12 +59,12 @@
         },
         {
           "qid": 5,
-          "ques": "5 ばん",
+          "ques": "5 ばん <img src=\"/images/jlpt/F261-15.webp\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
           "options": {
-            "1": "1　おかしと　にんぎょう",
-            "2": "2　おかしと　はし",
-            "3": "3　おちゃと　にんぎょう",
-            "4": "4　おちゃと　はし"
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4"
           },
           "answer": "",
           "expl": "",
@@ -72,12 +72,12 @@
         },
         {
           "qid": 6,
-          "ques": "6 ばん <img src=\"/images/jlpt/F132-4.web\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "ques": "6 ばん <img src=\"/images/jlpt/F261-16.webp\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
           "options": {
-            "1": "1　ちず",
-            "2": "2　しゃしん",
-            "3": "3　「まつり」の　さくぶん",
-            "4": "4　「たべもの」の　さくぶん"
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4"
           },
           "answer": "",
           "expl": "",
@@ -85,7 +85,7 @@
         },
         {
           "qid": 7,
-          "ques": "7 ばん",
+          "ques": "7 ばん <img src=\"/images/jlpt/F261-17.webp\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
           "options": {
             "1": "1",
             "2": "2",
@@ -98,7 +98,7 @@
         },
         {
           "qid": 8,
-          "ques": "8 ばん <img src=\"/images/jlpt/F132-5.web\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "ques": "8 ばん <img src=\"/images/jlpt/F261-18.webp\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
           "options": {
             "1": "1",
             "2": "2",
@@ -118,10 +118,10 @@
           "qid": 9,
           "ques": "1 ばん",
           "options": {
-            "1": "1",
-            "2": "2",
-            "3": "3",
-            "4": "4"
+            "1": "1　",
+            "2": "2　",
+            "3": "3　",
+            "4": "4　"
           },
           "answer": "",
           "expl": "",
@@ -131,10 +131,10 @@
           "qid": 10,
           "ques": "2 ばん",
           "options": {
-            "1": "1",
-            "2": "2",
-            "3": "3",
-            "4": "4"
+            "1": "1　",
+            "2": "2　",
+            "3": "3　",
+            "4": "4　"
           },
           "answer": "",
           "expl": "",
@@ -144,10 +144,10 @@
           "qid": 11,
           "ques": "3 ばん",
           "options": {
-            "1": "1",
-            "2": "2",
-            "3": "3",
-            "4": "4"
+            "1": "1　",
+            "2": "2　",
+            "3": "3　",
+            "4": "4　"
           },
           "answer": "",
           "expl": "",
@@ -157,10 +157,10 @@
           "qid": 12,
           "ques": "4 ばん",
           "options": {
-            "1": "1",
-            "2": "2",
-            "3": "3",
-            "4": "4"
+            "1": "1　",
+            "2": "2　",
+            "3": "3　",
+            "4": "4　"
           },
           "answer": "",
           "expl": "",
@@ -170,10 +170,10 @@
           "qid": 13,
           "ques": "5 ばん",
           "options": {
-            "1": "1",
-            "2": "2",
-            "3": "3",
-            "4": "4"
+            "1": "1　",
+            "2": "2　",
+            "3": "3　",
+            "4": "4　"
           },
           "answer": "",
           "expl": "",
@@ -183,10 +183,10 @@
           "qid": 14,
           "ques": "6 ばん",
           "options": {
-            "1": "1",
-            "2": "2",
-            "3": "3",
-            "4": "4"
+            "1": "1　",
+            "2": "2　",
+            "3": "3　",
+            "4": "4　"
           },
           "answer": "",
           "expl": "",
@@ -196,10 +196,10 @@
           "qid": 15,
           "ques": "7 ばん",
           "options": {
-            "1": "1",
-            "2": "2",
-            "3": "3",
-            "4": "4"
+            "1": "1　",
+            "2": "2　",
+            "3": "3　",
+            "4": "4　"
           },
           "answer": "",
           "expl": "",
@@ -212,11 +212,11 @@
       "questions": [
         {
           "qid": 16,
-          "ques": "1 ばん <img src=\"/images/jlpt/F132-6.web\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "ques": "1 ばん <img src=\"/images/jlpt/F261-31.webp\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
           "options": {
-            "1": "1",
-            "2": "2",
-            "3": "3"
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
           },
           "answer": "",
           "expl": "",
@@ -224,11 +224,11 @@
         },
         {
           "qid": 17,
-          "ques": "2 ばん <img src=\"/images/jlpt/F132-7.web\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "ques": "2 ばん <img src=\"/images/jlpt/F261-32.webp\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
           "options": {
-            "1": "1",
-            "2": "2",
-            "3": "3"
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
           },
           "answer": "",
           "expl": "",
@@ -236,11 +236,11 @@
         },
         {
           "qid": 18,
-          "ques": "3 ばん <img src=\"/images/jlpt/F132-8.web\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "ques": "3 ばん <img src=\"/images/jlpt/F261-33.webp\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
           "options": {
-            "1": "1",
-            "2": "2",
-            "3": "3"
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
           },
           "answer": "",
           "expl": "",
@@ -248,11 +248,11 @@
         },
         {
           "qid": 19,
-          "ques": "4 ばん <img src=\"/images/jlpt/F132-9.web\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "ques": "4 ばん <img src=\"/images/jlpt/F261-34.webp\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
           "options": {
-            "1": "1",
-            "2": "2",
-            "3": "3"
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
           },
           "answer": "",
           "expl": "",
@@ -260,11 +260,11 @@
         },
         {
           "qid": 20,
-          "ques": "5 ばん <img src=\"/images/jlpt/F132-10.web\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
+          "ques": "5 ばん <img src=\"/images/jlpt/F261-35.webp\" style=\"width:100%;max-width:370px;margin:0 auto;\" />",
           "options": {
-            "1": "1",
-            "2": "2",
-            "3": "3"
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
           },
           "answer": "",
           "expl": "",
@@ -279,9 +279,9 @@
           "qid": 21,
           "ques": "1 ばん",
           "options": {
-            "1": "1",
-            "2": "2",
-            "3": "3"
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
           },
           "answer": "",
           "expl": "",
@@ -291,9 +291,9 @@
           "qid": 22,
           "ques": "2 ばん",
           "options": {
-            "1": "1",
-            "2": "2",
-            "3": "3"
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
           },
           "answer": "",
           "expl": "",
@@ -303,9 +303,9 @@
           "qid": 23,
           "ques": "3 ばん",
           "options": {
-            "1": "1",
-            "2": "2",
-            "3": "3"
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
           },
           "answer": "",
           "expl": "",
@@ -315,9 +315,9 @@
           "qid": 24,
           "ques": "4 ばん",
           "options": {
-            "1": "1",
-            "2": "2",
-            "3": "3"
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
           },
           "answer": "",
           "expl": "",
@@ -327,9 +327,9 @@
           "qid": 25,
           "ques": "5 ばん",
           "options": {
-            "1": "1",
-            "2": "2",
-            "3": "3"
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
           },
           "answer": "",
           "expl": "",
@@ -339,9 +339,9 @@
           "qid": 26,
           "ques": "6 ばん",
           "options": {
-            "1": "1",
-            "2": "2",
-            "3": "3"
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
           },
           "answer": "",
           "expl": "",
@@ -351,9 +351,9 @@
           "qid": 27,
           "ques": "7 ばん",
           "options": {
-            "1": "1",
-            "2": "2",
-            "3": "3"
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
           },
           "answer": "",
           "expl": "",
@@ -363,9 +363,9 @@
           "qid": 28,
           "ques": "8 ばん",
           "options": {
-            "1": "1",
-            "2": "2",
-            "3": "3"
+            "1": "1　",
+            "2": "2　",
+            "3": "3　"
           },
           "answer": "",
           "expl": "",
@@ -381,15 +381,15 @@
     },
     {
       "pid": 1,
-      "passage": "問題2では、まず質問を聞いてください。そのあと、問題用紙を見てください。読む時間があります。それから話を聞いて、問題用紙の1から4の中から、正しい答えを一つえらんでください。"
+      "passage": ""
     },
     {
       "pid": 2,
-      "passage": "問題3では、えを見ながら質問を聞いてください。それから、正しい答えを 1から3の中から一つえらんでください。"
+      "passage": ""
     },
     {
       "pid": 3,
-      "passage": "問題4では、えなどがありません。まず文を聞いてください。それから、その返事を聞いて、1から3の中から、正しい答えを 一つえらんでください。"
+      "passage": ""
     }
   ]
 }

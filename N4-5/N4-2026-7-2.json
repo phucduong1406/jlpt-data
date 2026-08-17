@@ -1,0 +1,393 @@
+{
+  "level": "N4",
+  "exam_id": "N4-2026-7",
+  "sections": [
+    {
+      "sec": "問題1　（　）に　何を　入れますか。1・2・3・4から　いちばんいい　ものを　一つ　えらんでください。",
+      "questions": [
+        {
+          "qid": 1,
+          "ques": "<span class=\"q-number\">1</span>　<ruby>大雨<rt>おおあめ</rt></ruby>（　）、きのうは　テニスの　<ruby>練習<rt>れんしゅう</rt></ruby>が　できませんでした。",
+          "options": {
+            "1": "1　に",
+            "2": "2　は",
+            "3": "3　で",
+            "4": "4　を"
+          },
+          "answer": "3"
+        },
+        {
+          "qid": 2,
+          "ques": "<span class=\"q-number\">2</span>　（レストランで）<br/>父「いろんな　<ruby>料理<rt>りょうり</rt></ruby>が　あるね。どれが　食べたい？」<br/><ruby>娘<rt>むすめ</rt></ruby>「私は　カレー（　）する。」",
+          "options": {
+            "1": "1　に",
+            "2": "2　を",
+            "3": "3　が",
+            "4": "4　で"
+          },
+          "answer": "1"
+        },
+        {
+          "qid": 3,
+          "ques": "<span class=\"q-number\">3</span>　私は　この<ruby>映画<rt>えいが</rt></ruby>を　<ruby>映画館<rt>えいがかん</rt></ruby>で　10<ruby>回<rt>かい</rt></ruby>（　）見ました。",
+          "options": {
+            "1": "1　が",
+            "2": "2　も",
+            "3": "3　に",
+            "4": "4　で"
+          },
+          "answer": "2"
+        },
+        {
+          "qid": 4,
+          "ques": "<span class=\"q-number\">4</span>　私の　<ruby>家<rt>いえ</rt></ruby>は　小学校の　となりです。よく　子どもたちが　<ruby>歌<rt>うた</rt></ruby>っている（　）聞こえます。",
+          "options": {
+            "1": "1　を",
+            "2": "2　が",
+            "3": "3　のを",
+            "4": "4　のが"
+          },
+          "answer": "4"
+        },
+        {
+          "qid": 5,
+          "ques": "<span class=\"q-number\">5</span>　この　<ruby>町<rt>まち</rt></ruby>は、10年前は　人が　少ない　<ruby>静<rt>しず</rt></ruby>かな　<ruby>町<rt>まち</rt></ruby>でしたが、大きい　デパートや　大学などが　できて、（　）<ruby>変<rt>か</rt></ruby>わって　しまいました。",
+          "options": {
+            "1": "1　やっと",
+            "2": "2　すっかり",
+            "3": "3　もうすぐ",
+            "4": "4　そろそろ"
+          },
+          "answer": "2"
+        },
+        {
+          "qid": 6,
+          "ques": "<span class=\"q-number\">6</span>　（<ruby>道<rt>みち</rt></ruby>で）<br/>A「たくさん　<ruby>歩<rt>ある</rt></ruby>いたから、<ruby>疲<rt>つか</rt></ruby>れましたね。（　）少し　休みませんか。」<br/>B「そうしましょう。あの　きっさてんは　どうですか。」<br/>A「いいですね。」",
+          "options": {
+            "1": "1　どこで",
+            "2": "2　どこに",
+            "3": "3　どこかで",
+            "4": "4　どこかに"
+          },
+          "answer": "3"
+        },
+        {
+          "qid": 7,
+          "ques": "<span class=\"q-number\">7</span>　<ruby>東京<rt>とうきょう</rt></ruby>に　<ruby>住<rt>す</rt></ruby>んで　いる　3<ruby>年<rt>ねん</rt></ruby>の（　）に、私は　5<ruby>回<rt>かい</rt></ruby>　ひっこしを　しました。",
+          "options": {
+            "1": "1　まで",
+            "2": "2　くらい",
+            "3": "3　<ruby>中<rt>ちゅう</rt></ruby>",
+            "4": "4　<ruby>間<rt>あいだ</rt></ruby>"
+          },
+          "answer": "4"
+        },
+        {
+          "qid": 8,
+          "ques": "<span class=\"q-number\">8</span>　私は　<ruby>医者<rt>いしゃ</rt></ruby>に（　）ために、いっしょうけんめい　<ruby>勉強<rt>べんきょう</rt></ruby>して　います。",
+          "options": {
+            "1": "1　なる",
+            "2": "2　なり",
+            "3": "3　なれる",
+            "4": "4　なって"
+          },
+          "answer": "1"
+        },
+        {
+          "qid": 9,
+          "ques": "<span class=\"q-number\">9</span>　（けいたい<ruby>電話<rt>でんわ</rt></ruby>で）<br/><ruby>田中<rt>たなか</rt></ruby>「もしもし、<ruby>田中<rt>たなか</rt></ruby>です。リンさん、今　<ruby>大学<rt>だいがく</rt></ruby>に　いますか。」<br/>リン「いいえ。今　<ruby>家<rt>いえ</rt></ruby>に　<ruby>帰<rt>かえ</rt></ruby>って　きた（　）です。」",
+          "options": {
+            "1": "1　とき",
+            "2": "2　ほう",
+            "3": "3　こと",
+            "4": "4　ところ"
+          },
+          "answer": "4"
+        },
+        {
+          "qid": 10,
+          "ques": "<span class=\"q-number\">10</span>　<ruby>駅員<rt>えきいん</rt></ruby>が　きっぷの　<ruby>買<rt>か</rt></ruby>い<ruby>方<rt>かた</rt></ruby>を（　）<ruby>教<rt>おし</rt></ruby>えて　くれました。",
+          "options": {
+            "1": "1　ていねい",
+            "2": "2　ていねいな",
+            "3": "3　ていねいに",
+            "4": "4　ていねいで"
+          },
+          "answer": "3"
+        },
+        {
+          "qid": 11,
+          "ques": "<span class=\"q-number\">11</span>　<ruby>朝<rt>あさ</rt></ruby>、私は　いつも　バナナしか（　）。",
+          "options": {
+            "1": "1　食べます",
+            "2": "2　食べません",
+            "3": "3　食べることができます",
+            "4": "4　食べるかもしれません"
+          },
+          "answer": "2"
+        },
+        {
+          "qid": 12,
+          "ques": "<span class=\"q-number\">12</span>　<ruby>姉<rt>あね</rt></ruby>「<ruby>今度<rt>こんど</rt></ruby>の　お<ruby>母<rt>かあ</rt></ruby>さんの　たんじょうびに　何を（　）。」<br/><ruby>妹<rt>いもうと</rt></ruby>「さいふは　どう？　ほしいと言って　いたよ。」",
+          "options": {
+            "1": "1　プレゼントしようか",
+            "2": "2　プレゼントしたよ",
+            "3": "3　プレゼントしてね",
+            "4": "4　プレゼントしない"
+          },
+          "answer": "1"
+        },
+        {
+          "qid": 13,
+          "ques": "<span class=\"q-number\">13</span>　<ruby>山川<rt>やまかわ</rt></ruby>「キムさん、きのう　どうして　パーティーに（　）。」<br/>キム「<ruby>用事<rt>ようじ</rt></ruby>が　あって　行けませんでした。」",
+          "options": {
+            "1": "1　来たんですか",
+            "2": "2　来たからですか",
+            "3": "3　来なかったんですか",
+            "4": "4　来なかったからですか"
+          },
+          "answer": "3"
+        }
+      ]
+    },
+    {
+      "sec": "問題2　_★_に入る　ものは　どれですか。1・2・3・4から　いちばん　いい　ものを　一つ　えらんでください。",
+      "questions": [
+        {
+          "qid": 14,
+          "ques": "<span class=\"q-number\">14</span>　コンビニで、サラダと　たまご　___　___　_★_　___　ずつ　買いました。",
+          "options": {
+            "1": "1　二つ",
+            "2": "2　サンドイッチ",
+            "3": "3　を",
+            "4": "4　の"
+          },
+          "answer": "3"
+        },
+        {
+          "qid": 15,
+          "ques": "<span class=\"q-number\">15</span>　うちから　大学まで　歩いて行くと　30分　___　___　_★_　___　で　行けます。",
+          "options": {
+            "1": "1　なら",
+            "2": "2　かかりますが",
+            "3": "3　<ruby>自転車<rt>じてんしゃ</rt></ruby>",
+            "4": "4　10分"
+          },
+          "answer": "1"
+        },
+        {
+          "qid": 16,
+          "ques": "<span class=\"q-number\">16</span>　今日は、一年で　___　___　_★_　___　です。",
+          "options": {
+            "1": "1　<ruby>日<rt>ひ</rt></ruby>",
+            "2": "2　が",
+            "3": "3　<ruby>夜<rt>よる</rt></ruby>",
+            "4": "4　<ruby>最<rt>もっと</rt></ruby>も<ruby>長<rt>なが</rt></ruby>い"
+          },
+          "answer": "4"
+        },
+        {
+          "qid": 17,
+          "ques": "<span class=\"q-number\">17</span>　あとで　<ruby>飲<rt>の</rt></ruby>もうと　<ruby>思<rt>おも</rt></ruby>って　れいぞうこに　___　___　_★_　___　飲まれて　しまった。",
+          "options": {
+            "1": "1　入れて",
+            "2": "2　ジュースを",
+            "3": "3　<ruby>弟<rt>おとうと</rt></ruby>に",
+            "4": "4　おいた"
+          },
+          "answer": "2"
+        }
+      ]
+    },
+    {
+      "sec": "問題3　18から21に　何を　入れますか。文章の　意味を　考えて、1・2・3・4から　いちばん　いい　ものを　一つ　えらんで　ください。",
+      "questions": [
+        {
+          "qid": 18,
+          "ques": "<span class=\"q-number\">18</span>",
+          "options": {
+            "1": "1　行ったそうです",
+            "2": "2　行ったようです",
+            "3": "3　行きました",
+            "4": "4　行って　いました"
+          },
+          "answer": "3",
+          "pid": 0
+        },
+        {
+          "qid": 19,
+          "ques": "<span class=\"q-number\">19</span>",
+          "options": {
+            "1": "1　も",
+            "2": "2　は",
+            "3": "3　なら",
+            "4": "4　だけ"
+          },
+          "answer": "1",
+          "pid": 0
+        },
+        {
+          "qid": 20,
+          "ques": "<span class=\"q-number\">20</span>",
+          "options": {
+            "1": "1　でも",
+            "2": "2　それで",
+            "3": "3　とくに",
+            "4": "4　かならず"
+          },
+          "answer": "2",
+          "pid": 0
+        },
+        {
+          "qid": 21,
+          "ques": "<span class=\"q-number\">21</span>",
+          "options": {
+            "1": "1　のぼって　みたことです",
+            "2": "2　のぼって　みたのです",
+            "3": "3　のぼって　みたいからです",
+            "4": "4　のぼって　みたいです"
+          },
+          "answer": "4",
+          "pid": 0
+        }
+      ]
+    },
+    {
+      "sec": "問題4　つぎの（1）から（3）の文章を読んで、質問に答えてください。答えは、1・2・3・4から、いちばんいいものを一つえらんでください。",
+      "questions": [
+        {
+          "qid": 22,
+          "ques": "<span class=\"q-number\">22</span> <u><ruby>相談<rt>そうだん</rt></ruby>しましょう</u>とありますが、何を<ruby>相談<rt>そうだん</rt></ruby>しますか。",
+          "options": {
+            "1": "1　日本の<ruby>祭<rt>まつ</rt></ruby>りについて、いつの<ruby>授業<rt>じゅぎょう</rt></ruby>で<ruby>紹介<rt>しょうかい</rt></ruby>したいか",
+            "2": "2　日本の<ruby>祭<rt>まつ</rt></ruby>りについて、どこの<ruby>祭<rt>まつ</rt></ruby>りを<ruby>紹介<rt>しょうかい</rt></ruby>するか",
+            "3": "3　東京の<ruby>祭<rt>まつ</rt></ruby>りについて、どんなことを<ruby>紹介<rt>しょうかい</rt></ruby>するか",
+            "4": "4　東京の<ruby>祭<rt>まつ</rt></ruby>りについて、だれと一緒に<ruby>紹介<rt>しょうかい</rt></ruby>したいか"
+          },
+          "answer": "3",
+          "pid": 1
+        },
+        {
+          "qid": 23,
+          "ques": "<span class=\"q-number\">23</span> <u>少し<ruby>残念<rt>ざんねん</rt></ruby>でした</u>とありますが、どうしてですか。",
+          "options": {
+            "1": "1　バス<ruby>停<rt>てい</rt></ruby>へ行く道を日本語で伝えられなかったから",
+            "2": "2　バス<ruby>停<rt>てい</rt></ruby>へ行く道がわからなかったから",
+            "3": "3　おじいさんが<ruby>喜<rt>よろこ</rt></ruby>んでくれなかったから",
+            "4": "4　おじいさんの日本語がわからなかったから"
+          },
+          "answer": "1",
+          "pid": 2
+        },
+        {
+          "qid": 24,
+          "ques": "<span class=\"q-number\">24</span> このメモを読んで、ロンさんは、まず何をしなければなりませんか。",
+          "options": {
+            "1": "1　<ruby>荷物<rt>にもつ</rt></ruby>の料金がいくらか調べます。",
+            "2": "2　中村さんにお金をもらいます。",
+            "3": "3　<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>に<ruby>荷物<rt>にもつ</rt></ruby>を出しに行きます。",
+            "4": "4　中村さんにおつりとレシートを<ruby>渡<rt>わた</rt></ruby>します。"
+          },
+          "answer": "2",
+          "pid": 3
+        }
+      ]
+    },
+    {
+      "sec": "もんだい5　つぎの文章を読んで、質問に答えてください。答えは、1・2・3・4から、いちばんいいものを一つえらんでください。",
+      "questions": [
+        {
+          "qid": 25,
+          "ques": "<span class=\"q-number\">25</span> <u>母に言われたこと</u>とありますが、どんなことを言われましたか。",
+          "options": {
+            "1": "1　日本でいつも店で買って食べていると、お金がかかること",
+            "2": "2　日本に行ったら、料理を習ったほうがいいこと",
+            "3": "3　日本では、安いアパートに住んだほうがいいこと",
+            "4": "4　日本のコンビニの食べ物は、<ruby>種類<rt>しゅるい</rt></ruby>も多くておいしいこと"
+          },
+          "answer": "1",
+          "pid": 4
+        },
+        {
+          "qid": 26,
+          "ques": "<span class=\"q-number\">26</span> <ruby>最近<rt>さいきん</rt></ruby>、「私」は昼休みにどうしていますか。",
+          "options": {
+            "1": "1　一人で、コンビニで買った<ruby>弁当<rt>べんとう</rt></ruby>を食べています。",
+            "2": "2　一人で、自分で作った<ruby>弁当<rt>べんとう</rt></ruby>を食べています。",
+            "3": "3　山村さんと話しながら、コンビニで買った<ruby>弁当<rt>べんとう</rt></ruby>を食べています。",
+            "4": "4　山村さんと話しながら、自分で作った<ruby>弁当<rt>べんとう</rt></ruby>を食べています。"
+          },
+          "answer": "4",
+          "pid": 4
+        },
+        {
+          "qid": 27,
+          "ques": "<span class=\"q-number\">27</span> <u>ほかにもいいことがあった</u>とありますが、どんなことですか。",
+          "options": {
+            "1": "1　料理が上手になったこと",
+            "2": "2　日本人の<ruby>友達<rt>ともだち</rt></ruby>ができたこと",
+            "3": "3　お金をあまり使わなくなったこと",
+            "4": "4　国の料理が日本でも食べられること"
+          },
+          "answer": "2",
+          "pid": 4
+        }
+      ]
+    },
+    {
+      "sec": "もんだい6　右のページの「山の森ホテル」の案内を見て、下の質問に答えてください。答えは、1・2・3・4から、いちばんいいものを一つえらんでください。",
+      "questions": [
+        {
+          "qid": 28,
+          "ques": "<span class=\"q-number\">28</span> マイさんは今週の金曜日に、山の森ホテルに一人で<ruby>泊<rt>と</rt></ruby>まろうと思います。インターネットでシングルの<ruby>部屋<rt>へや</rt></ruby>を<ruby>予約<rt>よやく</rt></ruby>したら、いくらですか。",
+          "options": {
+            "1": "1　8,000円",
+            "2": "2　8,500円",
+            "3": "3　10,000円",
+            "4": "4　10,500円"
+          },
+          "answer": "3",
+          "pid": 5
+        },
+        {
+          "qid": 29,
+          "ques": "<span class=\"q-number\">29</span> 山の森ホテルに<ruby>泊<rt>と</rt></ruby>まる人が、お金を<ruby>払<rt>はら</rt></ruby>わないでできることは、どれですか。",
+          "options": {
+            "1": "1　ツインの<ruby>部屋<rt>へや</rt></ruby>でもう一つベッドを<ruby>借<rt>か</rt></ruby>りること",
+            "2": "2　ホテルの食堂で朝ご飯を食べること",
+            "3": "3　ホテルでパソコンを<ruby>借<rt>か</rt></ruby>りること",
+            "4": "4　ホテルのプールで<ruby>泳<rt>およ</rt></ruby>ぐこと"
+          },
+          "answer": "4",
+          "pid": 5
+        }
+      ]
+    }
+  ],
+  "passages": [
+    {
+      "pid": 0,
+      "passage": "<ruby>下<rt>した</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>は、<ruby>留学生<rt>りゅうがくせい</rt></ruby>の　<ruby>作文<rt>さくぶん</rt></ruby>です。<div style=\"line-height: 2; border: 1px solid #333; padding: 16px; margin: 12px 0;\"><center><b>さくら山</b></center><div style=\"text-align:right\">フク　ジーミン</div><ruby>先月<rt>せんげつ</rt></ruby>、ともだちと「さくら山」という　山に　のぼりました。日本で　山に　のぼるのは　<ruby>初<rt>はじ</rt></ruby>めてでした。<br/>さくら山の　<ruby>近<rt>ちか</rt></ruby>くまでは　<ruby>電車<rt>でんしゃ</rt></ruby>で　（　18　）。さくら山は　あまり　<ruby>高<rt>たか</rt></ruby>くない　山です。私たちは　<ruby>木<rt>き</rt></ruby>や　<ruby>花<rt>はな</rt></ruby>を　見ながら　のぼりました。とちゅうで　きれいな　<ruby>鳥<rt>とり</rt></ruby>（　19　）見ました。2時間ぐらいで　山の上に　<ruby>着<rt>つ</rt></ruby>きました。たくさん　<ruby>歩<rt>ある</rt></ruby>いたので、<ruby>疲<rt>つか</rt></ruby>れました。私たちは　お<ruby>茶<rt>ちゃ</rt></ruby>を　<ruby>飲<rt>の</rt></ruby>んで、休みました。（　20　）、少し　<ruby>元気<rt>げんき</rt></ruby>に　なりました。山の　上からは　<ruby>町<rt>まち</rt></ruby>が　見えて、けしきが　きれいでした。私たちは　たくさん　<ruby>写真<rt>しゃしん</rt></ruby>を　とりました。山を　おりた　あとで、<ruby>駅<rt>えき</rt></ruby>の　<ruby>近<rt>ちか</rt></ruby>くの　そば<ruby>屋<rt>や</rt></ruby>で　おいしい　そばを　食べました。<br/><br/>山に　のぼるのは　<ruby>本当<rt>ほんとう</rt></ruby>に　<ruby>気持<rt>きも</rt></ruby>ちが　よかったです。<ruby>別<rt>べつ</rt></ruby>の　山にも（　21　）。</div>"
+    },
+    {
+      "pid": 1,
+      "passage": "(1)<br/>これは、トゥーサンがクラスメートのフクさんに書いたメールです。<hr/>フクさん<br/><br/><ruby>熱<rt>ねつ</rt></ruby>が下がって、よかったですね。<br/>今日の<ruby>授業<rt>じゅぎょう</rt></ruby>は、日本の<ruby>祭<rt>まつ</rt></ruby>りについてでした。<br/><ruby>再来週<rt>さらいしゅう</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>では、グループで、日本のいろいろな場所の<ruby>祭<rt>まつ</rt></ruby>りを調べて<ruby>紹介<rt>しょうかい</rt></ruby>しなければなりません。<br/><br/>フクさんとメリーさんと私の3人は、東京の<ruby>祭<rt>まつ</rt></ruby>りについて話すことになりました。<br/>明日の昼休みに<u><ruby>相談<rt>そうだん</rt></ruby>しましょう</u>。<br/>お大事に。<br/>トゥー"
+    },
+    {
+      "pid": 2,
+      "passage": "(2)<br/><ruby>昨日<rt>きのう</rt></ruby>、道でおじいさんにバス<ruby>停<rt>てい</rt></ruby>へ行く道を聞かれました。私は、道は知っていましたが、日本語でうまく言えなかったので、一緒にバス<ruby>停<rt>てい</rt></ruby>まで行きました。おじいさんは<ruby>喜<rt>よろこ</rt></ruby>んでくれましたが、私は<u>少し<ruby>残念<rt>ざんねん</rt></ruby>でした</u>。<ruby>本当<rt>ほんとう</rt></ruby>は日本語で説明したかったのです。"
+    },
+    {
+      "pid": 3,
+      "passage": "(3)<br/>（会社で）ロンさんの机の上に、このメモと<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>置<rt>お</rt></ruby>いてあります。<hr/>ロンさん<br/><br/><ruby>郵便局<rt>ゆうびんきょく</rt></ruby>に行って、この<ruby>荷物<rt>にもつ</rt></ruby>を出してきてください。<br/>料金は1,500円ぐらいです。中村さんに、「ロンさんに2,000円<ruby>渡<rt>わた</rt></ruby>してください。」と言ってあるので、もらってから行ってください。<br/>おつりとレシートは中村さんに<ruby>渡<rt>わた</rt></ruby>してください。<br/>よろしくお<ruby>願<rt>ねが</rt></ruby>いします。<br/><br/><div style=\"text-align:right\">2月15日　10:30<br/>木田</div>"
+    },
+    {
+      "pid": 4,
+      "passage": "これはリンさんが書いた作文です。<hr/><center><b>母が言ってくれたこと</b></center><div style=\"text-align:right\">リン・ジーホン</div>私は今、日本の大学で勉強しています。日本に来る前、母に「これからは、料理ができたほうがいいよ。日本でいつも店で買った物を食べていると、お金がかかるからね。」と言われました。私は、料理が<ruby>全然<rt>ぜんぜん</rt></ruby>できなかったのです。それで、母に習って、<ruby>簡単<rt>かんたん</rt></ruby>な料理なら作れるようになりました。<br/><br/>今年の春から、日本でアパートに住んでいます。日本のコンビニの食べ物は<ruby>種類<rt>しゅるい</rt></ruby>も多くておいしいので、<ruby>最初<rt>さいしょ</rt></ruby>は毎日買って食べていました。それで、2か月で<ruby>本当<rt>ほんとう</rt></ruby>にお金が足りなくなってしまいました。私は<u>母に言われたこと</u>を<ruby>忘<rt>わす</rt></ruby>れていたのです。3か月目からは、毎日料理をしています。<br/><br/>先月、教室で一人で<ruby>弁当<rt>べんとう</rt></ruby>を食べていたとき、日本人の学生に「いいにおいですね。何を食べているんですか。」と聞かれました。それで、<ruby>弁当<rt>べんとう</rt></ruby>に入れていた国の料理の説明をして、一緒に楽しく話をしました。山村さんという学生でした。今は、昼休みにはいつも山村さんとおしゃべりをしながら、<ruby>弁当<rt>べんとう</rt></ruby>を食べています。初めてできた日本人の<ruby>友達<rt>ともだち</rt></ruby>です。<ruby>友達<rt>ともだち</rt></ruby>になれたのは、料理ができたからだと思います。<br/><br/>母は、料理ができるとお金がかからなくていいと言いましたが、私には<u>ほかにもいいことがあった</u>のです。"
+    },
+    {
+      "pid": 5,
+      "passage": "<div style=\"line-height:2;\"><center><b>山の森ホテル</b></center><center>土田市前田町1-23（前田駅から歩いて2分）</center><center>電話：012-9797-1406　　FAX：01-9797-1406</center><center>ホームページ：http://www.yamamorifuku.com/</center>インターネットで<ruby>予約<rt>よやく</rt></ruby>すること<table style=\"width:100%;border-collapse:collapse;text-align:center;\"><tr><th rowspan=\"2\" style=\"border:1px solid #333;\"><ruby>部屋<rt>へや</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby></th><th colspan=\"2\" style=\"border:1px solid #333;\">泊まる曜日</th></tr><tr><th style=\"border:1px solid #333;\">日曜日〜木曜日</th><th style=\"border:1px solid #333;\">金曜日・土曜日</th></tr><tr><td style=\"border:1px solid #333;\">シングル</td><td style=\"border:1px solid #333;\">8,000円</td><td style=\"border:1px solid #333;\">10,000円</td></tr><tr><td style=\"border:1px solid #333;\">ツイン</td><td style=\"border:1px solid #333;\">14,000円</td><td style=\"border:1px solid #333;\">16,000円</td></tr></table>電話で<ruby>予約<rt>よやく</rt></ruby>すること<table style=\"width:100%;border-collapse:collapse;text-align:center;\"><tr><th rowspan=\"2\" style=\"border:1px solid #333;\"><ruby>部屋<rt>へや</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby></th><th colspan=\"2\" style=\"border:1px solid #333;\">泊まる曜日</th></tr><tr><th style=\"border:1px solid #333;\">日曜日〜木曜日</th><th style=\"border:1px solid #333;\">金曜日・土曜日</th></tr><tr><td style=\"border:1px solid #333;\">シングル</td><td style=\"border:1px solid #333;\">8,500円</td><td style=\"border:1px solid #333;\">10,500円</td></tr><tr><td style=\"border:1px solid #333;\">ツイン</td><td style=\"border:1px solid #333;\">14,500円</td><td style=\"border:1px solid #333;\">16,500円</td></tr></table><ul><li>ツインの<ruby>部屋<rt>へや</rt></ruby>にもう1台ベッドを入れて、3人で<ruby>泊<rt>と</rt></ruby>まれます。ベッド1台の料金は1<ruby>晩<rt>ばん</rt></ruby>3,000円です。</li><li>ホテルの食堂で朝ご飯が食べられます。1人1,000円で、<ruby>和食<rt>わしょく</rt></ruby>と<ruby>洋食<rt>ようしょく</rt></ruby>が<ruby>選<rt>えら</rt></ruby>べます。</li><li><ruby>全部<rt>ぜんぶ</rt></ruby>の部屋で、インターネットをただで利用できます。パソコンは受付で借りられます。12時間1,000円です。</li><li>ホテルにはプールがあります。ホテルに泊まっている人は、ただで利用できます。泊まっていない人も1日2,000円で利用できます。</li></ul></div>"
+    }
+  ]
+}
